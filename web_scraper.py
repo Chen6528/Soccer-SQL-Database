@@ -38,4 +38,25 @@ teams = ['Manchester City', 'Arsenal FC', 'Chelsea FC', 'Liverpool FC', 'Tottenh
 for url in links:
     page = requests.get(url, headers=header)
     soup = BeautifulSoup(page.content, 'html.parser')
+
+    players_name = soup.find_all("img", {"class": "bilderrahmen-fixed lazy lazy"})
+    players_age = soup.find_all("td", {"class": "zentriert"})
+    players_nationality = soup.find_all("td", {"class": "zentriert"})
+    players_value = soup.find_all("td", {"class": "rechts hauptlink"})
+    players_position = soup.select("td.posrela td:not([class])")
+    players_team = teams[count]
+
+    for i in range (0, len(players_name)):
+        PlayerList.append(str(players_name[i]).split('" class', 1)[0].split('<img alt="', 1)[1])
+        TeamsList.append(teams[count])
     
+    for i in range (1, len(players_name)*3, 3):
+        AgeList.append(str(players_age[i]).split("(",1)[1].split(")", 1)[0])
+    for td in players_position:
+        position = td.get_text(strip=True)
+        if position: 
+            PositionsList.append(position)
+    for i in range (2, len(players_name)*3, 3):
+        NationList.append(str(players_nationality[i]).split('title="', 1)[1].split('"/', 1)[0])
+    
+    count+=1 #change team name after each
