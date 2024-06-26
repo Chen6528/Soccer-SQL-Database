@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import links
+from links import urls
 from functions import *
 
 '''
@@ -36,7 +36,7 @@ teams = ['Manchester City', 'Arsenal FC', 'Chelsea FC', 'Liverpool FC', 'Tottenh
          'Borrusia Monchengladbach', 'TSG 1899 Hoffenheim', 'FC Union Berline', 'FSV Mainz 05', 'FC Augsburg', 'SV Werder Bremen', 'FC Koln', 'FC Heidenheim 1846',
          'VfL Bochum', 'SV Darmstadt 98']
 
-for url in links:
+for url in urls:
     page = requests.get(url, headers=header)
     soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -65,6 +65,8 @@ for url in links:
         if euro_value != '-':
             usd_value = convert_to_usd(euro_value)
             ValuesList.append(float(usd_value))
+        else:
+            ValuesList.append(0)
     count+=1 #change team name after each
 
 final_df = pd.DataFrame({
@@ -76,6 +78,5 @@ final_df = pd.DataFrame({
             "Value": ValuesList
 })
 
-print(len(PlayerList))
 
 final_df.to_csv('player_info_table.csv', index=False)

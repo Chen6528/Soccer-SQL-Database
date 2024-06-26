@@ -1,0 +1,2600 @@
+Player,Age,Position,Nation,Team,Value
+Ederson,30,Goalkeeper,Brazil,Manchester City,37.45
+Stefan Ortega,31,Goalkeeper,Germany,Manchester City,9.63
+Scott Carson,38,Goalkeeper,England,Manchester City,0.21
+Rúben Dias,27,Centre-Back,Portugal,Manchester City,85.6
+Manuel Akanji,28,Centre-Back,Switzerland,Manchester City,48.15
+Nathan Aké,29,Centre-Back,Netherlands,Manchester City,42.8
+John Stones,30,Centre-Back,England,Manchester City,40.66
+Taylor Harwood-Bellis,22,Centre-Back,England,Manchester City,23.54
+Josko Gvardiol,22,Left-Back,Croatia,Manchester City,80.25
+Sergio Gómez,23,Left-Back,Spain,Manchester City,10.7
+Josh Wilson-Esbrand,21,Left-Back,England,Manchester City,4.28
+Rico Lewis,19,Right-Back,England,Manchester City,40.66
+Kyle Walker,34,Right-Back,England,Manchester City,13.91
+Issa Kaboré,23,Right-Back,Burkina Faso,Manchester City,10.7
+Rodri,28,Defensive Midfield,Spain,Manchester City,128.4
+Matheus Nunes,25,Central Midfield,Portugal,Manchester City,53.5
+Mateo Kovacic,30,Central Midfield,Croatia,Manchester City,32.1
+James McAtee,21,Central Midfield,England,Manchester City,12.84
+Bernardo Silva,29,Attacking Midfield,Portugal,Manchester City,74.9
+Kevin De Bruyne,32,Attacking Midfield,Belgium,Manchester City,53.5
+Jérémy Doku,22,Left Winger,Belgium,Manchester City,69.55
+Jack Grealish,28,Left Winger,England,Manchester City,64.2
+Phil Foden,24,Right Winger,England,Manchester City,160.5
+Oscar Bobb,20,Right Winger,Norway,Manchester City,26.75
+Erling Haaland,23,Centre-Forward,Norway,Manchester City,192.6
+Julián Álvarez,24,Centre-Forward,Argentina,Manchester City,96.3
+David Raya,28,Goalkeeper,Spain,Arsenal FC,37.45
+Aaron Ramsdale,26,Goalkeeper,England,Arsenal FC,26.75
+Karl Hein,22,Goalkeeper,Estonia,Arsenal FC,2.14
+Arthur Okonkwo,22,Goalkeeper,England,Arsenal FC,1.93
+William Saliba,23,Centre-Back,France,Arsenal FC,85.6
+Gabriel Magalhães,26,Centre-Back,Brazil,Arsenal FC,74.9
+Jurrien Timber,23,Centre-Back,Netherlands,Arsenal FC,40.66
+Oleksandr Zinchenko,27,Left-Back,Ukraine,Arsenal FC,40.66
+Jakub Kiwior,24,Left-Back,Poland,Arsenal FC,32.1
+Ben White,26,Right-Back,England,Arsenal FC,58.85
+Takehiro Tomiyasu,25,Right-Back,Japan,Arsenal FC,37.45
+Cédric Soares,32,Right-Back,Portugal,Arsenal FC,2.14
+Declan Rice,25,Defensive Midfield,England,Arsenal FC,128.4
+Thomas Partey,31,Defensive Midfield,Ghana,Arsenal FC,19.26
+Jorginho,32,Defensive Midfield,Italy,Arsenal FC,12.84
+Mohamed Elneny,31,Defensive Midfield,Egypt,Arsenal FC,3.75
+Albert Sambi Lokonga,24,Central Midfield,Belgium,Arsenal FC,16.05
+Martin Ødegaard,25,Attacking Midfield,Norway,Arsenal FC,117.7
+Kai Havertz,25,Attacking Midfield,Germany,Arsenal FC,74.9
+Emile Smith Rowe,23,Attacking Midfield,England,Arsenal FC,23.54
+Fábio Vieira,24,Attacking Midfield,Portugal,Arsenal FC,23.54
+Gabriel Martinelli,23,Left Winger,Brazil,Arsenal FC,74.9
+Leandro Trossard,29,Left Winger,Belgium,Arsenal FC,37.45
+Bukayo Saka,22,Right Winger,England,Arsenal FC,149.8
+Reiss Nelson,24,Right Winger,England,Arsenal FC,16.05
+Gabriel Jesus,27,Centre-Forward,Brazil,Arsenal FC,69.55
+Eddie Nketiah,25,Centre-Forward,England,Arsenal FC,32.1
+Robert Sánchez,26,Goalkeeper,Spain,Chelsea FC,21.4
+Djordje Petrovic,24,Goalkeeper,Serbia,Chelsea FC,21.4
+Marcus Bettinelli,32,Goalkeeper,England,Chelsea FC,1.07
+Lucas Bergström,21,Goalkeeper,Finland,Chelsea FC,0.75
+Levi Colwill,21,Centre-Back,England,Chelsea FC,53.5
+Axel Disasi,26,Centre-Back,France,Chelsea FC,42.8
+Benoît Badiashile,23,Centre-Back,France,Chelsea FC,32.1
+Wesley Fofana,23,Centre-Back,France,Chelsea FC,26.75
+Trevoh Chalobah,24,Centre-Back,England,Chelsea FC,13.91
+Alfie Gilchrist,20,Centre-Back,England,Chelsea FC,5.35
+Malang Sarr,25,Centre-Back,France,Chelsea FC,4.28
+Thiago Silva,39,Centre-Back,Brazil,Chelsea FC,1.07
+Ben Chilwell,27,Left-Back,England,Chelsea FC,29.96
+Marc Cucurella,25,Left-Back,Spain,Chelsea FC,26.75
+Reece James,24,Right-Back,England,Chelsea FC,42.8
+Malo Gusto,21,Right-Back,France,Chelsea FC,37.45
+Moisés Caicedo,22,Defensive Midfield,Ecuador,Chelsea FC,80.25
+Roméo Lavia,20,Defensive Midfield,Belgium,Chelsea FC,37.45
+Lesley Ugochukwu,20,Defensive Midfield,France,Chelsea FC,26.75
+Enzo Fernández,23,Central Midfield,Argentina,Chelsea FC,80.25
+Conor Gallagher,24,Central Midfield,England,Chelsea FC,53.5
+Carney Chukwuemeka,20,Central Midfield,England,Chelsea FC,16.05
+Cesare Casadei,21,Central Midfield,Italy,Chelsea FC,10.7
+Cole Palmer,22,Attacking Midfield,England,Chelsea FC,85.6
+Christopher Nkunku,26,Attacking Midfield,France,Chelsea FC,69.55
+Raheem Sterling,29,Left Winger,England,Chelsea FC,37.45
+Mykhaylo Mudryk,23,Left Winger,Ukraine,Chelsea FC,37.45
+Diego Moreira,19,Left Winger,Portugal,Chelsea FC,3.21
+Noni Madueke,22,Right Winger,England,Chelsea FC,29.96
+Nicolas Jackson,23,Centre-Forward,Senegal,Chelsea FC,37.45
+Armando Broja,22,Centre-Forward,Albania,Chelsea FC,23.54
+David Datro Fofana,21,Centre-Forward,Cote d'Ivoire,Chelsea FC,12.84
+Deivid Washington,19,Centre-Forward,Brazil,Chelsea FC,9.63
+Alisson,31,Goalkeeper,Brazil,Liverpool FC,29.96
+Caoimhín Kelleher,25,Goalkeeper,Ireland,Liverpool FC,21.4
+Adrián,37,Goalkeeper,Spain,Liverpool FC,0.64
+Ibrahima Konaté,25,Centre-Back,France,Liverpool FC,48.15
+Virgil van Dijk,32,Centre-Back,Netherlands,Liverpool FC,32.1
+Joe Gomez,27,Centre-Back,England,Liverpool FC,29.96
+Jarell Quansah,21,Centre-Back,England,Liverpool FC,23.54
+Joel Matip,32,Centre-Back,Cameroon,Liverpool FC,8.56
+Nathaniel Phillips,27,Centre-Back,England,Liverpool FC,3.75
+Rhys Williams,23,Centre-Back,England,Liverpool FC,1.93
+Andrew Robertson,30,Left-Back,Scotland,Liverpool FC,32.1
+Konstantinos Tsimikas,28,Left-Back,Greece,Liverpool FC,23.54
+Trent Alexander-Arnold,25,Right-Back,England,Liverpool FC,74.9
+Conor Bradley,20,Right-Back,Northern Ireland,Liverpool FC,16.05
+Calvin Ramsay,20,Right-Back,Scotland,Liverpool FC,4.28
+Wataru Endo,31,Defensive Midfield,Japan,Liverpool FC,13.91
+Stefan Bajcetic,19,Defensive Midfield,Spain,Liverpool FC,11.77
+Dominik Szoboszlai,23,Central Midfield,Hungary,Liverpool FC,80.25
+Alexis Mac Allister,25,Central Midfield,Argentina,Liverpool FC,80.25
+Curtis Jones,23,Central Midfield,England,Liverpool FC,37.45
+Harvey Elliott,21,Central Midfield,England,Liverpool FC,37.45
+Ryan Gravenberch,22,Central Midfield,Netherlands,Liverpool FC,37.45
+Thiago,33,Central Midfield,Spain,Liverpool FC,10.7
+Bobby Clark,19,Central Midfield,England,Liverpool FC,1.07
+Fábio Carvalho,21,Attacking Midfield,Portugal,Liverpool FC,14.98
+Luis Díaz,27,Left Winger,Colombia,Liverpool FC,80.25
+Cody Gakpo,25,Left Winger,Netherlands,Liverpool FC,53.5
+Diogo Jota,27,Left Winger,Portugal,Liverpool FC,53.5
+Mohamed Salah,32,Right Winger,Egypt,Liverpool FC,58.85
+Ben Doak,18,Right Winger,Scotland,Liverpool FC,10.7
+Darwin Núñez,25,Centre-Forward,Uruguay,Liverpool FC,74.9
+Guglielmo Vicario,27,Goalkeeper,Italy,Tottenham Hotspur,37.45
+Fraser Forster,36,Goalkeeper,England,Tottenham Hotspur,1.28
+Brandon Austin,25,Goalkeeper,England,Tottenham Hotspur,0.64
+Alfie Whiteman,25,Goalkeeper,England,Tottenham Hotspur,0.54
+Cristian Romero,26,Centre-Back,Argentina,Tottenham Hotspur,64.2
+Micky van de Ven,23,Centre-Back,Netherlands,Tottenham Hotspur,58.85
+Radu Drăgușin,22,Centre-Back,Romania,Tottenham Hotspur,26.75
+Joe Rodon,26,Centre-Back,Wales,Tottenham Hotspur,8.56
+Ashley Phillips,19,Centre-Back,England,Tottenham Hotspur,2.35
+Japhet Tanganga,25,Centre-Back,England,Tottenham Hotspur,1.93
+Destiny Udogie,21,Left-Back,Italy,Tottenham Hotspur,48.15
+Sergio Reguilón,27,Left-Back,Spain,Tottenham Hotspur,12.84
+Ben Davies,31,Left-Back,Wales,Tottenham Hotspur,10.7
+Pedro Porro,24,Right-Back,Spain,Tottenham Hotspur,48.15
+Emerson Royal,25,Right-Back,Brazil,Tottenham Hotspur,19.26
+Yves Bissouma,27,Defensive Midfield,Mali,Tottenham Hotspur,37.45
+Pierre-Emile Højbjerg,28,Defensive Midfield,Denmark,Tottenham Hotspur,19.26
+Oliver Skipp,23,Defensive Midfield,England,Tottenham Hotspur,16.05
+Pape Matar Sarr,21,Central Midfield,Senegal,Tottenham Hotspur,48.15
+Rodrigo Bentancur,27,Central Midfield,Uruguay,Tottenham Hotspur,37.45
+Ryan Sessegnon,24,Left Midfield,England,Tottenham Hotspur,10.7
+James Maddison,27,Attacking Midfield,England,Tottenham Hotspur,74.9
+Giovani Lo Celso,28,Attacking Midfield,Argentina,Tottenham Hotspur,17.12
+Heung-min Son,31,Left Winger,South Korea,Tottenham Hotspur,48.15
+Bryan Gil,23,Left Winger,Spain,Tottenham Hotspur,14.98
+Manor Solomon,24,Left Winger,Israel,Tottenham Hotspur,13.91
+Dejan Kulusevski,24,Right Winger,Sweden,Tottenham Hotspur,58.85
+Brennan Johnson,23,Right Winger,Wales,Tottenham Hotspur,51.36
+Richarlison,27,Centre-Forward,Brazil,Tottenham Hotspur,40.66
+Timo Werner,28,Centre-Forward,Germany,Tottenham Hotspur,18.19
+André Onana,28,Goalkeeper,Cameroon,Manchester United,37.45
+Altay Bayındır,26,Goalkeeper,Türkiye,Manchester United,10.7
+Tom Heaton,38,Goalkeeper,England,Manchester United,0.27
+Lisandro Martínez,26,Centre-Back,Argentina,Manchester United,48.15
+Raphaël Varane,31,Centre-Back,France,Manchester United,21.4
+Harry Maguire,31,Centre-Back,England,Manchester United,19.26
+Victor Lindelöf,29,Centre-Back,Sweden,Manchester United,16.05
+Willy Kambwala,19,Centre-Back,France,Manchester United,5.35
+Jonny Evans,36,Centre-Back,Northern Ireland,Manchester United,2.14
+Luke Shaw,28,Left-Back,England,Manchester United,34.24
+Tyrell Malacia,24,Left-Back,Netherlands,Manchester United,19.26
+Brandon Williams,23,Left-Back,England,Manchester United,2.67
+Diogo Dalot,25,Right-Back,Portugal,Manchester United,37.45
+Aaron Wan-Bissaka,26,Right-Back,England,Manchester United,21.4
+Scott McTominay,27,Defensive Midfield,Scotland,Manchester United,34.24
+Sofyan Amrabat,27,Defensive Midfield,Morocco,Manchester United,23.54
+Casemiro,32,Defensive Midfield,Brazil,Manchester United,21.4
+Kobbie Mainoo,19,Central Midfield,England,Manchester United,53.5
+Christian Eriksen,32,Central Midfield,Denmark,Manchester United,8.56
+Daniel Gore,19,Central Midfield,England,Manchester United,0.96
+Bruno Fernandes,29,Attacking Midfield,Portugal,Manchester United,74.9
+Mason Mount,25,Attacking Midfield,England,Manchester United,37.45
+Shola Shoretire,20,Attacking Midfield,England,Manchester United,4.28
+Marcus Rashford,26,Left Winger,England,Manchester United,64.2
+Alejandro Garnacho,19,Left Winger,Argentina,Manchester United,48.15
+Antony,24,Right Winger,Brazil,Manchester United,26.75
+Amad Diallo,21,Right Winger,Cote d'Ivoire,Manchester United,19.26
+Omari Forson,19,Right Winger,England,Manchester United,2.14
+Rasmus Højlund,21,Centre-Forward,Denmark,Manchester United,69.55
+Anthony Martial,28,Centre-Forward,France,Manchester United,10.7
+Emiliano Martínez,31,Goalkeeper,Argentina,Aston Villa,29.96
+Joe Gauci,23,Goalkeeper,Australia,Aston Villa,1.6
+Robin Olsen,34,Goalkeeper,Sweden,Aston Villa,1.6
+Filip Marschall,21,Goalkeeper,England,Aston Villa,0.86
+Viljami Sinisalo,22,Goalkeeper,Finland,Aston Villa,0.64
+Pau Torres,27,Centre-Back,Spain,Aston Villa,48.15
+Ezri Konsa,26,Centre-Back,England,Aston Villa,37.45
+Diego Carlos,31,Centre-Back,Brazil,Aston Villa,17.12
+Tyrone Mings,31,Centre-Back,England,Aston Villa,13.91
+Clément Lenglet,29,Centre-Back,France,Aston Villa,10.7
+Calum Chambers,29,Centre-Back,England,Aston Villa,4.28
+Kortney Hause,28,Centre-Back,England,Aston Villa,2.14
+Álex Moreno,31,Left-Back,Spain,Aston Villa,13.91
+Lucas Digne,30,Left-Back,France,Aston Villa,12.84
+Lino Sousa,19,Left-Back,England,Aston Villa,2.14
+Matty Cash,26,Right-Back,Poland,Aston Villa,29.96
+Kaine Kesler-Hayden,21,Right-Back,England,Aston Villa,2.35
+Boubacar Kamara,24,Defensive Midfield,France,Aston Villa,40.66
+Douglas Luiz,26,Central Midfield,Brazil,Aston Villa,74.9
+John McGinn,29,Central Midfield,Scotland,Aston Villa,32.1
+Youri Tielemans,27,Central Midfield,Belgium,Aston Villa,26.75
+Tim Iroegbunam,20,Central Midfield,England,Aston Villa,4.28
+Jacob Ramsey,23,Attacking Midfield,England,Aston Villa,37.45
+Nicolò Zaniolo,24,Attacking Midfield,Italy,Aston Villa,21.4
+Morgan Rogers,21,Left Winger,England,Aston Villa,16.05
+Moussa Diaby,24,Right Winger,France,Aston Villa,58.85
+Leon Bailey,26,Right Winger,Jamaica,Aston Villa,44.94
+Emiliano Buendía,27,Right Winger,Argentina,Aston Villa,23.54
+Ollie Watkins,28,Centre-Forward,England,Aston Villa,69.55
+Jhon Durán,20,Centre-Forward,Colombia,Aston Villa,21.4
+Nick Pope,32,Goalkeeper,England,Newcastle United,17.12
+Martin Dúbravka,35,Goalkeeper,Slovakia,Newcastle United,1.07
+Loris Karius,31,Goalkeeper,Germany,Newcastle United,1.07
+Mark Gillespie,32,Goalkeeper,England,Newcastle United,0.32
+Sven Botman,24,Centre-Back,Netherlands,Newcastle United,48.15
+Fabian Schär,32,Centre-Back,Switzerland,Newcastle United,10.7
+Jamaal Lascelles,30,Centre-Back,England,Newcastle United,7.49
+Paul Dummett,32,Centre-Back,Wales,Newcastle United,0.96
+Kell Watts,24,Centre-Back,England,Newcastle United,0.27
+Lewis Hall,19,Left-Back,England,Newcastle United,19.26
+Matt Targett,28,Left-Back,England,Newcastle United,10.7
+Dan Burn,32,Left-Back,England,Newcastle United,8.56
+Jamal Lewis,26,Left-Back,Northern Ireland,Newcastle United,3.75
+Tino Livramento,21,Right-Back,England,Newcastle United,37.45
+Kieran Trippier,33,Right-Back,England,Newcastle United,10.7
+Emil Krafth,29,Right-Back,Sweden,Newcastle United,2.67
+Harrison Ashby,22,Right-Back,Scotland,Newcastle United,1.28
+Bruno Guimarães,26,Defensive Midfield,Brazil,Newcastle United,90.95
+Sandro Tonali,24,Defensive Midfield,Italy,Newcastle United,40.66
+Isaac Hayden,29,Defensive Midfield,England,Newcastle United,1.93
+Joelinton,27,Central Midfield,Brazil,Newcastle United,42.8
+Joe Willock,24,Central Midfield,England,Newcastle United,32.1
+Sean Longstaff,26,Central Midfield,England,Newcastle United,26.75
+Lewis Miley,18,Central Midfield,England,Newcastle United,23.54
+Elliot Anderson,21,Central Midfield,Scotland,Newcastle United,16.05
+Jeff Hendrick,32,Central Midfield,Ireland,Newcastle United,0.54
+Matt Ritchie,34,Right Midfield,Scotland,Newcastle United,1.07
+Anthony Gordon,23,Left Winger,England,Newcastle United,64.2
+Harvey Barnes,26,Left Winger,England,Newcastle United,37.45
+Ryan Fraser,30,Left Winger,Scotland,Newcastle United,3.21
+Miguel Almirón,30,Right Winger,Paraguay,Newcastle United,21.4
+Jacob Murphy,29,Right Winger,England,Newcastle United,16.05
+Alexander Isak,24,Centre-Forward,Sweden,Newcastle United,80.25
+Callum Wilson,32,Centre-Forward,England,Newcastle United,13.91
+Dean Henderson,27,Goalkeeper,England,Crystal Palace,12.84
+Sam Johnstone,31,Goalkeeper,England,Crystal Palace,10.7
+Joe Whitworth,20,Goalkeeper,England,Crystal Palace,1.07
+Remi Matthews,30,Goalkeeper,England,Crystal Palace,0.54
+Marc Guéhi,23,Centre-Back,England,Crystal Palace,40.66
+Joachim Andersen,28,Centre-Back,Denmark,Crystal Palace,37.45
+Chris Richards,24,Centre-Back,United States,Crystal Palace,12.84
+Rob Holding,28,Centre-Back,England,Crystal Palace,5.35
+Nathan Ferguson,23,Centre-Back,England,Crystal Palace,1.07
+James Tomkins,35,Centre-Back,England,Crystal Palace,0.75
+Tyrick Mitchell,24,Left-Back,England,Crystal Palace,26.75
+Daniel Muñoz,28,Right-Back,Colombia,Crystal Palace,19.26
+Nathaniel Clyne,33,Right-Back,England,Crystal Palace,1.6
+Joel Ward,34,Right-Back,England,Crystal Palace,1.07
+Cheick Doucouré,24,Defensive Midfield,Mali,Crystal Palace,37.45
+Adam Wharton,20,Defensive Midfield,England,Crystal Palace,32.1
+Jefferson Lerma,29,Defensive Midfield,Colombia,Crystal Palace,21.4
+Jairo Riedewald,27,Defensive Midfield,Netherlands,Crystal Palace,3.21
+Will Hughes,29,Central Midfield,England,Crystal Palace,9.63
+Naouirou Ahamada,22,Central Midfield,France,Crystal Palace,8.56
+Jeffrey Schlupp,31,Left Midfield,Ghana,Crystal Palace,7.49
+Eberechi Eze,25,Attacking Midfield,England,Crystal Palace,58.85
+Matheus França,20,Attacking Midfield,Brazil,Crystal Palace,16.05
+Michael Olise,22,Right Winger,France,Crystal Palace,58.85
+Jesurun Rak-Sakyi,21,Right Winger,England,Crystal Palace,2.14
+Jean-Philippe Mateta,26,Centre-Forward,France,Crystal Palace,21.4
+Odsonne Edouard,26,Centre-Forward,France,Crystal Palace,19.26
+Jordan Ayew,32,Centre-Forward,Ghana,Crystal Palace,4.28
+Alphonse Areola,31,Goalkeeper,France,West Ham United,10.7
+Lukasz Fabianski,39,Goalkeeper,Poland,West Ham United,0.75
+Joseph Anang,24,Goalkeeper,England,West Ham United,0.32
+Nayef Aguerd,28,Centre-Back,Morocco,West Ham United,37.45
+Kurt Zouma,29,Centre-Back,France,West Ham United,26.75
+Konstantinos Mavropanos,26,Centre-Back,Greece,West Ham United,21.4
+Angelo Ogbonna,36,Centre-Back,Italy,West Ham United,0.75
+Emerson,29,Left-Back,Italy,West Ham United,12.84
+Aaron Cresswell,34,Left-Back,England,West Ham United,0.96
+Ben Johnson,24,Right-Back,England,West Ham United,8.56
+Vladimír Coufal,31,Right-Back,Czech Republic,West Ham United,8.56
+Edson Álvarez,26,Defensive Midfield,Mexico,West Ham United,37.45
+Tomas Soucek,29,Defensive Midfield,Czech Republic,West Ham United,32.1
+Kalvin Phillips,28,Defensive Midfield,England,West Ham United,26.75
+Flynn Downes,25,Defensive Midfield,England,West Ham United,9.63
+James Ward-Prowse,29,Central Midfield,England,West Ham United,32.1
+George Earthy,19,Central Midfield,England,West Ham United,1.07
+Lucas Paquetá,26,Attacking Midfield,Brazil,West Ham United,69.55
+Mohammed Kudus,23,Attacking Midfield,Ghana,West Ham United,53.5
+Maxwel Cornet,27,Left Winger,Cote d'Ivoire,West Ham United,9.63
+Jarrod Bowen,27,Right Winger,England,West Ham United,53.5
+Danny Ings,31,Centre-Forward,England,West Ham United,8.56
+Michail Antonio,34,Centre-Forward,Jamaica,West Ham United,4.28
+Callum Marshall,19,Centre-Forward,Northern Ireland,West Ham United,2.14
+Divin Mubama,19,Centre-Forward,England,West Ham United,1.07
+Mark Flekken,31,Goalkeeper,Netherlands,Brentford FC,12.84
+Thomas Strakosha,29,Goalkeeper,Albania,Brentford FC,3.21
+Hákon Rafn Valdimarsson,22,Goalkeeper,Iceland,Brentford FC,2.67
+Matthew Cox,21,Goalkeeper,England,Brentford FC,0.86
+Ellery Balcombe,24,Goalkeeper,England,Brentford FC,0.32
+Nathan Collins,23,Centre-Back,Ireland,Brentford FC,26.75
+Kristoffer Ajer,26,Centre-Back,Norway,Brentford FC,16.05
+Ethan Pinnock,31,Centre-Back,Jamaica,Brentford FC,12.84
+Zanka,34,Centre-Back,Denmark,Brentford FC,1.07
+Ben Mee,34,Centre-Back,England,Brentford FC,1.07
+Charlie Goode,28,Centre-Back,England,Brentford FC,0.54
+Rico Henry,26,Left-Back,England,Brentford FC,21.4
+Aaron Hickey,22,Right-Back,Scotland,Brentford FC,29.96
+Mads Roerslev,25,Right-Back,Denmark,Brentford FC,10.7
+Fin Stevens,21,Right-Back,Wales,Brentford FC,0.48
+Vitaly Janelt,26,Defensive Midfield,Germany,Brentford FC,23.54
+Christian Nørgaard,30,Defensive Midfield,Denmark,Brentford FC,19.26
+Yunus Emre Konak,18,Defensive Midfield,Türkiye,Brentford FC,3.75
+Mathias Jensen,28,Central Midfield,Denmark,Brentford FC,29.96
+Josh Dasilva,25,Central Midfield,England,Brentford FC,10.7
+Frank Onyeka,26,Central Midfield,Nigeria,Brentford FC,9.63
+Shandon Baptiste,26,Central Midfield,Grenada,Brentford FC,2.67
+Paris Maghoma,23,Central Midfield,England,Brentford FC,0.37
+Ryan Trevitt,21,Central Midfield,England,Brentford FC,0.29
+Yegor Yarmolyuk,20,Attacking Midfield,Ukraine,Brentford FC,10.7
+Saman Ghoddos,30,Attacking Midfield,Iran,Brentford FC,2.14
+Myles Peart-Harris,21,Attacking Midfield,Jamaica,Brentford FC,0.75
+Yoane Wissa,27,Left Winger,DR Congo,Brentford FC,29.96
+Keane Lewis-Potter,23,Left Winger,England,Brentford FC,16.05
+Mikkel Damsgaard,23,Left Winger,Denmark,Brentford FC,10.7
+Bryan Mbeumo,24,Right Winger,Cameroon,Brentford FC,42.8
+Kevin Schade,22,Right Winger,Germany,Brentford FC,23.54
+Ivan Toney,28,Centre-Forward,England,Brentford FC,53.5
+Neal Maupay,27,Centre-Forward,France,Brentford FC,12.84
+Matt Turner,30,Goalkeeper,United States,Nottingham Forest,7.49
+Odysseas Vlachodimos,30,Goalkeeper,Greece,Nottingham Forest,7.49
+Matz Sels,32,Goalkeeper,Belgium,Nottingham Forest,7.49
+Wayne Hennessey,37,Goalkeeper,Wales,Nottingham Forest,0.27
+Murillo,21,Centre-Back,Brazil,Nottingham Forest,37.45
+Moussa Niakhaté,28,Centre-Back,Senegal,Nottingham Forest,17.12
+Andrew Omobamidele,22,Centre-Back,Ireland,Nottingham Forest,11.77
+Willy Boly,33,Centre-Back,Cote d'Ivoire,Nottingham Forest,2.67
+Felipe,35,Centre-Back,Brazil,Nottingham Forest,1.6
+Nuno Tavares,24,Left-Back,Portugal,Nottingham Forest,16.05
+Harry Toffolo,28,Left-Back,England,Nottingham Forest,5.35
+Neco Williams,23,Right-Back,Wales,Nottingham Forest,18.19
+Ola Aina,27,Right-Back,Nigeria,Nottingham Forest,12.84
+Gonzalo Montiel,27,Right-Back,Argentina,Nottingham Forest,10.7
+Ibrahim Sangaré,26,Defensive Midfield,Cote d'Ivoire,Nottingham Forest,32.1
+Cheikhou Kouyaté,34,Defensive Midfield,Senegal,Nottingham Forest,1.07
+Danilo,23,Central Midfield,Brazil,Nottingham Forest,29.96
+Nicolás Domínguez,25,Central Midfield,Argentina,Nottingham Forest,18.19
+Ryan Yates,26,Central Midfield,England,Nottingham Forest,12.84
+Lewis O'Brien,25,Central Midfield,England,Nottingham Forest,5.35
+Harry Arter,34,Central Midfield,Ireland,Nottingham Forest,0.43
+Morgan Gibbs-White,24,Attacking Midfield,England,Nottingham Forest,42.8
+Giovanni Reyna,21,Attacking Midfield,United States,Nottingham Forest,19.26
+Brandon Aguilera,20,Attacking Midfield,Costa Rica,Nottingham Forest,0.32
+Callum Hudson-Odoi,23,Left Winger,England,Nottingham Forest,19.26
+Emmanuel Dennis,26,Left Winger,Nigeria,Nottingham Forest,4.49
+Alex Mighten,22,Left Winger,England,Nottingham Forest,0.64
+Anthony Elanga,22,Right Winger,Sweden,Nottingham Forest,23.54
+Josh Bowler,25,Right Winger,England,Nottingham Forest,1.6
+Taiwo Awoniyi,26,Centre-Forward,Nigeria,Nottingham Forest,29.96
+Chris Wood,32,Centre-Forward,New Zealand,Nottingham Forest,7.49
+Divock Origi,29,Centre-Forward,Belgium,Nottingham Forest,5.35
+Rodrigo Ribeiro,19,Centre-Forward,Portugal,Nottingham Forest,3.21
+Mark Travers,25,Goalkeeper,Ireland,AFC Bournemouth,3.75
+Andrei Radu,27,Goalkeeper,Romania,AFC Bournemouth,3.21
+Neto,34,Goalkeeper,Brazil,AFC Bournemouth,2.67
+Will Dennis,23,Goalkeeper,England,AFC Bournemouth,0.37
+Darren Randolph,37,Goalkeeper,Ireland,AFC Bournemouth,0.32
+Ilya Zabarnyi,21,Centre-Back,Ukraine,AFC Bournemouth,34.24
+Marcos Senesi,27,Centre-Back,Argentina,AFC Bournemouth,23.54
+Lloyd Kelly,25,Centre-Back,England,AFC Bournemouth,19.26
+Chris Mepham,26,Centre-Back,Wales,AFC Bournemouth,6.42
+James Hill,22,Centre-Back,England,AFC Bournemouth,2.14
+Milos Kerkez,20,Left-Back,Hungary,AFC Bournemouth,21.4
+Max Aarons,24,Right-Back,England,AFC Bournemouth,17.12
+Ryan Fredericks,31,Right-Back,England,AFC Bournemouth,1.07
+Adam Smith,33,Right-Back,England,AFC Bournemouth,1.07
+Tyler Adams,25,Defensive Midfield,United States,AFC Bournemouth,16.05
+Philip Billing,28,Central Midfield,Denmark,AFC Bournemouth,23.54
+Alex Scott,20,Central Midfield,England,AFC Bournemouth,21.4
+Lewis Cook,27,Central Midfield,England,AFC Bournemouth,12.84
+Joe Rothwell,29,Central Midfield,England,AFC Bournemouth,2.67
+Gavin Kilkenny,24,Central Midfield,Ireland,AFC Bournemouth,0.32
+Romain Faivre,25,Right Midfield,France,AFC Bournemouth,16.05
+Marcus Tavernier,25,Left Midfield,England,AFC Bournemouth,21.4
+Ryan Christie,29,Attacking Midfield,Scotland,AFC Bournemouth,12.84
+Emiliano Marcondes,29,Attacking Midfield,Denmark,AFC Bournemouth,1.6
+Dango Ouattara,22,Left Winger,Burkina Faso,AFC Bournemouth,21.4
+Luis Sinisterra,25,Left Winger,Colombia,AFC Bournemouth,18.19
+Justin Kluivert,25,Left Winger,Netherlands,AFC Bournemouth,14.98
+Jaidon Anthony,24,Left Winger,England,AFC Bournemouth,6.42
+Antoine Semenyo,24,Right Winger,Ghana,AFC Bournemouth,10.7
+David Brooks,26,Right Winger,Wales,AFC Bournemouth,8.56
+Dominic Solanke,26,Centre-Forward,England,AFC Bournemouth,42.8
+Enes Ünal,27,Centre-Forward,Türkiye,AFC Bournemouth,19.26
+Kieffer Moore,31,Centre-Forward,Wales,AFC Bournemouth,2.14
+Jamal Lowe,29,Centre-Forward,Jamaica,AFC Bournemouth,1.6
+José Sá,31,Goalkeeper,Portugal,Wolverhampton Wanderers FC,14.98
+Daniel Bentley,30,Goalkeeper,England,Wolverhampton Wanderers FC,2.14
+Louie Moulden,22,Goalkeeper,England,Wolverhampton Wanderers FC,0.21
+Tom King,29,Goalkeeper,Wales,Wolverhampton Wanderers FC,0.21
+Max Kilman,27,Centre-Back,England,Wolverhampton Wanderers FC,34.24
+Toti,25,Centre-Back,Portugal,Wolverhampton Wanderers FC,21.4
+Santiago Bueno,25,Centre-Back,Uruguay,Wolverhampton Wanderers FC,8.56
+Craig Dawson,34,Centre-Back,England,Wolverhampton Wanderers FC,2.14
+Rayan Aït-Nouri,23,Left-Back,Algeria,Wolverhampton Wanderers FC,37.45
+Hugo Bueno,21,Left-Back,Spain,Wolverhampton Wanderers FC,6.42
+Nélson Semedo,30,Right-Back,Portugal,Wolverhampton Wanderers FC,12.84
+Ki-Jana Hoever,22,Right-Back,Netherlands,Wolverhampton Wanderers FC,4.82
+Matt Doherty,32,Right-Back,Ireland,Wolverhampton Wanderers FC,3.21
+Mario Lemina,30,Defensive Midfield,Gabon,Wolverhampton Wanderers FC,10.7
+Boubacar Traoré,22,Defensive Midfield,Mali,Wolverhampton Wanderers FC,6.42
+Joe Hodge,21,Defensive Midfield,Ireland,Wolverhampton Wanderers FC,1.6
+João Gomes,23,Central Midfield,Brazil,Wolverhampton Wanderers FC,37.45
+Jean-Ricner Bellegarde,25,Central Midfield,France,Wolverhampton Wanderers FC,16.05
+Luke Cundle,22,Central Midfield,England,Wolverhampton Wanderers FC,5.35
+Chem Campbell,21,Attacking Midfield,Wales,Wolverhampton Wanderers FC,0.96
+Noha Lemina,19,Attacking Midfield,Gabon,Wolverhampton Wanderers FC,0.54
+Pedro Neto,24,Right Winger,Portugal,Wolverhampton Wanderers FC,58.85
+Pablo Sarabia,32,Right Winger,Spain,Wolverhampton Wanderers FC,10.7
+Matheus Cunha,25,Centre-Forward,Brazil,Wolverhampton Wanderers FC,48.15
+Hee-chan Hwang,28,Centre-Forward,South Korea,Wolverhampton Wanderers FC,26.75
+Nathan Fraser,19,Centre-Forward,Ireland,Wolverhampton Wanderers FC,1.07
+Leon Chiwome,18,Centre-Forward,England,Wolverhampton Wanderers FC,1.07
+Jordan Pickford,30,Goalkeeper,England,Everton FC,23.54
+João Virgínia,24,Goalkeeper,Portugal,Everton FC,0.86
+Andy Lonergan,40,Goalkeeper,England,Everton FC,0.11
+Jarrad Branthwaite,21,Centre-Back,England,Everton FC,44.94
+James Tarkowski,31,Centre-Back,England,Everton FC,13.91
+Ben Godfrey,26,Centre-Back,England,Everton FC,10.7
+Michael Keane,31,Centre-Back,England,Everton FC,6.42
+Mason Holgate,27,Centre-Back,England,Everton FC,5.35
+Vitaliy Mykolenko,25,Left-Back,Ukraine,Everton FC,29.96
+Ashley Young,38,Left-Back,England,Everton FC,0.54
+Nathan Patterson,22,Right-Back,Scotland,Everton FC,16.05
+Séamus Coleman,35,Right-Back,Ireland,Everton FC,0.54
+Amadou Onana,22,Defensive Midfield,Belgium,Everton FC,53.5
+James Garner,23,Defensive Midfield,England,Everton FC,23.54
+Abdoulaye Doucouré,31,Central Midfield,Mali,Everton FC,10.7
+André Gomes,30,Central Midfield,Portugal,Everton FC,10.7
+Idrissa Gueye,34,Central Midfield,Senegal,Everton FC,3.21
+Dele Alli,28,Attacking Midfield,England,Everton FC,5.35
+Dwight McNeil,24,Left Winger,England,Everton FC,23.54
+Arnaut Danjuma,27,Left Winger,Netherlands,Everton FC,13.91
+Lewis Dobbin,21,Left Winger,England,Everton FC,2.67
+Jack Harrison,27,Right Winger,England,Everton FC,19.26
+Dominic Calvert-Lewin,27,Centre-Forward,England,Everton FC,23.54
+Beto,26,Centre-Forward,Portugal,Everton FC,21.4
+Chermiti,20,Centre-Forward,Portugal,Everton FC,9.63
+Bernd Leno,32,Goalkeeper,Germany,Fulham FC,13.91
+Marek Rodák,27,Goalkeeper,Slovakia,Fulham FC,3.21
+Steven Benda,25,Goalkeeper,Germany,Fulham FC,1.07
+Tosin Adarabioyo,26,Centre-Back,England,Fulham FC,21.4
+Issa Diop,27,Centre-Back,France,Fulham FC,21.4
+Calvin Bassey,24,Centre-Back,Nigeria,Fulham FC,17.12
+Tim Ream,36,Centre-Back,United States,Fulham FC,0.86
+Antonee Robinson,26,Left-Back,United States,Fulham FC,26.75
+Fodé Ballo-Touré,27,Left-Back,Senegal,Fulham FC,3.21
+Timothy Castagne,28,Right-Back,Belgium,Fulham FC,18.19
+Kenny Tete,28,Right-Back,Netherlands,Fulham FC,16.05
+João Palhinha,28,Defensive Midfield,Portugal,Fulham FC,58.85
+Harrison Reed,29,Central Midfield,England,Fulham FC,16.05
+Saša Lukić,27,Central Midfield,Serbia,Fulham FC,10.7
+Tom Cairney,33,Central Midfield,Scotland,Fulham FC,2.14
+Andreas Pereira,28,Attacking Midfield,Brazil,Fulham FC,21.4
+Luke Harris,19,Attacking Midfield,Wales,Fulham FC,1.07
+Alex Iwobi,28,Left Winger,Nigeria,Fulham FC,26.75
+Willian,35,Left Winger,Brazil,Fulham FC,3.21
+Harry Wilson,27,Right Winger,Wales,Fulham FC,18.19
+Adama Traoré,28,Right Winger,Spain,Fulham FC,9.63
+Bobby De Cordova-Reid,31,Right Winger,Jamaica,Fulham FC,5.35
+Rodrigo Muniz,23,Centre-Forward,Brazil,Fulham FC,21.4
+Raúl Jiménez,33,Centre-Forward,Mexico,Fulham FC,5.35
+Jay Stansfield,21,Centre-Forward,England,Fulham FC,3.75
+James Trafford,21,Goalkeeper,England,Burnley FC,19.26
+Arijanet Muric,25,Goalkeeper,Kosovo,Burnley FC,7.49
+Lawrence Vigouroux,30,Goalkeeper,Chile,Burnley FC,0.32
+Jordan Beyer,24,Centre-Back,Germany,Burnley FC,13.91
+Ameen Al-Dakhil,22,Centre-Back,Belgium,Burnley FC,12.84
+Dara O'Shea,25,Centre-Back,Ireland,Burnley FC,7.49
+Hjalmar Ekdal,25,Centre-Back,Sweden,Burnley FC,7.49
+Maxime Estève,22,Centre-Back,France,Burnley FC,7.49
+Hannes Delcroix,25,Centre-Back,Belgium,Burnley FC,4.28
+Luke McNally,24,Centre-Back,Ireland,Burnley FC,4.07
+Charlie Taylor,30,Left-Back,England,Burnley FC,3.21
+Lorenz Assignon,24,Right-Back,France,Burnley FC,10.7
+Connor Roberts,28,Right-Back,Wales,Burnley FC,7.49
+Vitinho,24,Right-Back,Brazil,Burnley FC,5.35
+Sander Berge,26,Defensive Midfield,Norway,Burnley FC,21.4
+Han-Noah Massengo,22,Defensive Midfield,France,Burnley FC,4.28
+Jack Cork,35,Defensive Midfield,England,Burnley FC,0.86
+Josh Brownhill,28,Central Midfield,England,Burnley FC,16.05
+Josh Cullen,28,Central Midfield,Ireland,Burnley FC,10.7
+Aaron Ramsey,21,Attacking Midfield,England,Burnley FC,16.05
+Scott Twine,24,Attacking Midfield,England,Burnley FC,3.21
+Mike Trésor,25,Left Winger,Belgium,Burnley FC,12.84
+Wilson Odobert,19,Left Winger,France,Burnley FC,10.7
+Anass Zaroury,23,Left Winger,Morocco,Burnley FC,9.63
+Jacob Bruun Larsen,25,Left Winger,Denmark,Burnley FC,8.56
+Luca Koleosho,19,Left Winger,Italy,Burnley FC,7.49
+Dara Costelloe,21,Left Winger,Ireland,Burnley FC,0.35
+Benson Manuel,27,Right Winger,Angola,Burnley FC,5.35
+Nathan Redmond,30,Right Winger,England,Burnley FC,5.35
+Jóhann Berg Gudmundsson,33,Right Winger,Iceland,Burnley FC,1.07
+Lyle Foster,23,Centre-Forward,South Africa,Burnley FC,13.91
+Zeki Amdouni,23,Centre-Forward,Switzerland,Burnley FC,12.84
+Michael Obafemi,23,Centre-Forward,Ireland,Burnley FC,2.35
+Jay Rodríguez,34,Centre-Forward,England,Burnley FC,1.07
+Ivo Grbic,28,Goalkeeper,Croatia,Sheffield United,3.75
+Wes Foderingham,33,Goalkeeper,England,Sheffield United,0.96
+Adam Davies,31,Goalkeeper,Wales,Sheffield United,0.54
+Jordan Amissah,22,Goalkeeper,Ghana,Sheffield United,0.27
+Anel Ahmedhodzic,25,Centre-Back,Bosnia-Herzegovina,Sheffield United,19.26
+Auston Trusty,25,Centre-Back,United States,Sheffield United,7.49
+John Egan,31,Centre-Back,Ireland,Sheffield United,4.28
+Jack Robinson,30,Centre-Back,England,Sheffield United,1.07
+Chris Basham,35,Centre-Back,England,Sheffield United,0.32
+Yasser Larouci,23,Left-Back,Algeria,Sheffield United,3.21
+Max Lowe,27,Left-Back,England,Sheffield United,2.67
+Rhys Norrington-Davies,25,Left-Back,Wales,Sheffield United,2.67
+Jayden Bogle,23,Right-Back,England,Sheffield United,4.07
+George Baldock,31,Right-Back,Greece,Sheffield United,2.67
+Femi Seriki,22,Right-Back,England,Sheffield United,0.32
+Vini Souza,25,Defensive Midfield,Brazil,Sheffield United,12.84
+Gustavo Hamer,27,Central Midfield,Netherlands,Sheffield United,16.05
+Tom Davies,25,Central Midfield,England,Sheffield United,5.35
+Anis Slimane,23,Central Midfield,Tunisia,Sheffield United,2.67
+Andre Brooks,20,Central Midfield,England,Sheffield United,2.67
+Oliver Norwood,33,Central Midfield,Northern Ireland,Sheffield United,1.07
+Ben Osborn,29,Central Midfield,England,Sheffield United,1.07
+Oliver Arblaster,20,Central Midfield,England,Sheffield United,0.48
+Ben Brereton Díaz,25,Left Winger,Chile,Sheffield United,8.56
+Cameron Archer,22,Centre-Forward,England,Sheffield United,13.91
+Oli McBurnie,28,Centre-Forward,Scotland,Sheffield United,4.82
+Rhian Brewster,24,Centre-Forward,England,Sheffield United,3.21
+William Osula,20,Centre-Forward,Denmark,Sheffield United,3.21
+Daniel Jebbison,20,Centre-Forward,Canada,Sheffield United,1.07
+Thomas Kaminski,31,Goalkeeper,Belgium,Luton Town,3.21
+Tim Krul,36,Goalkeeper,Netherlands,Luton Town,0.54
+Jack Walton,26,Goalkeeper,England,Luton Town,0.43
+James Shea,33,Goalkeeper,England,Luton Town,0.21
+Teden Mengi,22,Centre-Back,England,Luton Town,12.84
+Tom Holmes,24,Centre-Back,England,Luton Town,3.75
+Gabriel Osho,25,Centre-Back,Nigeria,Luton Town,3.21
+Mads Andersen,26,Centre-Back,Denmark,Luton Town,3.21
+Tom Lockyer,29,Centre-Back,Wales,Luton Town,2.67
+Reece Burke,27,Centre-Back,England,Luton Town,1.93
+Ryan Giles,24,Left-Back,England,Luton Town,4.82
+Amari'i Bell,30,Left-Back,Jamaica,Luton Town,2.67
+Dan Potts,30,Left-Back,England,Luton Town,0.96
+Daiki Hashioka,25,Right-Back,Japan,Luton Town,2.14
+Marvelous Nakamba,30,Defensive Midfield,Zimbabwe,Luton Town,5.35
+Pelly Ruddock Mpanzu,30,Defensive Midfield,DR Congo,Luton Town,1.6
+Ross Barkley,30,Central Midfield,England,Luton Town,8.56
+Allan Campbell,25,Central Midfield,Scotland,Luton Town,2.14
+Jordan Clark,30,Central Midfield,England,Luton Town,1.07
+Luke Berry,31,Central Midfield,England,Luton Town,0.43
+Louie Watson,23,Central Midfield,Ireland,Luton Town,0.27
+Elliot Thorpe,23,Central Midfield,Wales,Luton Town,0.21
+Alfie Doughty,24,Left Midfield,England,Luton Town,10.7
+Fred Onyedinma,27,Attacking Midfield,Nigeria,Luton Town,0.54
+Dion Pereira,25,Left Winger,Antigua and Barbuda,Luton Town,0.19
+Chiedozie Ogbene,27,Right Winger,Ireland,Luton Town,8.56
+Tahith Chong,24,Right Winger,Netherlands,Luton Town,6.42
+Andros Townsend,32,Right Winger,England,Luton Town,1.93
+John McAtee,24,Second Striker,England,Luton Town,0.32
+Carlton Morris,28,Centre-Forward,England,Luton Town,13.91
+Elijah Adebayo,26,Centre-Forward,England,Luton Town,12.84
+Jacob Brown,26,Centre-Forward,Scotland,Luton Town,4.28
+Cauley Woodrow,29,Centre-Forward,England,Luton Town,1.07
+Joe Taylor,21,Centre-Forward,Wales,Luton Town,0.37
+Admiral Muskwe,25,Centre-Forward,Zimbabwe,Luton Town,0.29
+Thibaut Courtois,32,Goalkeeper,Belgium,Real Madrid,29.96
+Andriy Lunin,25,Goalkeeper,Ukraine,Real Madrid,26.75
+Kepa Arrizabalaga,29,Goalkeeper,Spain,Real Madrid,12.84
+Éder Militão,26,Centre-Back,Brazil,Real Madrid,64.2
+Antonio Rüdiger,31,Centre-Back,Germany,Real Madrid,26.75
+David Alaba,32,Centre-Back,Austria,Real Madrid,21.4
+Nacho Fernández,34,Centre-Back,Spain,Real Madrid,3.21
+Ferland Mendy,29,Left-Back,France,Real Madrid,23.54
+Fran García,24,Left-Back,Spain,Real Madrid,16.05
+Daniel Carvajal,32,Right-Back,Spain,Real Madrid,12.84
+Lucas Vázquez,32,Right-Back,Spain,Real Madrid,4.28
+Aurélien Tchouaméni,24,Defensive Midfield,France,Real Madrid,107.0
+Federico Valverde,25,Central Midfield,Uruguay,Real Madrid,128.4
+Eduardo Camavinga,21,Central Midfield,France,Real Madrid,107.0
+Toni Kroos,34,Central Midfield,Germany,Real Madrid,10.7
+Luka Modric,38,Central Midfield,Croatia,Real Madrid,6.42
+Dani Ceballos,27,Central Midfield,Spain,Real Madrid,6.42
+Jude Bellingham,20,Attacking Midfield,England,Real Madrid,192.6
+Brahim Díaz,24,Attacking Midfield,Morocco,Real Madrid,42.8
+Arda Güler,19,Attacking Midfield,Türkiye,Real Madrid,32.1
+Nico Paz,19,Attacking Midfield,Argentina,Real Madrid,10.7
+Vinicius Junior,23,Left Winger,Brazil,Real Madrid,192.6
+Rodrygo,23,Right Winger,Brazil,Real Madrid,117.7
+Joselu,34,Centre-Forward,Spain,Real Madrid,5.35
+Marc-André ter Stegen,32,Goalkeeper,Germany,FC Barcelona,29.96
+Iñaki Peña,25,Goalkeeper,Spain,FC Barcelona,8.56
+Ander Astralaga,20,Goalkeeper,Spain,FC Barcelona,1.07
+Ronald Araujo,25,Centre-Back,Uruguay,FC Barcelona,74.9
+Jules Koundé,25,Centre-Back,France,FC Barcelona,48.15
+Andreas Christensen,28,Centre-Back,Denmark,FC Barcelona,42.8
+Pau Cubarsí,17,Centre-Back,Spain,FC Barcelona,32.1
+Iñigo Martínez,33,Centre-Back,Spain,FC Barcelona,5.35
+Alejandro Balde,20,Left-Back,Spain,FC Barcelona,42.8
+Marcos Alonso,33,Left-Back,Spain,FC Barcelona,2.14
+João Cancelo,30,Right-Back,Portugal,FC Barcelona,26.75
+Héctor Fort,17,Right-Back,Spain,FC Barcelona,10.7
+Oriol Romeu,32,Defensive Midfield,Spain,FC Barcelona,2.14
+Gavi,19,Central Midfield,Spain,FC Barcelona,96.3
+Pedri,21,Central Midfield,Spain,FC Barcelona,85.6
+Frenkie de Jong,27,Central Midfield,Netherlands,FC Barcelona,74.9
+Fermín López,21,Central Midfield,Spain,FC Barcelona,32.1
+İlkay Gündoğan,33,Central Midfield,Germany,FC Barcelona,16.05
+Sergi Roberto,32,Central Midfield,Spain,FC Barcelona,2.67
+Ferran Torres,24,Left Winger,Spain,FC Barcelona,32.1
+Lamine Yamal,16,Right Winger,Spain,FC Barcelona,96.3
+Raphinha,27,Right Winger,Brazil,FC Barcelona,53.5
+João Félix,24,Second Striker,Portugal,FC Barcelona,32.1
+Vitor Roque,19,Centre-Forward,Brazil,FC Barcelona,32.1
+Robert Lewandowski,35,Centre-Forward,Poland,FC Barcelona,16.05
+Marc Guiu,18,Centre-Forward,Spain,FC Barcelona,8.03
+Álex Remiro,29,Goalkeeper,Spain,Real Sociedad,26.75
+Unai Marrero,22,Goalkeeper,Spain,Real Sociedad,0.32
+Robin Le Normand,27,Centre-Back,Spain,Real Sociedad,42.8
+Igor Zubeldia,27,Centre-Back,Spain,Real Sociedad,23.54
+Jon Pacheco,23,Centre-Back,Spain,Real Sociedad,16.05
+Aritz Elustondo,30,Centre-Back,Spain,Real Sociedad,5.35
+Kieran Tierney,27,Left-Back,Scotland,Real Sociedad,12.84
+Aihen Muñoz,26,Left-Back,Spain,Real Sociedad,8.56
+Javi Galán,29,Left-Back,Spain,Real Sociedad,7.49
+Hamari Traoré,32,Right-Back,Mali,Real Sociedad,6.42
+Álvaro Odriozola,28,Right-Back,Spain,Real Sociedad,2.67
+Jon Aramburu,21,Right-Back,Venezuela,Real Sociedad,2.67
+Martín Zubimendi,25,Defensive Midfield,Spain,Real Sociedad,53.5
+Urko González de Zarate,23,Defensive Midfield,Spain,Real Sociedad,1.28
+Mikel Merino,28,Central Midfield,Spain,Real Sociedad,53.5
+Beñat Turrientes,22,Central Midfield,Spain,Real Sociedad,21.4
+Jon Ander Olasagasti,23,Central Midfield,Spain,Real Sociedad,1.28
+Brais Méndez,27,Attacking Midfield,Spain,Real Sociedad,42.8
+Arsen Zakharyan,21,Attacking Midfield,Russia,Real Sociedad,19.26
+Jon Magunazelaia,22,Attacking Midfield,Spain,Real Sociedad,1.07
+Ander Barrenetxea,22,Left Winger,Spain,Real Sociedad,21.4
+Martín Merquelanz,29,Left Winger,Spain,Real Sociedad,0.64
+Takefusa Kubo,23,Right Winger,Japan,Real Sociedad,53.5
+Mikel Oyarzabal,27,Centre-Forward,Spain,Real Sociedad,48.15
+Sheraldo Becker,29,Centre-Forward,Suriname,Real Sociedad,10.7
+Umar Sadiq,27,Centre-Forward,Nigeria,Real Sociedad,10.7
+André Silva,28,Centre-Forward,Portugal,Real Sociedad,6.42
+Carlos Fernández,28,Centre-Forward,Spain,Real Sociedad,1.6
+Jan Oblak,31,Goalkeeper,Slovenia,Atletico de Madrid,29.96
+Horațiu Moldovan,26,Goalkeeper,Romania,Atletico de Madrid,2.67
+Mario Hermoso,29,Centre-Back,Spain,Atletico de Madrid,26.75
+José María Giménez,29,Centre-Back,Uruguay,Atletico de Madrid,23.54
+Axel Witsel,35,Centre-Back,Belgium,Atletico de Madrid,3.75
+Stefan Savic,33,Centre-Back,Montenegro,Atletico de Madrid,2.67
+Gabriel Paulista,33,Centre-Back,Brazil,Atletico de Madrid,2.14
+Reinildo Mandava,30,Left-Back,Mozambique,Atletico de Madrid,9.63
+Nahuel Molina,26,Right-Back,Argentina,Atletico de Madrid,29.96
+César Azpilicueta,34,Right-Back,Spain,Atletico de Madrid,2.14
+Rodrigo de Paul,30,Central Midfield,Argentina,Atletico de Madrid,32.1
+Marcos Llorente,29,Central Midfield,Spain,Atletico de Madrid,32.1
+Arthur Vermeeren,19,Central Midfield,Belgium,Atletico de Madrid,26.75
+Pablo Barrios,21,Central Midfield,Spain,Atletico de Madrid,26.75
+Koke,32,Central Midfield,Spain,Atletico de Madrid,12.84
+Saúl Ñíguez,29,Central Midfield,Spain,Atletico de Madrid,8.03
+Thomas Lemar,28,Attacking Midfield,France,Atletico de Madrid,10.7
+Samuel Lino,24,Left Winger,Brazil,Atletico de Madrid,32.1
+Rodrigo Riquelme,24,Left Winger,Spain,Atletico de Madrid,26.75
+Marcos Paulo,23,Left Winger,Portugal,Atletico de Madrid,2.14
+Vitolo,34,Left Winger,Spain,Atletico de Madrid,0.11
+Ángel Correa,29,Right Winger,Argentina,Atletico de Madrid,19.26
+Antoine Griezmann,33,Centre-Forward,France,Atletico de Madrid,26.75
+Álvaro Morata,31,Centre-Forward,Spain,Atletico de Madrid,17.12
+Memphis Depay,30,Centre-Forward,Netherlands,Atletico de Madrid,10.7
+Unai Simón,27,Goalkeeper,Spain,Athletic Bilbao,32.1
+Julen Agirrezabala,23,Goalkeeper,Spain,Athletic Bilbao,5.35
+Dani Vivian,24,Centre-Back,Spain,Athletic Bilbao,26.75
+Aitor Paredes,24,Centre-Back,Spain,Athletic Bilbao,23.54
+Yeray Álvarez,29,Centre-Back,Spain,Athletic Bilbao,8.56
+Yuri Berchiche,34,Left-Back,Spain,Athletic Bilbao,1.93
+Imanol García de Albéniz,24,Left-Back,Spain,Athletic Bilbao,1.28
+Iñigo Lekue,31,Right-Back,Spain,Athletic Bilbao,3.21
+Óscar de Marcos,35,Right-Back,Spain,Athletic Bilbao,1.6
+Mikel Vesga,31,Defensive Midfield,Spain,Athletic Bilbao,4.28
+Beñat Prados,23,Central Midfield,Spain,Athletic Bilbao,16.05
+Iñigo Ruiz de Galarreta,30,Central Midfield,Spain,Athletic Bilbao,5.35
+Ander Herrera,34,Central Midfield,Spain,Athletic Bilbao,2.14
+Dani García,34,Central Midfield,Spain,Athletic Bilbao,1.93
+Mikel Jauregizar,20,Central Midfield,Spain,Athletic Bilbao,0.86
+Oihan Sancet,24,Attacking Midfield,Spain,Athletic Bilbao,37.45
+Unai Gómez,21,Attacking Midfield,Spain,Athletic Bilbao,6.42
+Iker Muniain,31,Attacking Midfield,Spain,Athletic Bilbao,5.35
+Nico Williams,21,Left Winger,Spain,Athletic Bilbao,64.2
+Álex Berenguer,28,Left Winger,Spain,Athletic Bilbao,12.84
+Iñaki Williams,30,Right Winger,Ghana,Athletic Bilbao,26.75
+Adu Ares,22,Right Winger,Spain,Athletic Bilbao,2.14
+Gorka Guruzeta,27,Centre-Forward,Spain,Athletic Bilbao,19.26
+Asier Villalibre,26,Centre-Forward,Spain,Athletic Bilbao,2.67
+Raúl García,37,Centre-Forward,Spain,Athletic Bilbao,1.6
+Paulo Gazzaniga,32,Goalkeeper,Argentina,Girona FC,4.28
+Toni Fuidias,23,Goalkeeper,Spain,Girona FC,0.32
+Juan Carlos,36,Goalkeeper,Spain,Girona FC,0.21
+Eric García,23,Centre-Back,Spain,Girona FC,21.4
+Daley Blind,34,Centre-Back,Netherlands,Girona FC,3.21
+David López,34,Centre-Back,Spain,Girona FC,2.67
+Juanpe,33,Centre-Back,Spain,Girona FC,1.07
+Miguel Gutiérrez,22,Left-Back,Spain,Girona FC,26.75
+Yan Couto,22,Right-Back,Brazil,Girona FC,26.75
+Arnau Martínez,21,Right-Back,Spain,Girona FC,10.7
+Aleix García,26,Central Midfield,Spain,Girona FC,26.75
+Yangel Herrera,26,Central Midfield,Venezuela,Girona FC,26.75
+Pablo Torre,21,Central Midfield,Spain,Girona FC,3.21
+Jhon Solís,19,Central Midfield,Colombia,Girona FC,3.21
+Iván Martín,25,Attacking Midfield,Spain,Girona FC,16.05
+Borja García,33,Attacking Midfield,Spain,Girona FC,0.86
+Sávio,20,Left Winger,Brazil,Girona FC,53.5
+Toni Villa,29,Left Winger,Spain,Girona FC,1.6
+Viktor Tsygankov,26,Right Winger,Ukraine,Girona FC,32.1
+Portu,32,Right Winger,Spain,Girona FC,3.75
+Valery Fernández,24,Right Winger,Spain,Girona FC,2.67
+Artem Dovbyk,27,Centre-Forward,Ukraine,Girona FC,37.45
+Cristhian Stuani,37,Centre-Forward,Uruguay,Girona FC,1.93
+Giorgi Mamardashvili,23,Goalkeeper,Georgia,Valencia FC,37.45
+Jaume Doménech,33,Goalkeeper,Spain,Valencia FC,0.86
+Cristian Rivero,26,Goalkeeper,Spain,Valencia FC,0.21
+Cristhian Mosquera,19,Centre-Back,Spain,Valencia FC,32.1
+Yarek Gasiorowski,19,Centre-Back,Spain,Valencia FC,16.05
+Cenk Özkacar,23,Centre-Back,Türkiye,Valencia FC,4.28
+Mouctar Diakhaby,27,Centre-Back,Guinea,Valencia FC,2.14
+José Gayà,29,Left-Back,Spain,Valencia FC,26.75
+Jesús Vázquez,21,Left-Back,Spain,Valencia FC,3.21
+Thierry Correia,25,Right-Back,Portugal,Valencia FC,6.42
+Dimitri Foulquier,31,Right-Back,Guadeloupe,Valencia FC,2.67
+Pepelu,25,Defensive Midfield,Spain,Valencia FC,23.54
+Hugo Guillamón,24,Defensive Midfield,Spain,Valencia FC,8.56
+Javi Guerra,21,Central Midfield,Spain,Valencia FC,21.4
+André Almeida,24,Central Midfield,Portugal,Valencia FC,16.05
+Selim Amallah,27,Attacking Midfield,Morocco,Valencia FC,1.6
+Pablo Gozálbez,23,Attacking Midfield,Spain,Valencia FC,0.86
+Diego López,22,Left Winger,Spain,Valencia FC,14.98
+Fran Pérez,21,Right Winger,Spain,Valencia FC,8.56
+Peter Federico,21,Right Winger,Dominican Republic,Valencia FC,3.21
+Sergi Canós,27,Right Winger,Spain,Valencia FC,2.67
+Hugo González,21,Right Winger,Spain,Valencia FC,0.32
+Hugo Duro,24,Centre-Forward,Spain,Valencia FC,17.12
+Roman Yaremchuk,28,Centre-Forward,Ukraine,Valencia FC,3.75
+Alberto Marí,22,Centre-Forward,Spain,Valencia FC,1.6
+Filip Jørgensen,22,Goalkeeper,Denmark,Villarreal FC,21.4
+Pepe Reina,41,Goalkeeper,Spain,Villarreal FC,0.64
+Yerson Mosquera,23,Centre-Back,Colombia,Villarreal FC,6.42
+Jorge Cuenca,24,Centre-Back,Spain,Villarreal FC,6.42
+Eric Bailly,30,Centre-Back,Cote d'Ivoire,Villarreal FC,3.21
+Aïssa Mandi,32,Centre-Back,Algeria,Villarreal FC,1.93
+Raúl Albiol,38,Centre-Back,Spain,Villarreal FC,1.6
+Alfonso Pedraza,28,Left-Back,Spain,Villarreal FC,5.35
+Alberto Moreno,31,Left-Back,Spain,Villarreal FC,1.93
+Carlos Romero,22,Left-Back,Spain,Villarreal FC,1.6
+Juan Foyth,26,Right-Back,Argentina,Villarreal FC,16.05
+Kiko Femenía,33,Right-Back,Spain,Villarreal FC,1.5
+Ramón Terrats,23,Defensive Midfield,Spain,Villarreal FC,4.28
+Étienne Capoue,35,Defensive Midfield,France,Villarreal FC,1.6
+Francis Coquelin,33,Defensive Midfield,France,Villarreal FC,1.6
+Santi Comesaña,27,Central Midfield,Spain,Villarreal FC,6.42
+Dani Parejo,35,Central Midfield,Spain,Villarreal FC,2.67
+Manu Trigueros,32,Central Midfield,Spain,Villarreal FC,1.6
+Álex Baena,22,Attacking Midfield,Spain,Villarreal FC,42.8
+Denis Suárez,30,Attacking Midfield,Spain,Villarreal FC,1.6
+Gonçalo Guedes,27,Left Winger,Portugal,Villarreal FC,16.05
+Yéremy Pino,21,Right Winger,Spain,Villarreal FC,32.1
+Ilias Akhomach,20,Right Winger,Morocco,Villarreal FC,16.05
+Bertrand Traoré,28,Right Winger,Burkina Faso,Villarreal FC,9.63
+Alexander Sørloth,28,Centre-Forward,Norway,Villarreal FC,26.75
+Gerard Moreno,32,Centre-Forward,Spain,Villarreal FC,10.7
+José Luis Morales,36,Centre-Forward,Spain,Villarreal FC,1.6
+Jorge Pascual,21,Centre-Forward,Spain,Villarreal FC,1.07
+Ørjan Nyland,33,Goalkeeper,Norway,Sevilla FC,1.5
+Marko Dmitrovic,32,Goalkeeper,Serbia,Sevilla FC,0.96
+Loïc Badé,24,Centre-Back,France,Sevilla FC,14.98
+Kike Salas,22,Centre-Back,Spain,Sevilla FC,10.7
+Marcão,28,Centre-Back,Brazil,Sevilla FC,4.28
+Nemanja Gudelj,32,Centre-Back,Serbia,Sevilla FC,3.75
+Tanguy Nianzou,22,Centre-Back,France,Sevilla FC,3.21
+Sergio Ramos,38,Centre-Back,Spain,Sevilla FC,2.67
+Adrià Pedrosa,26,Left-Back,Spain,Sevilla FC,6.42
+Marcos Acuña,32,Left-Back,Argentina,Sevilla FC,4.28
+Juanlu Sánchez,20,Right-Back,Spain,Sevilla FC,16.05
+Jesús Navas,38,Right-Back,Spain,Sevilla FC,2.67
+Boubakary Soumaré,25,Defensive Midfield,France,Sevilla FC,14.98
+Lucien Agoumé,22,Defensive Midfield,France,Sevilla FC,6.42
+Djibril Sow,27,Central Midfield,Switzerland,Sevilla FC,9.63
+Óliver Torres,29,Central Midfield,Spain,Sevilla FC,6.42
+Joan Jordán,29,Central Midfield,Spain,Sevilla FC,3.75
+Manu Bueno,19,Central Midfield,Spain,Sevilla FC,0.32
+Hannibal,21,Attacking Midfield,Tunisia,Sevilla FC,9.63
+Lucas Ocampos,29,Left Winger,Argentina,Sevilla FC,9.63
+Dodi Lukébakio,26,Right Winger,Belgium,Sevilla FC,12.84
+Suso,30,Right Winger,Spain,Sevilla FC,4.28
+Erik Lamela,32,Right Winger,Argentina,Sevilla FC,2.14
+Adnan Januzaj,29,Right Winger,Belgium,Sevilla FC,2.14
+Youssef En-Nesyri,27,Centre-Forward,Morocco,Sevilla FC,21.4
+Isaac Romero,24,Centre-Forward,Spain,Sevilla FC,19.26
+Alejo Véliz,20,Centre-Forward,Argentina,Sevilla FC,9.63
+Rafa Mir,27,Centre-Forward,Spain,Sevilla FC,2.67
+Mariano Díaz,30,Centre-Forward,Dominican Republic,Sevilla FC,1.6
+Rui Silva,30,Goalkeeper,Portugal,Real Betis,8.56
+Claudio Bravo,41,Goalkeeper,Chile,Real Betis,0.86
+Chadi Riad,21,Centre-Back,Morocco,Real Betis,16.05
+Germán Pezzella,32,Centre-Back,Argentina,Real Betis,3.21
+Marc Bartra,33,Centre-Back,Spain,Real Betis,1.07
+Sokratis Papastathopoulos,36,Centre-Back,Greece,Real Betis,0.75
+Juan Miranda,24,Left-Back,Spain,Real Betis,9.63
+Abner,24,Left-Back,Brazil,Real Betis,7.49
+Héctor Bellerín,29,Right-Back,Spain,Real Betis,4.28
+Youssouf Sabaly,31,Right-Back,Senegal,Real Betis,2.67
+Johnny Cardoso,22,Defensive Midfield,United States,Real Betis,26.75
+Guido Rodríguez,30,Defensive Midfield,Argentina,Real Betis,21.4
+Marc Roca,27,Defensive Midfield,Spain,Real Betis,9.63
+William Carvalho,32,Defensive Midfield,Portugal,Real Betis,3.21
+Sergi Altimira,22,Central Midfield,Spain,Real Betis,2.67
+Pablo Fornals,28,Attacking Midfield,Spain,Real Betis,14.98
+Nabil Fekir,30,Attacking Midfield,France,Real Betis,10.7
+Isco,32,Attacking Midfield,Spain,Real Betis,8.56
+Rodri Sánchez,24,Attacking Midfield,Spain,Real Betis,3.21
+Assane Diao,18,Left Winger,Spain,Real Betis,12.84
+Abde Ezzalzouli,22,Left Winger,Morocco,Real Betis,9.63
+Ayoze Pérez,30,Left Winger,Spain,Real Betis,7.49
+Aitor Ruibal,28,Right Winger,Spain,Real Betis,3.75
+Willian José,32,Centre-Forward,Brazil,Real Betis,5.35
+Chimy Ávila,30,Centre-Forward,Argentina,Real Betis,3.21
+Cédric Bakambu,33,Centre-Forward,DR Congo,Real Betis,2.67
+Iván Villar,26,Goalkeeper,Spain,Celta de Vigo,1.28
+Vicente Guaita,37,Goalkeeper,Spain,Celta de Vigo,0.86
+Unai Núñez,27,Centre-Back,Spain,Celta de Vigo,7.49
+Carl Starfelt,29,Centre-Back,Sweden,Celta de Vigo,6.42
+Joseph Aidoo,28,Centre-Back,Ghana,Celta de Vigo,4.28
+Carlos Domínguez,23,Centre-Back,Spain,Celta de Vigo,3.21
+Manu Sánchez,23,Left-Back,Spain,Celta de Vigo,8.56
+Mihailo Ristic,28,Left-Back,Serbia,Celta de Vigo,1.07
+Óscar Mingueza,25,Right-Back,Spain,Celta de Vigo,8.56
+Javier Manquillo,30,Right-Back,Spain,Celta de Vigo,1.93
+Kevin Vázquez,31,Right-Back,Spain,Celta de Vigo,0.86
+Renato Tapia,28,Defensive Midfield,Peru,Celta de Vigo,5.35
+Jailson,28,Defensive Midfield,Brazil,Celta de Vigo,1.6
+Fran Beltrán,25,Central Midfield,Spain,Celta de Vigo,6.42
+Luca de la Torre,26,Central Midfield,United States,Celta de Vigo,3.21
+Hugo Sotelo,20,Central Midfield,Spain,Celta de Vigo,2.67
+Carlos Dotor,23,Central Midfield,Spain,Celta de Vigo,2.14
+Damián Rodríguez,21,Central Midfield,Spain,Celta de Vigo,0.54
+Williot Swedberg,20,Attacking Midfield,Sweden,Celta de Vigo,5.35
+Jonathan Bamba,28,Left Winger,Cote d'Ivoire,Celta de Vigo,9.63
+Franco Cervi,30,Left Winger,Argentina,Celta de Vigo,1.6
+Hugo Álvarez,20,Left Winger,Spain,Celta de Vigo,1.6
+Tadeo Allende,25,Right Winger,Argentina,Celta de Vigo,4.28
+Carles Pérez,26,Right Winger,Spain,Celta de Vigo,2.67
+Miguel Rodríguez,21,Right Winger,Spain,Celta de Vigo,0.86
+Jørgen Strand Larsen,24,Centre-Forward,Norway,Celta de Vigo,26.75
+Anastasios Douvikas,24,Centre-Forward,Greece,Celta de Vigo,6.42
+Iago Aspas,36,Centre-Forward,Spain,Celta de Vigo,3.21
+Antonio Sivera,27,Goalkeeper,Spain,Deportivo Alaves,6.42
+Jesús Owono,23,Goalkeeper,Equatorial Guinea,Deportivo Alaves,1.07
+Abdel Abqar,25,Centre-Back,Morocco,Deportivo Alaves,8.03
+Rafa Marín,22,Centre-Back,Spain,Deportivo Alaves,8.03
+Aleksandar Sedlar,32,Centre-Back,Serbia,Deportivo Alaves,0.43
+Javi López,22,Left-Back,Spain,Deportivo Alaves,8.03
+Rubén Duarte,28,Left-Back,Spain,Deportivo Alaves,3.21
+Andoni Gorosabel,27,Right-Back,Spain,Deportivo Alaves,5.35
+Nahuel Tenaglia,28,Right-Back,Argentina,Deportivo Alaves,2.14
+Antonio Blanco,23,Defensive Midfield,Spain,Deportivo Alaves,8.03
+Carlos Benavidez,26,Defensive Midfield,Uruguay,Deportivo Alaves,1.6
+Ander Guevara,26,Central Midfield,Spain,Deportivo Alaves,5.35
+Jon Guridi,29,Central Midfield,Spain,Deportivo Alaves,4.28
+Ianis Hagi,25,Attacking Midfield,Romania,Deportivo Alaves,2.14
+Luis Rioja,30,Left Winger,Spain,Deportivo Alaves,4.28
+Abde Rebbach,25,Left Winger,Algeria,Deportivo Alaves,0.86
+Álex Sola,25,Right Winger,Spain,Deportivo Alaves,4.28
+Carlos Vicente,25,Right Winger,Spain,Deportivo Alaves,4.28
+Xeber Alkain,27,Right Winger,Spain,Deportivo Alaves,1.6
+Samu Omorodion,20,Centre-Forward,Spain,Deportivo Alaves,37.45
+Giuliano Simeone,21,Centre-Forward,Argentina,Deportivo Alaves,3.21
+Kike García,34,Centre-Forward,Spain,Deportivo Alaves,1.07
+Joaquín Panichelli,21,Centre-Forward,Argentina,Deportivo Alaves,0.32
+Álvaro Valles,26,Goalkeeper,Spain,UD Las Palmas,12.84
+Aarón Escandell,28,Goalkeeper,Spain,UD Las Palmas,1.07
+Mika Mármol,22,Centre-Back,Spain,UD Las Palmas,16.05
+Saúl Coco,25,Centre-Back,Equatorial Guinea,UD Las Palmas,8.56
+Alex Suárez,31,Centre-Back,Spain,UD Las Palmas,1.28
+Juanma Herzog,20,Centre-Back,Spain,UD Las Palmas,1.07
+Eric Curbelo,30,Centre-Back,Spain,UD Las Palmas,0.86
+Sergi Cardona,24,Left-Back,Spain,UD Las Palmas,6.42
+Daley Sinkgraven,28,Left-Back,Netherlands,UD Las Palmas,1.07
+Julián Araujo,22,Right-Back,Mexico,UD Las Palmas,8.56
+Álvaro Lemos,31,Right-Back,Spain,UD Las Palmas,0.75
+Máximo Perrone,21,Defensive Midfield,Argentina,UD Las Palmas,9.63
+Nuke Mfulu,30,Defensive Midfield,DR Congo,UD Las Palmas,0.75
+Enzo Loiodice,23,Central Midfield,France,UD Las Palmas,4.28
+Javi Muñoz,29,Central Midfield,Spain,UD Las Palmas,3.21
+José Campaña,31,Central Midfield,Spain,UD Las Palmas,1.6
+Fabio González,27,Central Midfield,Spain,UD Las Palmas,0.54
+Alberto Moleiro,20,Attacking Midfield,Spain,UD Las Palmas,16.05
+Kirian Rodríguez,28,Attacking Midfield,Spain,UD Las Palmas,12.84
+Pejiño,27,Left Winger,Spain,UD Las Palmas,1.28
+Benito Ramírez,28,Left Winger,Spain,UD Las Palmas,0.64
+Munir El Haddadi,28,Right Winger,Morocco,UD Las Palmas,2.67
+Marvin Park,23,Right Winger,Spain,UD Las Palmas,2.14
+Sandro Ramírez,28,Centre-Forward,Spain,UD Las Palmas,1.6
+Sory Kaba,28,Centre-Forward,Guinea,UD Las Palmas,1.6
+Marc Cardona,28,Centre-Forward,Spain,UD Las Palmas,1.5
+Cristian Herrera,33,Centre-Forward,Spain,UD Las Palmas,0.32
+David Soria,31,Goalkeeper,Spain,Getafe CF,5.35
+Daniel Fuzato,26,Goalkeeper,Brazil,Getafe CF,0.96
+Gastón Álvarez,24,Centre-Back,Uruguay,Getafe CF,16.05
+Omar Alderete,27,Centre-Back,Paraguay,Getafe CF,5.35
+Djené,32,Centre-Back,Togo,Getafe CF,2.67
+Domingos Duarte,29,Centre-Back,Portugal,Getafe CF,2.14
+Diego Rico,31,Left-Back,Spain,Getafe CF,1.6
+Fabrizio Angileri,30,Left-Back,Argentina,Getafe CF,1.07
+Jordi Martín,23,Left-Back,Spain,Getafe CF,0.64
+José Ángel Carmona,22,Right-Back,Spain,Getafe CF,3.75
+Juan Iglesias,25,Right-Back,Spain,Getafe CF,2.67
+Nemanja Maksimovic,29,Central Midfield,Serbia,Getafe CF,6.42
+Mauro Arambarri,28,Central Midfield,Uruguay,Getafe CF,5.35
+Luis Milla,29,Central Midfield,Spain,Getafe CF,3.75
+Carles Aleñá,26,Central Midfield,Spain,Getafe CF,3.21
+Ilaix Moriba,21,Central Midfield,Guinea,Getafe CF,3.21
+Yellu Santiago,20,Central Midfield,Spain,Getafe CF,1.07
+Óscar Rodríguez,25,Attacking Midfield,Spain,Getafe CF,2.67
+Mason Greenwood,22,Right Winger,England,Getafe CF,26.75
+Borja Mayoral,27,Centre-Forward,Spain,Getafe CF,16.05
+Juanmi Latasa,23,Centre-Forward,Spain,Getafe CF,3.0
+Jaime Mata,35,Centre-Forward,Spain,Getafe CF,0.96
+Sergio Herrera,31,Goalkeeper,Spain,CA Osasuna,6.42
+Aitor Fernández,33,Goalkeeper,Spain,CA Osasuna,1.93
+David García,30,Centre-Back,Spain,CA Osasuna,10.7
+Jorge Herrando,23,Centre-Back,Spain,CA Osasuna,6.42
+Alejandro Catena,29,Centre-Back,Spain,CA Osasuna,4.28
+Unai García,32,Centre-Back,Spain,CA Osasuna,1.28
+Juan Cruz,31,Left-Back,Spain,CA Osasuna,2.35
+Johan Mojica,31,Left-Back,Colombia,CA Osasuna,2.35
+Jesús Areso,24,Right-Back,Spain,CA Osasuna,8.03
+Rubén Peña,32,Right-Back,Spain,CA Osasuna,2.35
+Iker Muñoz,21,Defensive Midfield,Spain,CA Osasuna,5.35
+Lucas Torró,29,Defensive Midfield,Spain,CA Osasuna,4.28
+Jon Moncayola,26,Central Midfield,Spain,CA Osasuna,7.49
+Pablo Ibáñez,25,Central Midfield,Spain,CA Osasuna,2.67
+Aimar Oroz,22,Attacking Midfield,Spain,CA Osasuna,16.05
+Moi Gómez,30,Left Winger,Spain,CA Osasuna,3.75
+Rubén García,30,Left Winger,Spain,CA Osasuna,2.67
+José Manuel Arnáiz,29,Left Winger,Spain,CA Osasuna,2.14
+Kike Barja,27,Right Winger,Spain,CA Osasuna,2.14
+Ante Budimir,32,Centre-Forward,Croatia,CA Osasuna,5.35
+Raúl García,23,Centre-Forward,Spain,CA Osasuna,4.28
+Predrag Rajkovic,28,Goalkeeper,Serbia,RCD Mallorca,10.7
+Dominik Greif,27,Goalkeeper,Slovakia,RCD Mallorca,2.67
+Iván Cuéllar,40,Goalkeeper,Spain,RCD Mallorca,0.11
+Martin Valjent,28,Centre-Back,Slovakia,RCD Mallorca,6.42
+José Copete,24,Centre-Back,Spain,RCD Mallorca,3.0
+Siebe Van der Heyden,26,Centre-Back,Belgium,RCD Mallorca,2.14
+Antonio Raíllo,32,Centre-Back,Spain,RCD Mallorca,2.14
+Matija Nastasic,31,Centre-Back,Serbia,RCD Mallorca,1.6
+Toni Lato,26,Left-Back,Spain,RCD Mallorca,3.75
+Jaume Costa,36,Left-Back,Spain,RCD Mallorca,0.96
+Pablo Maffeo,26,Right-Back,Argentina,RCD Mallorca,5.35
+Giovanni González,29,Right-Back,Uruguay,RCD Mallorca,3.21
+Nacho Vidal,29,Right-Back,Spain,RCD Mallorca,2.14
+Samú Costa,23,Defensive Midfield,Portugal,RCD Mallorca,10.7
+Omar Mascarell,31,Defensive Midfield,Equatorial Guinea,RCD Mallorca,1.07
+Sergi Darder,30,Central Midfield,Spain,RCD Mallorca,6.42
+Manu Morlanes,25,Central Midfield,Spain,RCD Mallorca,2.67
+Antonio Sánchez,27,Central Midfield,Spain,RCD Mallorca,2.67
+Dani Rodríguez,36,Attacking Midfield,Spain,RCD Mallorca,1.07
+Nemanja Radonjic,28,Left Winger,Serbia,RCD Mallorca,3.0
+Javi Llabrés,21,Left Winger,Spain,RCD Mallorca,0.75
+Vedat Muriqi,30,Centre-Forward,Kosovo,RCD Mallorca,12.84
+Cyle Larin,29,Centre-Forward,Canada,RCD Mallorca,4.28
+Abdón Prats,31,Centre-Forward,Spain,RCD Mallorca,1.93
+Luís Maximiano,25,Goalkeeper,Portugal,UD Almeria,5.35
+Fernando Martínez,34,Goalkeeper,Spain,UD Almeria,0.75
+Diego Mariño,34,Goalkeeper,Spain,UD Almeria,0.32
+Edgar González,27,Centre-Back,Spain,UD Almeria,3.21
+César Montes,27,Centre-Back,Mexico,UD Almeria,3.21
+Chumi,25,Centre-Back,Spain,UD Almeria,2.14
+Aleksandar Radovanovic,30,Centre-Back,Serbia,UD Almeria,0.96
+Bruno Langa,26,Left-Back,Mozambique,UD Almeria,1.6
+Álex Centelles,24,Left-Back,Spain,UD Almeria,1.28
+Marc Pubill,21,Right-Back,Spain,UD Almeria,4.28
+Álex Pozo,25,Right-Back,Spain,UD Almeria,2.14
+Dion Lopy,22,Defensive Midfield,Senegal,UD Almeria,10.7
+Lucas Robertone,27,Central Midfield,Argentina,UD Almeria,7.49
+Iddrisu Baba,28,Central Midfield,Ghana,UD Almeria,2.35
+Gonzalo Melero,30,Central Midfield,Spain,UD Almeria,1.93
+Marcos Peña,19,Central Midfield,Spain,UD Almeria,1.07
+Sergio Arribas,22,Attacking Midfield,Spain,UD Almeria,10.7
+Jonathan Viera,34,Attacking Midfield,Spain,UD Almeria,1.07
+Largie Ramazani,23,Left Winger,Belgium,UD Almeria,5.35
+Luka Romero,19,Right Winger,Argentina,UD Almeria,5.35
+Adrián Embarba,32,Right Winger,Spain,UD Almeria,1.93
+Luis Suárez,26,Centre-Forward,Colombia,UD Almeria,3.75
+Ibrahima Koné,25,Centre-Forward,Mali,UD Almeria,2.67
+Léo Baptistão,31,Centre-Forward,Brazil,UD Almeria,1.6
+Choco Lozano,31,Centre-Forward,Honduras,UD Almeria,1.28
+Marko Milovanovic,20,Centre-Forward,Serbia,UD Almeria,0.96
+Augusto Batalla,28,Goalkeeper,Argentina,Granada CF,5.35
+Marc Martínez,34,Goalkeeper,Spain,Granada CF,0.32
+Raúl Fernández,36,Goalkeeper,Spain,Granada CF,0.21
+Bruno Méndez,24,Centre-Back,Uruguay,Granada CF,5.35
+Raúl Torrente,22,Centre-Back,Spain,Granada CF,3.21
+Kamil Piatkowski,24,Centre-Back,Poland,Granada CF,2.67
+Miguel Rubio,26,Centre-Back,Spain,Granada CF,1.6
+Ignasi Miquel,31,Centre-Back,Spain,Granada CF,1.28
+Jesús Vallejo,27,Centre-Back,Spain,Granada CF,1.07
+Faitout Maouassa,25,Left-Back,France,Granada CF,4.28
+Carlos Neva,28,Left-Back,Spain,Granada CF,2.67
+Ricard Sánchez,24,Right-Back,Spain,Granada CF,2.67
+Víctor Díaz,36,Right-Back,Spain,Granada CF,0.43
+Gerard Gumbau,29,Defensive Midfield,Spain,Granada CF,3.21
+Martin Hongla,26,Defensive Midfield,Cameroon,Granada CF,2.67
+Gonzalo Villar,26,Central Midfield,Spain,Granada CF,3.21
+Sergio Ruiz,29,Central Midfield,Spain,Granada CF,2.14
+Óscar Melendo,26,Attacking Midfield,Spain,Granada CF,2.14
+Myrto Uzuni,29,Left Winger,Albania,Granada CF,8.56
+Kamil Jóźwiak,26,Left Winger,Poland,Granada CF,2.14
+Facundo Pellistri,22,Right Winger,Uruguay,Granada CF,8.56
+Antonio Puertas,32,Right Winger,Spain,Granada CF,2.14
+Theo Corbeanu,22,Right Winger,Canada,Granada CF,1.6
+José Callejón,37,Right Winger,Spain,Granada CF,0.86
+Lucas Boyé,28,Centre-Forward,Argentina,Granada CF,7.49
+Matías Arezo,21,Centre-Forward,Uruguay,Granada CF,7.49
+Stole Dimitrievski,30,Goalkeeper,North Macedonia,Rayo Vallecano,4.28
+Dani Cárdenas,27,Goalkeeper,Spain,Rayo Vallecano,1.93
+Florian Lejeune,33,Centre-Back,France,Rayo Vallecano,3.21
+Abdul Mumin,26,Centre-Back,Ghana,Rayo Vallecano,2.67
+Aridane Hernández,35,Centre-Back,Spain,Rayo Vallecano,0.86
+Martín Pascual,24,Centre-Back,Spain,Rayo Vallecano,0.32
+Alfonso Espino,32,Left-Back,Uruguay,Rayo Vallecano,2.57
+Pep Chavarría,26,Left-Back,Spain,Rayo Vallecano,2.14
+Iván Balliu,32,Right-Back,Albania,Rayo Vallecano,2.14
+Andrei Rațiu,26,Right-Back,Romania,Rayo Vallecano,1.5
+Miguel Crespo,27,Central Midfield,Portugal,Rayo Vallecano,4.28
+Óscar Valentín,29,Central Midfield,Spain,Rayo Vallecano,4.28
+Kike Pérez,27,Central Midfield,Spain,Rayo Vallecano,3.21
+Unai López,28,Central Midfield,Spain,Rayo Vallecano,3.21
+Pathé Ciss,30,Central Midfield,Senegal,Rayo Vallecano,2.67
+Randy Nteka,26,Attacking Midfield,Angola,Rayo Vallecano,1.6
+José Pozo,28,Attacking Midfield,Spain,Rayo Vallecano,1.07
+Óscar Trejo,36,Attacking Midfield,Argentina,Rayo Vallecano,1.07
+Álvaro García,31,Left Winger,Spain,Rayo Vallecano,3.21
+Bebé,33,Left Winger,Cape Verde,Rayo Vallecano,0.64
+Isi Palazón,29,Right Winger,Spain,Rayo Vallecano,8.56
+Jorge de Frutos,27,Right Winger,Spain,Rayo Vallecano,4.28
+Sergio Camello,23,Centre-Forward,Spain,Rayo Vallecano,3.21
+Raúl de Tomás,29,Centre-Forward,Spain,Rayo Vallecano,2.14
+Radamel Falcao,38,Centre-Forward,Colombia,Rayo Vallecano,0.86
+Conan Ledesma,31,Goalkeeper,Argentina,Cadiz CF,5.35
+David Gil,30,Goalkeeper,Spain,Cadiz CF,0.75
+Fali,30,Centre-Back,Spain,Cadiz CF,2.14
+Víctor Chust,24,Centre-Back,Spain,Cadiz CF,2.14
+Aiham Ousou,24,Centre-Back,Syria,Cadiz CF,1.93
+Jorge Meré,27,Centre-Back,Spain,Cadiz CF,1.07
+Luis Hernández,35,Centre-Back,Spain,Cadiz CF,0.54
+Momo Mbaye,25,Centre-Back,Senegal,Cadiz CF,0.43
+Javi Hernández,26,Left-Back,Spain,Cadiz CF,2.67
+Lucas Pires,23,Left-Back,Brazil,Cadiz CF,2.14
+Iza Carcelén,31,Right-Back,Spain,Cadiz CF,1.6
+Joseba Zaldua,32,Right-Back,Spain,Cadiz CF,0.96
+Diadié Samassékou,28,Defensive Midfield,Mali,Cadiz CF,2.14
+José Mari,36,Defensive Midfield,Spain,Cadiz CF,0.21
+Rominigue Kouamé,27,Central Midfield,Mali,Cadiz CF,2.14
+Rubén Alcaraz,33,Central Midfield,Spain,Cadiz CF,1.6
+Gonzalo Escalante,31,Central Midfield,Argentina,Cadiz CF,1.6
+Fede San Emeterio,27,Central Midfield,Spain,Cadiz CF,1.6
+Robert Navarro,22,Attacking Midfield,Spain,Cadiz CF,6.42
+Álex Fernández,31,Attacking Midfield,Spain,Cadiz CF,1.6
+Juanmi,31,Left Winger,Spain,Cadiz CF,6.42
+Darwin Machís,31,Left Winger,Venezuela,Cadiz CF,2.14
+Brian Ocampo,25,Left Winger,Uruguay,Cadiz CF,0.96
+Iván Alejo,29,Right Winger,Spain,Cadiz CF,1.6
+Chris Ramos,27,Centre-Forward,Spain,Cadiz CF,4.28
+Maxi Gómez,27,Centre-Forward,Uruguay,Cadiz CF,2.14
+Rubén Sobrino,32,Centre-Forward,Spain,Cadiz CF,1.5
+Roger Martí,33,Centre-Forward,Spain,Cadiz CF,1.28
+Sergi Guardiola,33,Centre-Forward,Spain,Cadiz CF,0.86
+Gianluigi Donnarumma,25,Goalkeeper,Italy,Paris Saint-Germain,42.8
+Arnau Tenas,23,Goalkeeper,Spain,Paris Saint-Germain,5.35
+Keylor Navas,37,Goalkeeper,Costa Rica,Paris Saint-Germain,1.6
+Sergio Rico,30,Goalkeeper,Spain,Paris Saint-Germain,1.6
+Alexandre Letellier,33,Goalkeeper,France,Paris Saint-Germain,0.27
+Marquinhos,30,Centre-Back,Brazil,Paris Saint-Germain,53.5
+Lucas Beraldo,20,Centre-Back,Brazil,Paris Saint-Germain,32.1
+Milan Skriniar,29,Centre-Back,Slovakia,Paris Saint-Germain,32.1
+Presnel Kimpembe,28,Centre-Back,France,Paris Saint-Germain,12.84
+Nuno Mendes,22,Left-Back,Portugal,Paris Saint-Germain,58.85
+Lucas Hernández,28,Left-Back,France,Paris Saint-Germain,42.8
+Layvin Kurzawa,31,Left-Back,France,Paris Saint-Germain,1.93
+Achraf Hakimi,25,Right-Back,Morocco,Paris Saint-Germain,64.2
+Nordi Mukiele,26,Right-Back,France,Paris Saint-Germain,10.7
+Yoram Zague,18,Right-Back,France,Paris Saint-Germain,2.67
+Manuel Ugarte,23,Defensive Midfield,Uruguay,Paris Saint-Germain,48.15
+Danilo Pereira,32,Defensive Midfield,Portugal,Paris Saint-Germain,8.56
+Warren Zaïre-Emery,18,Central Midfield,France,Paris Saint-Germain,64.2
+Vitinha,24,Central Midfield,Portugal,Paris Saint-Germain,53.5
+Fabián Ruiz,28,Central Midfield,Spain,Paris Saint-Germain,32.1
+Carlos Soler,27,Central Midfield,Spain,Paris Saint-Germain,21.4
+Ethan Mbappé,17,Central Midfield,France,Paris Saint-Germain,1.6
+Kang-in Lee,23,Attacking Midfield,South Korea,Paris Saint-Germain,26.75
+Senny Mayulu,18,Attacking Midfield,France,Paris Saint-Germain,5.35
+Bradley Barcola,21,Left Winger,France,Paris Saint-Germain,53.5
+Ousmane Dembélé,27,Right Winger,France,Paris Saint-Germain,64.2
+Marco Asensio,28,Right Winger,Spain,Paris Saint-Germain,21.4
+Kylian Mbappé,25,Centre-Forward,France,Paris Saint-Germain,192.6
+Gonçalo Ramos,23,Centre-Forward,Portugal,Paris Saint-Germain,53.5
+Randal Kolo Muani,25,Centre-Forward,France,Paris Saint-Germain,48.15
+Radoslaw Majecki,24,Goalkeeper,Poland,AS Monaco,5.35
+Philipp Köhn,26,Goalkeeper,Switzerland,AS Monaco,5.35
+Yann Lienard,21,Goalkeeper,France,AS Monaco,0.21
+Mohammed Salisu,25,Centre-Back,Ghana,AS Monaco,16.05
+Guillermo Maripán,30,Centre-Back,Chile,AS Monaco,10.7
+Thilo Kehrer,27,Centre-Back,Germany,AS Monaco,10.7
+Soungoutou Magassa,20,Centre-Back,France,AS Monaco,8.56
+Caio Henrique,26,Left-Back,Brazil,AS Monaco,21.4
+Ismail Jakobs,24,Left-Back,Senegal,AS Monaco,8.56
+Kassoum Ouattara,19,Left-Back,France,AS Monaco,8.56
+Wilfried Singo,23,Right-Back,Cote d'Ivoire,AS Monaco,26.75
+Vanderson,23,Right-Back,Brazil,AS Monaco,21.4
+Denis Zakaria,27,Defensive Midfield,Switzerland,AS Monaco,26.75
+Mohamed Camara,24,Defensive Midfield,Mali,AS Monaco,21.4
+Youssouf Fofana,25,Central Midfield,France,AS Monaco,32.1
+Edan Diop,19,Central Midfield,France,AS Monaco,2.14
+Aleksandr Golovin,28,Attacking Midfield,Russia,AS Monaco,32.1
+Maghnes Akliouche,22,Attacking Midfield,France,AS Monaco,26.75
+Eliesse Ben Seghir,19,Attacking Midfield,Morocco,AS Monaco,16.05
+Takumi Minamino,29,Left Winger,Japan,AS Monaco,21.4
+Krépin Diatta,25,Right Winger,Senegal,AS Monaco,12.84
+Folarin Balogun,22,Centre-Forward,United States,AS Monaco,32.1
+Breel Embolo,27,Centre-Forward,Switzerland,AS Monaco,12.84
+Wissam Ben Yedder,33,Centre-Forward,France,AS Monaco,8.56
+Lucas Chevalier,22,Goalkeeper,France,LOSC Lille,26.75
+Vito Mannone,36,Goalkeeper,Italy,LOSC Lille,0.21
+Adam Jakubech,27,Goalkeeper,Slovakia,LOSC Lille,0.21
+Leny Yoro,18,Centre-Back,France,LOSC Lille,53.5
+Alexsandro,24,Centre-Back,Brazil,LOSC Lille,8.56
+Samuel Umtiti,30,Centre-Back,France,LOSC Lille,2.67
+Rafael Fernandes,21,Centre-Back,Portugal,LOSC Lille,1.6
+Gabriel Gudmundsson,25,Left-Back,Sweden,LOSC Lille,5.35
+Ismaily,34,Left-Back,Brazil,LOSC Lille,1.93
+Bafodé Diakité,23,Right-Back,France,LOSC Lille,19.26
+Tiago Santos,21,Right-Back,Portugal,LOSC Lille,16.05
+Nabil Bentaleb,29,Defensive Midfield,Algeria,LOSC Lille,10.7
+Benjamin André,33,Defensive Midfield,France,LOSC Lille,8.56
+Ignacio Miramón,21,Defensive Midfield,Argentina,LOSC Lille,2.67
+Ayyoub Bouaddi,16,Central Midfield,France,LOSC Lille,6.42
+Angel Gomes,23,Attacking Midfield,England,LOSC Lille,26.75
+Yusuf Yazıcı,27,Attacking Midfield,Türkiye,LOSC Lille,10.7
+Rémy Cabella,34,Attacking Midfield,France,LOSC Lille,3.75
+Hákon Arnar Haraldsson,21,Left Winger,Iceland,LOSC Lille,9.63
+Tiago Morais,20,Left Winger,Portugal,LOSC Lille,3.21
+Ivan Cavaleiro,30,Left Winger,Angola,LOSC Lille,2.14
+Edon Zhegrova,25,Right Winger,Kosovo,LOSC Lille,26.75
+Adam Ounas,27,Right Winger,Algeria,LOSC Lille,4.28
+Jonathan David,24,Centre-Forward,Canada,LOSC Lille,53.5
+Andrej Ilic,24,Centre-Forward,Serbia,LOSC Lille,3.21
+Gauthier Gallon,31,Goalkeeper,France,Stade Rennais FC,1.28
+Steve Mandanda,39,Goalkeeper,France,Stade Rennais FC,0.86
+Geoffrey Lembet,35,Goalkeeper,Central African Republic,Stade Rennais FC,0.16
+Arthur Theate,24,Centre-Back,Belgium,Stade Rennais FC,21.4
+Jeanuël Belocian,19,Centre-Back,France,Stade Rennais FC,10.7
+Alidu Seidu,24,Centre-Back,Ghana,Stade Rennais FC,9.63
+Warmed Omari,24,Centre-Back,France,Stade Rennais FC,8.56
+Christopher Wooh,22,Centre-Back,Cameroon,Stade Rennais FC,6.42
+Adrien Truffert,22,Left-Back,France,Stade Rennais FC,19.26
+Mahamadou Nagida,18,Left-Back,Cameroon,Stade Rennais FC,0.54
+Guéla Doué,21,Right-Back,Cote d'Ivoire,Stade Rennais FC,7.49
+Azor Matusiwa,26,Defensive Midfield,Netherlands,Stade Rennais FC,12.84
+Baptiste Santamaria,29,Defensive Midfield,France,Stade Rennais FC,10.7
+Benjamin Bourigeaud,30,Central Midfield,France,Stade Rennais FC,19.26
+Enzo Le Fée,24,Central Midfield,France,Stade Rennais FC,19.26
+Ludovic Blas,26,Attacking Midfield,France,Stade Rennais FC,16.05
+Fabian Rieder,22,Attacking Midfield,Switzerland,Stade Rennais FC,8.56
+Désiré Doué,19,Left Winger,France,Stade Rennais FC,32.1
+Amine Gouiri,24,Left Winger,Algeria,Stade Rennais FC,26.75
+Martin Terrier,27,Left Winger,France,Stade Rennais FC,21.4
+Ibrahim Salah,22,Left Winger,Morocco,Stade Rennais FC,4.28
+Arnaud Kalimuendo,22,Centre-Forward,France,Stade Rennais FC,21.4
+Bertuğ Yıldırım,21,Centre-Forward,Türkiye,Stade Rennais FC,3.75
+Mathis Lambourde,18,Centre-Forward,France,Stade Rennais FC,0.54
+Marcin Bulka,24,Goalkeeper,Poland,OGC Nice,21.4
+Maxime Dupé,31,Goalkeeper,France,OGC Nice,1.6
+Teddy Boulhendi,23,Goalkeeper,Algeria,OGC Nice,0.11
+Jean-Clair Todibo,24,Centre-Back,France,OGC Nice,37.45
+Dante,40,Centre-Back,Brazil,OGC Nice,0.54
+Amidou Doumbouya,16,Centre-Back,France,OGC Nice,0.32
+Yannis Nahounou,20,Centre-Back,France,OGC Nice,0.05
+Melvin Bard,23,Left-Back,France,OGC Nice,12.84
+Romain Perraud,26,Left-Back,France,OGC Nice,5.35
+Jordan Lotomba,25,Right-Back,Switzerland,OGC Nice,8.56
+Valentin Rosier,27,Right-Back,France,OGC Nice,4.28
+Antoine Mendy,20,Right-Back,France,OGC Nice,0.86
+Youssouf Ndayishimiye,25,Defensive Midfield,Burundi,OGC Nice,16.05
+Pablo Rosario,27,Defensive Midfield,Netherlands,OGC Nice,8.56
+Alexis Beka Beka,23,Defensive Midfield,France,OGC Nice,1.6
+Khéphren Thuram,23,Central Midfield,France,OGC Nice,37.45
+Hicham Boudaoui,24,Central Midfield,Algeria,OGC Nice,9.63
+Morgan Sanson,29,Central Midfield,France,OGC Nice,8.56
+Tom Louchet,21,Central Midfield,France,OGC Nice,3.21
+Daouda Traoré,17,Central Midfield,France,OGC Nice,0.05
+Alexis Claude-Maurice,26,Attacking Midfield,France,OGC Nice,3.75
+Jérémie Boga,27,Left Winger,Cote d'Ivoire,OGC Nice,16.05
+Sofiane Diop,24,Left Winger,Morocco,OGC Nice,12.84
+Mohamed-Ali Cho,20,Left Winger,France,OGC Nice,10.7
+Aliou Baldé,21,Left Winger,Guinea,OGC Nice,0.86
+Terem Moffi,25,Centre-Forward,Nigeria,OGC Nice,26.75
+Gaëtan Laborde,30,Centre-Forward,France,OGC Nice,10.7
+Evann Guessand,22,Centre-Forward,Cote d'Ivoire,OGC Nice,8.56
+Lucas Perri,26,Goalkeeper,Brazil,Lyon,6.42
+Anthony Lopes,33,Goalkeeper,Portugal,Lyon,4.28
+Justin Bengui Joao,18,Goalkeeper,France,Lyon,0.32
+Jake O'Brien,23,Centre-Back,Ireland,Lyon,12.84
+Duje Caleta-Car,27,Centre-Back,Croatia,Lyon,7.49
+Sinaly Diomandé,23,Centre-Back,Cote d'Ivoire,Lyon,4.28
+Adryelson,26,Centre-Back,Brazil,Lyon,4.28
+Dejan Lovren,34,Centre-Back,Croatia,Lyon,1.28
+Nicolás Tagliafico,31,Left-Back,Argentina,Lyon,8.56
+Henrique Silva,30,Left-Back,Brazil,Lyon,1.07
+Saël Kumbedi,19,Right-Back,France,Lyon,7.49
+Clinton Mata,31,Right-Back,Angola,Lyon,4.28
+Johann Lepenant,21,Defensive Midfield,France,Lyon,6.42
+Nemanja Matic,35,Defensive Midfield,Serbia,Lyon,3.21
+Paul Akouokou,26,Defensive Midfield,Cote d'Ivoire,Lyon,1.6
+Maxence Caqueret,24,Central Midfield,France,Lyon,21.4
+Orel Mangala,26,Central Midfield,Belgium,Lyon,21.4
+Corentin Tolisso,29,Central Midfield,France,Lyon,5.35
+Mahamadou Diawara,19,Central Midfield,France,Lyon,3.21
+Mohamed El Arouch,20,Central Midfield,France,Lyon,1.6
+Ainsley Maitland-Niles,26,Right Midfield,England,Lyon,9.63
+Malick Fofana,19,Left Midfield,Belgium,Lyon,16.05
+Rayan Cherki,20,Attacking Midfield,France,Lyon,26.75
+Saïd Benrahma,28,Left Winger,Algeria,Lyon,21.4
+Ernest Nuamah,20,Right Winger,Ghana,Lyon,19.26
+Gift Orban,21,Centre-Forward,Nigeria,Lyon,16.05
+Alexandre Lacazette,33,Centre-Forward,France,Lyon,9.63
+Mama Baldé,28,Centre-Forward,Guinea-Bissau,Lyon,4.28
+Pau López,29,Goalkeeper,Spain,Marseille,10.7
+Rubén Blanco,28,Goalkeeper,Spain,Marseille,2.14
+Simon Ngapandouetnbu,21,Goalkeeper,Cameroon,Marseille,0.32
+Leonardo Balerdi,25,Centre-Back,Argentina,Marseille,21.4
+Chancel Mbemba,29,Centre-Back,DR Congo,Marseille,16.05
+Samuel Gigot,30,Centre-Back,France,Marseille,9.63
+Bamo Meïté,22,Centre-Back,Cote d'Ivoire,Marseille,6.42
+Quentin Merlin,22,Left-Back,France,Marseille,10.7
+Ulisses Garcia,28,Left-Back,Switzerland,Marseille,4.28
+Jonathan Clauss,31,Right-Back,France,Marseille,12.84
+Amir Murillo,28,Right-Back,Panama,Marseille,4.28
+Geoffrey Kondogbia,31,Defensive Midfield,Central African Republic,Marseille,12.84
+Pape Gueye,25,Defensive Midfield,Senegal,Marseille,6.42
+Jean Onana,24,Defensive Midfield,Cameroon,Marseille,4.28
+Jordan Veretout,31,Central Midfield,France,Marseille,16.05
+Azzedine Ounahi,24,Central Midfield,Morocco,Marseille,12.84
+Valentin Rongier,29,Central Midfield,France,Marseille,12.84
+Bilal Nadir,20,Central Midfield,Morocco,Marseille,0.54
+Emran Soglo,18,Left Midfield,England,Marseille,1.07
+Amine Harit,27,Attacking Midfield,Morocco,Marseille,16.05
+Luis Henrique,22,Left Winger,Brazil,Marseille,8.56
+Ismaïla Sarr,26,Right Winger,Senegal,Marseille,19.26
+Joaquín Correa,29,Second Striker,Argentina,Marseille,6.42
+Iliman Ndiaye,24,Centre-Forward,Senegal,Marseille,16.05
+Faris Moumbagna,23,Centre-Forward,Cameroon,Marseille,10.7
+Pierre-Emerick Aubameyang,35,Centre-Forward,Gabon,Marseille,5.35
+Brice Samba,30,Goalkeeper,France,RC Lens,16.05
+Jean-Louis Leca,38,Goalkeeper,France,RC Lens,0.21
+Yannick Pandor,23,Goalkeeper,Comoros,RC Lens,0.11
+Kevin Danso,25,Centre-Back,Austria,RC Lens,26.75
+Facundo Medina,25,Centre-Back,Argentina,RC Lens,26.75
+Jonathan Gradit,31,Centre-Back,France,RC Lens,4.82
+Abdukodir Khusanov,20,Centre-Back,Uzbekistan,RC Lens,2.67
+Deiver Machado,30,Left-Back,Colombia,RC Lens,4.28
+Jhoanner Chávez,22,Left-Back,Ecuador,RC Lens,2.14
+Massadio Haidara,31,Left-Back,Mali,RC Lens,2.14
+Ruben Aguilar,31,Right-Back,France,RC Lens,5.35
+Salis Abdul Samed,24,Defensive Midfield,Ghana,RC Lens,8.56
+Nampalys Mendy,32,Defensive Midfield,Senegal,RC Lens,3.21
+Andy Diouf,21,Central Midfield,France,RC Lens,9.63
+Neil El Aynaoui,22,Central Midfield,Morocco,RC Lens,8.56
+Przemyslaw Frankowski,29,Right Midfield,Poland,RC Lens,9.63
+Jimmy Cabot,30,Right Midfield,France,RC Lens,2.67
+David Pereira da Costa,23,Attacking Midfield,Portugal,RC Lens,8.56
+Angelo Fulgini,27,Attacking Midfield,France,RC Lens,7.49
+Adrien Thomasson,30,Attacking Midfield,France,RC Lens,5.35
+Ayanda Sishuba,19,Attacking Midfield,Belgium,RC Lens,0.54
+Nolan Bonte,20,Attacking Midfield,France,RC Lens,0.05
+Morgan Guilavogui,26,Right Winger,Guinea,RC Lens,3.21
+Elye Wahi,21,Centre-Forward,France,RC Lens,37.45
+Wesley Saïd,29,Centre-Forward,France,RC Lens,4.28
+Florian Sotoca,33,Centre-Forward,France,RC Lens,3.21
+Ibrahima Baldé,21,Centre-Forward,France,RC Lens,0.32
+Alaa Bellaarouch,22,Goalkeeper,Morocco,RC Strasbourg Alsace,2.14
+Matthieu Dreyer,35,Goalkeeper,France,RC Strasbourg Alsace,0.16
+Alexandre Pierre,23,Goalkeeper,Haiti,RC Strasbourg Alsace,0.11
+Abakar Sylla,21,Centre-Back,Cote d'Ivoire,RC Strasbourg Alsace,12.84
+Ismaël Doukouré,20,Centre-Back,France,RC Strasbourg Alsace,10.7
+Lucas Perrin,25,Centre-Back,France,RC Strasbourg Alsace,3.21
+Saïdou Sow,21,Centre-Back,Guinea,RC Strasbourg Alsace,2.67
+Steven Baseya,19,Centre-Back,France,RC Strasbourg Alsace,0.05
+Thomas Delaine,32,Left-Back,France,RC Strasbourg Alsace,1.07
+Frédéric Guilbert,29,Right-Back,France,RC Strasbourg Alsace,4.28
+Marvin Senaya,23,Right-Back,France,RC Strasbourg Alsace,2.14
+Karol Fila,26,Right-Back,Poland,RC Strasbourg Alsace,0.75
+Junior Mwanga,21,Defensive Midfield,France,RC Strasbourg Alsace,7.49
+Ibrahima Sissoko,26,Defensive Midfield,Mali,RC Strasbourg Alsace,6.42
+Jean-Eudes Aholou,30,Defensive Midfield,Cote d'Ivoire,RC Strasbourg Alsace,0.86
+Andrey Santos,20,Central Midfield,Brazil,RC Strasbourg Alsace,16.05
+Jessy Deminguet,26,Central Midfield,France,RC Strasbourg Alsace,1.28
+Habib Diarra,20,Attacking Midfield,Senegal,RC Strasbourg Alsace,19.26
+Dilane Bakwa,21,Left Winger,France,RC Strasbourg Alsace,10.7
+Ângelo,19,Right Winger,Brazil,RC Strasbourg Alsace,16.05
+Emanuel Emegha,21,Centre-Forward,Netherlands,RC Strasbourg Alsace,12.84
+Moïse Sahi Dion,22,Centre-Forward,Cote d'Ivoire,RC Strasbourg Alsace,2.14
+Lebo Mothiba,28,Centre-Forward,South Africa,RC Strasbourg Alsace,1.6
+Kévin Gameiro,37,Centre-Forward,France,RC Strasbourg Alsace,0.75
+Guillaume Restes,19,Goalkeeper,France,FC Toulouse,19.26
+Álex Domínguez,25,Goalkeeper,Spain,FC Toulouse,0.32
+Thomas Himeur,23,Goalkeeper,France,FC Toulouse,0.05
+Justin Lacombe,21,Goalkeeper,France,FC Toulouse,0.05
+Logan Costa,23,Centre-Back,Cape Verde,FC Toulouse,12.84
+Christian Mawissa,19,Centre-Back,France,FC Toulouse,9.63
+Rasmus Nicolaisen,27,Centre-Back,Denmark,FC Toulouse,6.42
+Moussa Diarra,23,Centre-Back,Mali,FC Toulouse,2.14
+Kévin Keben,20,Centre-Back,Cameroon,FC Toulouse,0.54
+Gabriel Suazo,26,Left-Back,Chile,FC Toulouse,3.75
+Ylies Aradj,19,Left-Back,France,FC Toulouse,0.0
+Mikkel Desler,29,Right-Back,Denmark,FC Toulouse,3.21
+Warren Kamanzi,23,Right-Back,Norway,FC Toulouse,2.14
+Stijn Spierings,28,Defensive Midfield,Netherlands,FC Toulouse,4.82
+Vincent Sierro,28,Central Midfield,Switzerland,FC Toulouse,4.28
+Cristian Cásseres Jr.,24,Central Midfield,Venezuela,FC Toulouse,4.28
+Yann Gboho,23,Attacking Midfield,France,FC Toulouse,4.28
+Niklas Schmidt,26,Attacking Midfield,Germany,FC Toulouse,3.21
+Denis Genreau,25,Attacking Midfield,Australia,FC Toulouse,1.6
+César Gelabert,23,Attacking Midfield,Spain,FC Toulouse,1.6
+Naatan Skyttä,22,Attacking Midfield,Finland,FC Toulouse,0.43
+Ibrahim Cissoko,21,Left Winger,Netherlands,FC Toulouse,1.6
+Zakaria Aboukhlal,24,Right Winger,Morocco,FC Toulouse,10.7
+Aron Dønnum,26,Right Winger,Norway,FC Toulouse,3.75
+Shavy Babicka,24,Right Winger,Gabon,FC Toulouse,2.14
+Thijs Dallinga,23,Centre-Forward,Netherlands,FC Toulouse,19.26
+Frank Magri,24,Centre-Forward,Cameroon,FC Toulouse,3.21
+Marco Bizot,33,Goalkeeper,Netherlands,Stade Brestois 29,4.28
+Grégoire Coudert,25,Goalkeeper,France,Stade Brestois 29,0.43
+Yan Marillat,29,Goalkeeper,France,Stade Brestois 29,0.16
+Lilian Brassier,24,Centre-Back,France,Stade Brestois 29,12.84
+Brendan Chardonnet,29,Centre-Back,France,Stade Brestois 29,8.56
+Julien Le Cardinal,26,Centre-Back,France,Stade Brestois 29,1.6
+Bradley Locko,22,Left-Back,France,Stade Brestois 29,12.84
+Jordan Amavi,30,Left-Back,France,Stade Brestois 29,1.28
+Antonin Cartillier,20,Left-Back,France,Stade Brestois 29,0.21
+Kenny Lala,32,Right-Back,France,Stade Brestois 29,3.21
+Luck Zogbé,19,Right-Back,Cote d'Ivoire,Stade Brestois 29,0.11
+Pierre Lees-Melou,31,Defensive Midfield,France,Stade Brestois 29,10.7
+Jonas Martin,34,Defensive Midfield,France,Stade Brestois 29,1.07
+Mahdi Camara,25,Central Midfield,France,Stade Brestois 29,10.7
+Hugo Magnetti,26,Central Midfield,France,Stade Brestois 29,7.49
+Axel Camblan,20,Left Midfield,France,Stade Brestois 29,0.54
+Kamory Doumbia,21,Attacking Midfield,Mali,Stade Brestois 29,5.35
+Jérémy Le Douaron,26,Left Winger,France,Stade Brestois 29,5.35
+Billal Brahimi,24,Left Winger,Algeria,Stade Brestois 29,3.21
+Mathias Pereira Lage,27,Left Winger,France,Stade Brestois 29,2.67
+Adrien Lebeau,24,Left Winger,France,Stade Brestois 29,0.32
+Romain Del Castillo,28,Right Winger,France,Stade Brestois 29,10.7
+Martín Satriano,23,Centre-Forward,Uruguay,Stade Brestois 29,7.49
+Steve Mounié,29,Centre-Forward,Benin,Stade Brestois 29,6.42
+Yehvann Diouf,24,Goalkeeper,France,Stade Reims,8.56
+Alexandre Olliero,28,Goalkeeper,France,Stade Reims,0.43
+Ludovic Butelle,41,Goalkeeper,France,Stade Reims,0.11
+Joseph Okumu,27,Centre-Back,Kenya,Stade Reims,9.63
+Emmanuel Agbadou,27,Centre-Back,Cote d'Ivoire,Stade Reims,9.63
+Yunis Abdelhamid,36,Centre-Back,Morocco,Stade Reims,0.64
+Sergio Akieme,26,Left-Back,Spain,Stade Reims,7.49
+Thibault De Smet,26,Left-Back,Belgium,Stade Reims,4.28
+Thomas Foket,29,Right-Back,Belgium,Stade Reims,6.42
+Maxime Busi,24,Right-Back,Belgium,Stade Reims,1.6
+Thérence Koudou,19,Right-Back,France,Stade Reims,0.86
+Valentin Atangana,18,Defensive Midfield,France,Stade Reims,1.07
+Benjamin Stambouli,33,Defensive Midfield,France,Stade Reims,0.75
+Marshall Munetsi,28,Central Midfield,Zimbabwe,Stade Reims,10.7
+Teddy Teuma,30,Central Midfield,Malta,Stade Reims,7.49
+Amir Richardson,22,Central Midfield,Morocco,Stade Reims,6.42
+Reda Khadra,22,Attacking Midfield,Germany,Stade Reims,3.21
+Amadou Koné,19,Attacking Midfield,Cote d'Ivoire,Stade Reims,0.54
+Mohamed Daramy,22,Left Winger,Denmark,Stade Reims,10.7
+Keito Nakamura,23,Left Winger,Japan,Stade Reims,9.63
+Mamadou Diakhon,18,Left Winger,France,Stade Reims,0.75
+Junya Ito,31,Right Winger,Japan,Stade Reims,8.56
+Oumar Diakité,20,Centre-Forward,Cote d'Ivoire,Stade Reims,6.42
+Adama Bojang,20,Centre-Forward,The Gambia,Stade Reims,0.54
+Yvon Mvogo,30,Goalkeeper,Switzerland,FC Lorient,3.21
+Alfred Gomis,30,Goalkeeper,Senegal,FC Lorient,1.07
+Dominique Youfeigane,24,Goalkeeper,Central African Republic,FC Lorient,0.16
+Montassar Talbi,26,Centre-Back,Tunisia,FC Lorient,7.49
+Isaak Touré,21,Centre-Back,France,FC Lorient,7.49
+Formose Mendy,23,Centre-Back,Senegal,FC Lorient,4.82
+Nathaniel Adjei,21,Centre-Back,Ghana,FC Lorient,2.67
+Julien Laporte,30,Centre-Back,France,FC Lorient,2.14
+Loris Mouyokolo,23,Centre-Back,France,FC Lorient,0.32
+Benjamin Mendy,29,Left-Back,France,FC Lorient,2.14
+Darlin Yongwa,23,Left-Back,Cameroon,FC Lorient,1.6
+Gédéon Kalulu,26,Right-Back,DR Congo,FC Lorient,3.75
+Panos Katseris,22,Right-Back,Greece,FC Lorient,2.67
+Igor Silva,27,Right-Back,Brazil,FC Lorient,1.07
+Laurent Abergel,31,Defensive Midfield,France,FC Lorient,3.21
+Tiemoué Bakayoko,29,Defensive Midfield,France,FC Lorient,2.14
+Bonke Innocent,28,Defensive Midfield,Nigeria,FC Lorient,1.07
+Imrân Louza,25,Central Midfield,Morocco,FC Lorient,7.49
+Jean-Victor Makengo,26,Central Midfield,France,FC Lorient,6.42
+Ayman Kari,19,Central Midfield,France,FC Lorient,4.28
+Théo Le Bris,21,Left Midfield,France,FC Lorient,2.14
+Julien Ponceau,23,Attacking Midfield,France,FC Lorient,3.75
+Quentin Boisgard,27,Attacking Midfield,France,FC Lorient,0.75
+Badredine Bouanani,19,Right Winger,Algeria,FC Lorient,5.35
+Eli Junior Kroupi,18,Centre-Forward,France,FC Lorient,16.05
+Mohamed Bamba,22,Centre-Forward,Cote d'Ivoire,FC Lorient,6.42
+Bamba Dieng,24,Centre-Forward,Senegal,FC Lorient,4.28
+Aiyegun Tosin,26,Centre-Forward,Benin,FC Lorient,3.21
+Benjamin Lecomte,33,Goalkeeper,France,Montepellier HSC,3.75
+Dimitry Bertaud,26,Goalkeeper,DR Congo,Montepellier HSC,1.28
+Belmin Dizdarevic,22,Goalkeeper,Bosnia-Herzegovina,Montepellier HSC,0.21
+Becir Omeragic,22,Centre-Back,Switzerland,Montepellier HSC,6.42
+Kiki Kouyaté,27,Centre-Back,Mali,Montepellier HSC,5.35
+Modibo Sagnan,25,Centre-Back,Mali,Montepellier HSC,3.21
+Christopher Jullien,31,Centre-Back,France,Montepellier HSC,2.67
+Issiaga Sylla,30,Left-Back,Guinea,Montepellier HSC,2.67
+Théo Sainte-Luce,25,Left-Back,France,Montepellier HSC,1.07
+Lucas Mincarelli,20,Left-Back,France,Montepellier HSC,1.07
+Falaye Sacko,29,Right-Back,Mali,Montepellier HSC,4.28
+Enzo Tchato,21,Right-Back,Cameroon,Montepellier HSC,2.67
+Silvan Hefti,26,Right-Back,Switzerland,Montepellier HSC,2.67
+Joris Chotard,22,Defensive Midfield,France,Montepellier HSC,10.7
+Khalil Fayad,20,Central Midfield,Morocco,Montepellier HSC,5.35
+Jordan Ferri,32,Central Midfield,France,Montepellier HSC,4.82
+Léo Leroy,24,Central Midfield,France,Montepellier HSC,1.07
+Téji Savanier,32,Attacking Midfield,France,Montepellier HSC,9.63
+Sacha Delaye,22,Attacking Midfield,France,Montepellier HSC,0.32
+Yann Karamoh,25,Left Winger,France,Montepellier HSC,2.67
+Wahbi Khazri,33,Left Winger,Tunisia,Montepellier HSC,1.93
+Arnaud Nordin,26,Right Winger,France,Montepellier HSC,8.56
+Mousa Tamari,27,Right Winger,Jordan,Montepellier HSC,8.56
+Tanguy Coulibaly,23,Right Winger,France,Montepellier HSC,2.14
+Akor Adams,24,Centre-Forward,Nigeria,Montepellier HSC,10.7
+Alban Lafont,25,Goalkeeper,France,FC Nantes,9.63
+Rémy Descamps,28,Goalkeeper,France,FC Nantes,1.6
+Denis Petric,36,Goalkeeper,Slovenia,FC Nantes,0.11
+Nathan Zeze,19,Centre-Back,France,FC Nantes,5.35
+Eray Cömert,26,Centre-Back,Switzerland,FC Nantes,4.28
+Jean-Kévin Duverne,26,Centre-Back,Haiti,FC Nantes,3.75
+Jean-Charles Castelletto,29,Centre-Back,Cameroon,FC Nantes,3.75
+Bastien Meupiyou,18,Centre-Back,France,FC Nantes,0.86
+Nicolas Pallois,36,Centre-Back,France,FC Nantes,0.64
+Nicolas Cozza,25,Left-Back,France,FC Nantes,3.75
+Kelvin Amian,26,Right-Back,France,FC Nantes,2.67
+Pedro Chirivella,27,Defensive Midfield,Spain,FC Nantes,7.49
+Douglas Augusto,27,Central Midfield,Brazil,FC Nantes,6.42
+Samuel Moutoussamy,27,Central Midfield,DR Congo,FC Nantes,3.21
+Moussa Sissoko,34,Central Midfield,France,FC Nantes,1.28
+Florent Mollet,32,Attacking Midfield,France,FC Nantes,1.93
+Moses Simon,28,Left Winger,Nigeria,FC Nantes,12.84
+Stredair Appuah,19,Left Winger,France,FC Nantes,0.54
+Marcus Coco,28,Right Winger,Guadeloupe,FC Nantes,1.6
+Abdoul Kader Bamba,30,Right Winger,France,FC Nantes,0.96
+Mostafa Mohamed,26,Centre-Forward,Egypt,FC Nantes,10.7
+Matthis Abline,21,Centre-Forward,France,FC Nantes,6.42
+Bénie Traoré,21,Centre-Forward,Cote d'Ivoire,FC Nantes,4.28
+Ignatius Ganago,25,Centre-Forward,Cameroon,FC Nantes,3.21
+Tino Kadewere,28,Centre-Forward,Zimbabwe,FC Nantes,2.67
+Arthur Desmas,30,Goalkeeper,France,Le Havre AC,2.67
+Mathieu Gorgelin,33,Goalkeeper,France,Le Havre AC,0.21
+Arouna Sangante,22,Centre-Back,Senegal,Le Havre AC,10.7
+Étienne Youté Kinkoué,22,Centre-Back,France,Le Havre AC,7.49
+Gautier Lloris,28,Centre-Back,France,Le Havre AC,3.21
+Yoann Salmier,31,Centre-Back,French Guiana,Le Havre AC,1.6
+Christopher Operi,27,Left-Back,Cote d'Ivoire,Le Havre AC,4.28
+Cheick Doumbia,19,Left-Back,France,Le Havre AC,0.05
+Loïc Nego,33,Right-Back,Hungary,Le Havre AC,0.96
+Oualid El Hajjam,33,Right-Back,Morocco,Le Havre AC,0.86
+Abdoulaye Touré,30,Defensive Midfield,Guinea,Le Havre AC,3.21
+Aloïs Confais,27,Defensive Midfield,France,Le Havre AC,0.27
+Daler Kuzyaev,31,Central Midfield,Russia,Le Havre AC,8.56
+Yassine Kechta,22,Central Midfield,Morocco,Le Havre AC,5.35
+Oussama Targhalline,22,Central Midfield,Morocco,Le Havre AC,2.67
+Rassoul Ndiaye,22,Central Midfield,Senegal,Le Havre AC,2.67
+Antoine Joujou,21,Left Winger,France,Le Havre AC,1.6
+André Ayew,34,Left Winger,Ghana,Le Havre AC,1.07
+Josué Casimir,22,Right Winger,Guadeloupe,Le Havre AC,3.21
+Emmanuel Sabbi,26,Right Winger,United States,Le Havre AC,2.67
+Samuel Grandsir,27,Right Winger,France,Le Havre AC,1.6
+Mohamed Bayo,26,Centre-Forward,Guinea,Le Havre AC,5.35
+Andy Logbo,20,Centre-Forward,France,Le Havre AC,0.86
+Steve Ngoura,19,Centre-Forward,France,Le Havre AC,0.43
+Guillaume Dietsch,23,Goalkeeper,France,FC Metz,0.64
+Alexandre Oukidja,35,Goalkeeper,Algeria,FC Metz,0.54
+Marc-Aurèle Caillard,30,Goalkeeper,France,FC Metz,0.21
+Fali Candé,26,Centre-Back,Guinea-Bissau,FC Metz,2.67
+Christophe Hérelle,31,Centre-Back,Martinique,FC Metz,1.6
+Sadibou Sané,20,Centre-Back,Senegal,FC Metz,0.86
+Aboubacar Lô,24,Centre-Back,Senegal,FC Metz,0.32
+Ismaël Traoré,37,Centre-Back,Cote d'Ivoire,FC Metz,0.27
+Matthieu Udol,28,Left-Back,France,FC Metz,2.67
+Kevin Van Den Kerkhof,28,Right-Back,Algeria,FC Metz,3.21
+Koffi Kouao,26,Right-Back,Cote d'Ivoire,FC Metz,1.6
+Maxime Colin,32,Right-Back,France,FC Metz,0.96
+Danley Jean Jacques,24,Defensive Midfield,Haiti,FC Metz,2.14
+Kévin N'Doram,28,Defensive Midfield,France,FC Metz,1.6
+Arthur Atta,21,Defensive Midfield,France,FC Metz,1.07
+Warren Tchimbembé,26,Defensive Midfield,Congo,FC Metz,0.32
+Lamine Camara,20,Central Midfield,Senegal,FC Metz,10.7
+Joseph Nduquidi,19,Central Midfield,Angola,FC Metz,0.86
+Cheikh Sabaly,25,Left Winger,Senegal,FC Metz,2.14
+Papa Amadou Diallo,20,Left Winger,Senegal,FC Metz,1.07
+Didier Lamkel Zé,27,Left Winger,Cameroon,FC Metz,1.07
+Maïdine Douane,21,Left Winger,Algeria,FC Metz,0.21
+Ablie Jallow,25,Right Winger,The Gambia,FC Metz,2.14
+Joel Asoro,25,Right Winger,Sweden,FC Metz,1.6
+Malick Mbaye,20,Right Winger,Senegal,FC Metz,0.54
+Georges Mikautadze,23,Centre-Forward,Georgia,FC Metz,16.05
+Benjamin Tetteh,26,Centre-Forward,Ghana,FC Metz,1.07
+Ibou Sané,19,Centre-Forward,Senegal,FC Metz,0.32
+Mory Diaw,31,Goalkeeper,Senegal,Clermont Foot 63,1.93
+Massamba N'Diaye,22,Goalkeeper,Senegal,Clermont Foot 63,0.54
+Théo Borne,21,Goalkeeper,France,Clermont Foot 63,0.05
+Chrislain Matsima,22,Centre-Back,France,Clermont Foot 63,7.49
+Andy Pelmard,24,Centre-Back,France,Clermont Foot 63,3.75
+Maximiliano Caufriez,27,Centre-Back,Belgium,Clermont Foot 63,2.67
+Jérémy Jacquet,18,Centre-Back,France,Clermont Foot 63,0.54
+Florent Ogier,35,Centre-Back,France,Clermont Foot 63,0.32
+Neto Borges,27,Left-Back,Brazil,Clermont Foot 63,3.21
+Yoël Armougom,26,Left-Back,France,Clermont Foot 63,0.32
+Cheick Oumar Konaté,20,Right-Back,Mali,Clermont Foot 63,1.6
+Mehdi Zeffane,32,Right-Back,Algeria,Clermont Foot 63,0.54
+Yohann Magnin,27,Defensive Midfield,France,Clermont Foot 63,2.14
+Maxime Gonalons,35,Defensive Midfield,France,Clermont Foot 63,0.75
+Johan Gastien,36,Defensive Midfield,France,Clermont Foot 63,0.54
+Habib Keïta,22,Central Midfield,Mali,Clermont Foot 63,1.07
+Muhammed Cham,23,Attacking Midfield,Austria,Clermont Foot 63,6.42
+Alan Virginius,21,Left Winger,France,Clermont Foot 63,3.75
+Elbasan Rashani,31,Left Winger,Kosovo,Clermont Foot 63,1.6
+Jérémie Bela,31,Left Winger,Angola,Clermont Foot 63,0.64
+Jim Allevinah,29,Right Winger,Gabon,Clermont Foot 63,2.14
+Bilal Boutobba,25,Right Winger,France,Clermont Foot 63,1.93
+Shamar Nicholson,27,Centre-Forward,Jamaica,Clermont Foot 63,5.35
+Grejohn Kyei,28,Centre-Forward,France,Clermont Foot 63,1.6
+Komnen Andric,28,Centre-Forward,Serbia,Clermont Foot 63,1.07
+Yann Sommer,35,Goalkeeper,Switzerland,Inter Milan,5.35
+Emil Audero,27,Goalkeeper,Italy,Inter Milan,5.35
+Raffaele Di Gennaro,30,Goalkeeper,Italy,Inter Milan,0.32
+Alessandro Bastoni,25,Centre-Back,Italy,Inter Milan,74.9
+Benjamin Pavard,28,Centre-Back,France,Inter Milan,53.5
+Yann Bisseck,23,Centre-Back,Germany,Inter Milan,17.12
+Stefan de Vrij,32,Centre-Back,Netherlands,Inter Milan,7.49
+Francesco Acerbi,36,Centre-Back,Italy,Inter Milan,3.75
+Federico Dimarco,26,Left-Back,Italy,Inter Milan,53.5
+Matteo Darmian,34,Right-Back,Italy,Inter Milan,4.28
+Hakan Çalhanoğlu,30,Defensive Midfield,Türkiye,Inter Milan,48.15
+Kristjan Asllani,22,Defensive Midfield,Albania,Inter Milan,19.26
+Nicolò Barella,27,Central Midfield,Italy,Inter Milan,85.6
+Davide Frattesi,24,Central Midfield,Italy,Inter Milan,37.45
+Henrikh Mkhitaryan,35,Central Midfield,Armenia,Inter Milan,6.42
+Davy Klaassen,31,Central Midfield,Netherlands,Inter Milan,4.28
+Stefano Sensi,28,Central Midfield,Italy,Inter Milan,3.21
+Denzel Dumfries,28,Right Midfield,Netherlands,Inter Milan,25.68
+Tajon Buchanan,25,Right Midfield,Canada,Inter Milan,8.56
+Juan Cuadrado,36,Right Midfield,Colombia,Inter Milan,1.07
+Carlos Augusto,25,Left Midfield,Brazil,Inter Milan,23.54
+Lautaro Martínez,26,Centre-Forward,Argentina,Inter Milan,117.7
+Marcus Thuram,26,Centre-Forward,France,Inter Milan,69.55
+Marko Arnautovic,35,Centre-Forward,Austria,Inter Milan,4.28
+Alexis Sánchez,35,Centre-Forward,Chile,Inter Milan,2.67
+Mike Maignan,28,Goalkeeper,France,AC Milan,40.66
+Marco Sportiello,32,Goalkeeper,Italy,AC Milan,1.6
+Lapo Nava,20,Goalkeeper,Italy,AC Milan,0.16
+Antonio Mirante,40,Goalkeeper,Italy,AC Milan,0.11
+Fikayo Tomori,26,Centre-Back,England,AC Milan,42.8
+Malick Thiaw,22,Centre-Back,Germany,AC Milan,26.75
+Pierre Kalulu,24,Centre-Back,France,AC Milan,21.4
+Matteo Gabbia,24,Centre-Back,Italy,AC Milan,8.56
+Simon Kjær,35,Centre-Back,Denmark,AC Milan,1.6
+Mattia Caldara,30,Centre-Back,Italy,AC Milan,0.86
+Theo Hernández,26,Left-Back,France,AC Milan,64.2
+Davide Calabria,27,Right-Back,Italy,AC Milan,13.91
+Filippo Terracciano,21,Right-Back,Italy,AC Milan,4.82
+Alessandro Florenzi,33,Right-Back,Italy,AC Milan,2.14
+Ismaël Bennacer,26,Defensive Midfield,Algeria,AC Milan,32.1
+Yacine Adli,23,Defensive Midfield,France,AC Milan,16.05
+Tijjani Reijnders,25,Central Midfield,Netherlands,AC Milan,32.1
+Ruben Loftus-Cheek,28,Central Midfield,England,AC Milan,26.75
+Yunus Musah,21,Central Midfield,United States,AC Milan,23.54
+Tommaso Pobega,24,Central Midfield,Italy,AC Milan,10.7
+Rafael Leão,25,Left Winger,Portugal,AC Milan,96.3
+Noah Okafor,24,Left Winger,Switzerland,AC Milan,21.4
+Christian Pulisic,25,Right Winger,United States,AC Milan,42.8
+Samuel Chukwueze,25,Right Winger,Nigeria,AC Milan,21.4
+Luka Jović,26,Centre-Forward,Serbia,AC Milan,7.49
+Olivier Giroud,37,Centre-Forward,France,AC Milan,3.21
+Alex Meret,27,Goalkeeper,Italy,Napoli,12.84
+Pierluigi Gollini,29,Goalkeeper,Italy,Napoli,4.28
+Nikita Contini,28,Goalkeeper,Italy,Napoli,0.43
+Hubert Idasiak,22,Goalkeeper,Poland,Napoli,0.16
+Amir Rrahmani,30,Centre-Back,Kosovo,Napoli,16.05
+Natan,23,Centre-Back,Brazil,Napoli,12.84
+Leo Østigård,24,Centre-Back,Norway,Napoli,8.56
+Juan Jesus,33,Centre-Back,Brazil,Napoli,2.67
+Mathías Olivera,26,Left-Back,Uruguay,Napoli,16.05
+Mário Rui,33,Left-Back,Portugal,Napoli,3.75
+Giovanni Di Lorenzo,30,Right-Back,Italy,Napoli,16.05
+Pasquale Mazzocchi,28,Right-Back,Italy,Napoli,3.21
+Stanislav Lobotka,29,Defensive Midfield,Slovakia,Napoli,29.96
+Leander Dendoncker,29,Defensive Midfield,Belgium,Napoli,7.49
+Diego Demme,32,Defensive Midfield,Germany,Napoli,0.86
+Frank Anguissa,28,Central Midfield,Cameroon,Napoli,28.89
+Piotr Zieliński,30,Central Midfield,Poland,Napoli,23.54
+Jens Cajuste,24,Central Midfield,Sweden,Napoli,10.7
+Jesper Lindstrøm,24,Attacking Midfield,Denmark,Napoli,23.54
+Hamed Junior Traorè,24,Attacking Midfield,Cote d'Ivoire,Napoli,18.19
+Khvicha Kvaratskhelia,23,Left Winger,Georgia,Napoli,85.6
+Matteo Politano,30,Right Winger,Italy,Napoli,13.91
+Cyril Ngonge,24,Right Winger,Belgium,Napoli,12.84
+Giacomo Raspadori,24,Second Striker,Italy,Napoli,26.75
+Victor Osimhen,25,Centre-Forward,Nigeria,Napoli,107.0
+Giovanni Simeone,28,Centre-Forward,Argentina,Napoli,10.7
+Wojciech Szczęsny,34,Goalkeeper,Poland,Juventus FC,6.42
+Mattia Perin,31,Goalkeeper,Italy,Juventus FC,3.21
+Carlo Pinsoglio,34,Goalkeeper,Italy,Juventus FC,0.21
+Bremer,27,Centre-Back,Brazil,Juventus FC,64.2
+Federico Gatti,26,Centre-Back,Italy,Juventus FC,19.26
+Tiago Djaló,24,Centre-Back,Portugal,Juventus FC,12.84
+Danilo,32,Centre-Back,Brazil,Juventus FC,10.7
+Daniele Rugani,29,Centre-Back,Italy,Juventus FC,4.28
+Andrea Cambiaso,24,Left-Back,Italy,Juventus FC,26.75
+Alex Sandro,33,Left-Back,Brazil,Juventus FC,2.14
+Mattia De Sciglio,31,Right-Back,Italy,Juventus FC,1.07
+Manuel Locatelli,26,Defensive Midfield,Italy,Juventus FC,29.96
+Adrien Rabiot,29,Central Midfield,France,Juventus FC,37.45
+Weston McKennie,25,Central Midfield,United States,Juventus FC,29.96
+Fabio Miretti,20,Central Midfield,Italy,Juventus FC,16.05
+Nicolò Fagioli,23,Central Midfield,Italy,Juventus FC,16.05
+Carlos Alcaraz,21,Central Midfield,Argentina,Juventus FC,16.05
+Hans Nicolussi Caviglia,24,Central Midfield,Italy,Juventus FC,3.21
+Paul Pogba,31,Central Midfield,France,Juventus FC,0.0
+Timothy Weah,24,Right Midfield,United States,Juventus FC,12.84
+Samuel Iling-Junior,20,Left Midfield,England,Juventus FC,13.91
+Filip Kostić,31,Left Midfield,Serbia,Juventus FC,6.96
+Federico Chiesa,26,Left Winger,Italy,Juventus FC,37.45
+Kenan Yıldız,19,Second Striker,Türkiye,Juventus FC,32.1
+Dušan Vlahović,24,Centre-Forward,Serbia,Juventus FC,69.55
+Moise Kean,24,Centre-Forward,Italy,Juventus FC,14.98
+Arkadiusz Milik,30,Centre-Forward,Poland,Juventus FC,6.42
+Marco Carnesecchi,23,Goalkeeper,Italy,Atalanta BC,17.12
+Juan Musso,30,Goalkeeper,Argentina,Atalanta BC,5.35
+Francesco Rossi,33,Goalkeeper,Italy,Atalanta BC,0.11
+Giorgio Scalvini,20,Centre-Back,Italy,Atalanta BC,48.15
+Isak Hien,25,Centre-Back,Sweden,Atalanta BC,21.4
+Berat Djimsiti,31,Centre-Back,Albania,Atalanta BC,10.7
+Sead Kolasinac,31,Centre-Back,Bosnia-Herzegovina,Atalanta BC,10.7
+Rafael Tolói,33,Centre-Back,Italy,Atalanta BC,2.67
+Giovanni Bonfanti,21,Centre-Back,Italy,Atalanta BC,1.07
+José Luis Palomino,34,Centre-Back,Argentina,Atalanta BC,0.75
+Marten de Roon,33,Defensive Midfield,Netherlands,Atalanta BC,7.49
+Éderson,24,Central Midfield,Brazil,Atalanta BC,42.8
+Mario Pasalic,29,Central Midfield,Croatia,Atalanta BC,13.91
+Michel Adopo,23,Central Midfield,France,Atalanta BC,1.07
+Emil Holm,24,Right Midfield,Sweden,Atalanta BC,12.84
+Davide Zappacosta,32,Right Midfield,Italy,Atalanta BC,6.42
+Hans Hateboer,30,Right Midfield,Netherlands,Atalanta BC,3.75
+Matteo Ruggeri,21,Left Midfield,Italy,Atalanta BC,21.4
+Mitchel Bakker,24,Left Midfield,Netherlands,Atalanta BC,6.96
+Teun Koopmeiners,26,Attacking Midfield,Netherlands,Atalanta BC,53.5
+Charles De Ketelaere,23,Attacking Midfield,Belgium,Atalanta BC,36.38
+Aleksey Miranchuk,28,Attacking Midfield,Russia,Atalanta BC,10.7
+Ademola Lookman,26,Second Striker,Nigeria,Atalanta BC,42.8
+Gianluca Scamacca,25,Centre-Forward,Italy,Atalanta BC,37.45
+El Bilal Touré,22,Centre-Forward,Mali,Atalanta BC,21.4
+Mile Svilar,24,Goalkeeper,Serbia,AS Roma,9.63
+Rui Patrício,36,Goalkeeper,Portugal,AS Roma,1.07
+Pietro Boer,22,Goalkeeper,Italy,AS Roma,0.16
+Evan Ndicka,24,Centre-Back,Cote d'Ivoire,AS Roma,26.75
+Gianluca Mancini,28,Centre-Back,Italy,AS Roma,26.75
+Dean Huijsen,19,Centre-Back,Spain,AS Roma,10.7
+Diego Llorente,30,Centre-Back,Spain,AS Roma,7.49
+Chris Smalling,34,Centre-Back,England,AS Roma,2.67
+Angeliño,27,Left-Back,Spain,AS Roma,8.56
+Leonardo Spinazzola,31,Left-Back,Italy,AS Roma,4.28
+Rasmus Kristensen,26,Right-Back,Denmark,AS Roma,10.7
+Zeki Çelik,27,Right-Back,Türkiye,AS Roma,6.42
+Rick Karsdorp,29,Right-Back,Netherlands,AS Roma,5.35
+Bryan Cristante,29,Defensive Midfield,Italy,AS Roma,21.4
+Leandro Paredes,29,Defensive Midfield,Argentina,AS Roma,8.56
+Edoardo Bove,22,Central Midfield,Italy,AS Roma,19.26
+Houssem Aouar,25,Central Midfield,Algeria,AS Roma,10.7
+Renato Sanches,26,Central Midfield,Portugal,AS Roma,6.96
+Nicola Zalewski,22,Left Midfield,Poland,AS Roma,12.84
+Lorenzo Pellegrini,28,Attacking Midfield,Italy,AS Roma,26.75
+Tommaso Baldanzi,21,Attacking Midfield,Italy,AS Roma,16.05
+Stephan El Shaarawy,31,Left Winger,Italy,AS Roma,5.35
+Paulo Dybala,30,Second Striker,Argentina,AS Roma,21.4
+Tammy Abraham,26,Centre-Forward,England,AS Roma,32.1
+Romelu Lukaku,31,Centre-Forward,Belgium,AS Roma,32.1
+Sardar Azmoun,29,Centre-Forward,Iran,AS Roma,8.56
+Lukasz Skorupski,33,Goalkeeper,Poland,Bologna FC 1909,3.75
+Federico Ravaglia,24,Goalkeeper,Italy,Bologna FC 1909,1.07
+Nicola Bagnolini,20,Goalkeeper,Italy,Bologna FC 1909,0.21
+Riccardo Calafiori,22,Centre-Back,Italy,Bologna FC 1909,32.1
+Sam Beukema,25,Centre-Back,Netherlands,Bologna FC 1909,19.26
+Jhon Lucumí,26,Centre-Back,Colombia,Bologna FC 1909,18.19
+Mihajlo Ilić,21,Centre-Back,Serbia,Bologna FC 1909,4.28
+Adama Soumaoro,32,Centre-Back,France,Bologna FC 1909,2.14
+Victor Kristiansen,21,Left-Back,Denmark,Bologna FC 1909,16.05
+Tommaso Corazza,19,Left-Back,Italy,Bologna FC 1909,1.07
+Charalampos Lykogiannis,30,Left-Back,Greece,Bologna FC 1909,1.07
+Stefan Posch,27,Right-Back,Austria,Bologna FC 1909,14.98
+Lorenzo De Silvestri,36,Right-Back,Italy,Bologna FC 1909,0.43
+Nikola Moro,26,Defensive Midfield,Croatia,Bologna FC 1909,5.35
+Oussama El Azzouzi,23,Defensive Midfield,Morocco,Bologna FC 1909,2.67
+Giovanni Fabbian,21,Central Midfield,Italy,Bologna FC 1909,14.98
+Michel Aebischer,27,Central Midfield,Switzerland,Bologna FC 1909,9.63
+Kacper Urbanski,19,Central Midfield,Poland,Bologna FC 1909,7.49
+Remo Freuler,32,Central Midfield,Switzerland,Bologna FC 1909,6.96
+Lewis Ferguson,24,Attacking Midfield,Scotland,Bologna FC 1909,25.68
+Jesper Karlsson,25,Left Winger,Sweden,Bologna FC 1909,8.56
+Riccardo Orsolini,27,Right Winger,Italy,Bologna FC 1909,17.12
+Dan Ndoye,23,Right Winger,Switzerland,Bologna FC 1909,14.98
+Alexis Saelemaekers,24,Right Winger,Belgium,Bologna FC 1909,12.84
+Joshua Zirkzee,23,Centre-Forward,Netherlands,Bologna FC 1909,53.5
+Santiago Castro,19,Centre-Forward,Argentina,Bologna FC 1909,12.84
+Jens Odgaard,25,Centre-Forward,Denmark,Bologna FC 1909,4.82
+Oliver Christensen,25,Goalkeeper,Denmark,ACF Fiorentina,3.21
+Pietro Terracciano,34,Goalkeeper,Italy,ACF Fiorentina,2.67
+Tommaso Martinelli,18,Goalkeeper,Italy,ACF Fiorentina,1.07
+Tommaso Vannucchi,17,Goalkeeper,Italy,ACF Fiorentina,0.43
+Nikola Milenković,26,Centre-Back,Serbia,ACF Fiorentina,16.05
+Lucas Martínez Quarta,28,Centre-Back,Argentina,ACF Fiorentina,16.05
+Luca Ranieri,25,Centre-Back,Italy,ACF Fiorentina,8.56
+Pietro Comuzzo,19,Centre-Back,Italy,ACF Fiorentina,0.75
+Fabiano Parisi,23,Left-Back,Italy,ACF Fiorentina,10.16
+Cristiano Biraghi,31,Left-Back,Italy,ACF Fiorentina,3.75
+Michael Kayode,19,Right-Back,Italy,ACF Fiorentina,26.75
+Dodô,25,Right-Back,Brazil,ACF Fiorentina,18.19
+Davide Faraoni,32,Right-Back,Italy,ACF Fiorentina,1.6
+Arthur Melo,27,Defensive Midfield,Brazil,ACF Fiorentina,16.05
+Rolando Mandragora,26,Defensive Midfield,Italy,ACF Fiorentina,9.1
+Maxime López,26,Defensive Midfield,France,ACF Fiorentina,8.03
+Gaetano Castrovilli,27,Central Midfield,Italy,ACF Fiorentina,7.49
+Alfred Duncan,31,Central Midfield,Ghana,ACF Fiorentina,4.28
+Giacomo Bonaventura,34,Central Midfield,Italy,ACF Fiorentina,3.21
+Gino Infantino,21,Central Midfield,Argentina,ACF Fiorentina,3.21
+Antonín Barák,29,Attacking Midfield,Czech Republic,ACF Fiorentina,4.82
+Christian Kouamé,26,Left Winger,Cote d'Ivoire,ACF Fiorentina,8.03
+Riccardo Sottil,25,Left Winger,Italy,ACF Fiorentina,6.42
+Nicolás González,26,Right Winger,Argentina,ACF Fiorentina,37.45
+Jonathan Ikoné,26,Right Winger,France,ACF Fiorentina,10.7
+Lucas Beltrán,23,Centre-Forward,Argentina,ACF Fiorentina,17.12
+M'Bala Nzola,27,Centre-Forward,Angola,ACF Fiorentina,7.49
+Andrea Belotti,30,Centre-Forward,Italy,ACF Fiorentina,5.35
+Ivan Provedel,30,Goalkeeper,Italy,SS Lazio,14.98
+Christos Mandas,22,Goalkeeper,Greece,SS Lazio,3.21
+Luigi Sepe,33,Goalkeeper,Italy,SS Lazio,0.54
+Alessio Romagnoli,29,Centre-Back,Italy,SS Lazio,16.05
+Nicolò Casale,26,Centre-Back,Italy,SS Lazio,14.98
+Mario Gila,23,Centre-Back,Spain,SS Lazio,13.91
+Patric,31,Centre-Back,Spain,SS Lazio,4.28
+Luca Pellegrini,25,Left-Back,Italy,SS Lazio,3.75
+Adam Marusic,31,Right-Back,Montenegro,SS Lazio,5.35
+Elseid Hysaj,30,Right-Back,Albania,SS Lazio,2.67
+Nicolò Rovella,22,Defensive Midfield,Italy,SS Lazio,19.26
+Danilo Cataldi,29,Defensive Midfield,Italy,SS Lazio,5.88
+Mattéo Guendouzi,25,Central Midfield,France,SS Lazio,26.75
+Luis Alberto,31,Central Midfield,Spain,SS Lazio,11.77
+Matías Vecino,32,Central Midfield,Uruguay,SS Lazio,2.67
+Manuel Lazzari,30,Right Midfield,Italy,SS Lazio,4.28
+Daichi Kamada,27,Attacking Midfield,Japan,SS Lazio,19.26
+André Anderson,24,Attacking Midfield,Italy,SS Lazio,0.43
+Mattia Zaccagni,29,Left Winger,Italy,SS Lazio,21.4
+Saná Fernandes,18,Left Winger,Portugal,SS Lazio,0.86
+Gustav Isaksen,23,Right Winger,Denmark,SS Lazio,12.84
+Felipe Anderson,31,Right Winger,Brazil,SS Lazio,8.56
+Pedro,36,Right Winger,Spain,SS Lazio,1.07
+Diego González,21,Right Winger,Paraguay,SS Lazio,1.07
+Cristiano Lombardi,28,Right Winger,Italy,SS Lazio,0.11
+Taty Castellanos,25,Centre-Forward,Argentina,SS Lazio,16.05
+Ciro Immobile,34,Centre-Forward,Italy,SS Lazio,4.28
+Vanja Milinković-Savić,27,Goalkeeper,Serbia,Torino FC,5.35
+Mihai Popa,23,Goalkeeper,Romania,Torino FC,0.86
+Luca Gemello,23,Goalkeeper,Italy,Torino FC,0.32
+Pietro Passador,21,Goalkeeper,Italy,Torino FC,0.11
+Alessandro Buongiorno,25,Centre-Back,Italy,Torino FC,37.45
+Perr Schuurs,24,Centre-Back,Netherlands,Torino FC,26.75
+Matteo Lovato,24,Centre-Back,Italy,Torino FC,4.28
+Ricardo Rodríguez,31,Centre-Back,Switzerland,Torino FC,3.75
+Saba Sazonov,22,Centre-Back,Georgia,Torino FC,3.0
+Koffi Djidji,31,Centre-Back,Cote d'Ivoire,Torino FC,2.67
+Adam Masina,30,Left-Back,Morocco,Torino FC,1.6
+Raoul Bellanova,24,Right-Back,Italy,Torino FC,16.05
+Samuele Ricci,22,Defensive Midfield,Italy,Torino FC,23.54
+Adrien Tamèze,30,Defensive Midfield,Cameroon,Torino FC,5.35
+Ivan Ilić,23,Central Midfield,Serbia,Torino FC,19.26
+Karol Linetty,29,Central Midfield,Poland,Torino FC,3.75
+Gvidas Gineitis,20,Central Midfield,Lithuania,Torino FC,2.14
+Valentino Lazaro,28,Left Midfield,Austria,Torino FC,3.75
+Mërgim Vojvoda,29,Left Midfield,Kosovo,Torino FC,3.21
+Nikola Vlašić,26,Attacking Midfield,Croatia,Torino FC,10.7
+Uros Kabic,20,Right Winger,Serbia,Torino FC,1.07
+Duván Zapata,33,Centre-Forward,Colombia,Torino FC,8.56
+Antonio Sanabria,28,Centre-Forward,Paraguay,Torino FC,7.49
+Pietro Pellegri,23,Centre-Forward,Italy,Torino FC,3.21
+David Okereke,26,Centre-Forward,Nigeria,Torino FC,2.57
+Josep Martínez,26,Goalkeeper,Spain,Genoa CFC,8.56
+Nicola Leali,31,Goalkeeper,Italy,Genoa CFC,0.64
+Franz Stolz,23,Goalkeeper,Austria,Genoa CFC,0.21
+Simone Calvani,19,Goalkeeper,Italy,Genoa CFC,0.16
+Daniele Sommariva,26,Goalkeeper,Italy,Genoa CFC,0.11
+Koni De Winter,22,Centre-Back,Belgium,Genoa CFC,12.84
+Johan Vásquez,25,Centre-Back,Mexico,Genoa CFC,10.7
+Alan Matturro,19,Centre-Back,Uruguay,Genoa CFC,4.28
+Mattia Bani,30,Centre-Back,Italy,Genoa CFC,2.67
+Giorgio Cittadini,22,Centre-Back,Italy,Genoa CFC,2.57
+Alessandro Vogliacco,25,Centre-Back,Italy,Genoa CFC,2.14
+Aarón Martín,27,Left-Back,Spain,Genoa CFC,5.35
+Ridgeciano Haps,31,Left-Back,Suriname,Genoa CFC,0.96
+Djed Spence,23,Right-Back,England,Genoa CFC,8.56
+Stefano Sabelli,31,Right-Back,Italy,Genoa CFC,1.6
+Emil Bohinen,25,Defensive Midfield,Norway,Genoa CFC,1.93
+Milan Badelj,35,Defensive Midfield,Croatia,Genoa CFC,0.86
+Morten Frendrup,23,Central Midfield,Denmark,Genoa CFC,16.05
+Morten Thorsby,28,Central Midfield,Norway,Genoa CFC,3.21
+Kevin Strootman,34,Central Midfield,Netherlands,Genoa CFC,0.86
+Ruslan Malinovskyi,31,Attacking Midfield,Ukraine,Genoa CFC,8.56
+Junior Messias,33,Right Winger,Brazil,Genoa CFC,2.67
+Albert Gudmundsson,27,Second Striker,Iceland,Genoa CFC,32.1
+Mateo Retegui,25,Centre-Forward,Italy,Genoa CFC,17.12
+Vitinha,24,Centre-Forward,Portugal,Genoa CFC,14.98
+David Ankeye,22,Centre-Forward,Nigeria,Genoa CFC,2.14
+Caleb Ekuban,30,Centre-Forward,Ghana,Genoa CFC,1.6
+Michele Di Gregorio,26,Goalkeeper,Italy,AC Monza,19.26
+Alessandro Sorrentino,22,Goalkeeper,Italy,AC Monza,0.86
+Stefano Gori,28,Goalkeeper,Italy,AC Monza,0.54
+Andrea Carboni,23,Centre-Back,Italy,AC Monza,4.28
+Pablo Marí,30,Centre-Back,Spain,AC Monza,3.75
+Armando Izzo,32,Centre-Back,Italy,AC Monza,2.67
+Luca Caldirola,33,Centre-Back,Italy,AC Monza,1.39
+Davide Bettella,24,Centre-Back,Italy,AC Monza,1.07
+Danilo D'Ambrosio,35,Centre-Back,Italy,AC Monza,1.07
+Samuele Birindelli,24,Right-Back,Italy,AC Monza,3.75
+Pedro Pereira,26,Right-Back,Portugal,AC Monza,1.6
+Giulio Donati,34,Right-Back,Italy,AC Monza,0.32
+Matteo Pessina,27,Central Midfield,Italy,AC Monza,16.05
+Warren Bondo,20,Central Midfield,France,AC Monza,6.42
+Roberto Gagliardini,30,Central Midfield,Italy,AC Monza,3.21
+José Machín,27,Central Midfield,Equatorial Guinea,AC Monza,1.07
+Jean-Daniel Akpa Akpro,31,Central Midfield,Cote d'Ivoire,AC Monza,1.07
+Patrick Ciurria,29,Right Midfield,Italy,AC Monza,4.28
+Georgios Kyriakopoulos,28,Left Midfield,Greece,AC Monza,3.75
+Andrea Colpani,25,Attacking Midfield,Italy,AC Monza,19.26
+Valentín Carboni,19,Attacking Midfield,Argentina,AC Monza,16.05
+Daniel Maldini,22,Attacking Midfield,Italy,AC Monza,4.82
+Samuele Vignato,20,Attacking Midfield,Italy,AC Monza,3.75
+Matija Popovic,18,Attacking Midfield,Serbia,AC Monza,2.14
+Alessio Zerbin,25,Left Winger,Italy,AC Monza,4.28
+Papu Gómez,36,Left Winger,Argentina,AC Monza,0.0
+Gianluca Caprari,30,Second Striker,Italy,AC Monza,4.28
+Lorenzo Colombo,22,Centre-Forward,Italy,AC Monza,6.42
+Dany Mota,26,Centre-Forward,Portugal,AC Monza,5.35
+Milan Djuric,34,Centre-Forward,Bosnia-Herzegovina,AC Monza,1.6
+Maduka Okoye,24,Goalkeeper,Nigeria,Udinese Calcio,4.28
+Marco Silvestri,33,Goalkeeper,Italy,Udinese Calcio,1.07
+Daniele Padelli,38,Goalkeeper,Italy,Udinese Calcio,0.16
+Nehuén Pérez,24,Centre-Back,Argentina,Udinese Calcio,13.91
+Jaka Bijol,25,Centre-Back,Slovenia,Udinese Calcio,10.7
+Thomas Kristensen,22,Centre-Back,Denmark,Udinese Calcio,4.82
+Enzo Ebosse,25,Centre-Back,Cameroon,Udinese Calcio,2.67
+Lautaro Giannetti,30,Centre-Back,Argentina,Udinese Calcio,2.67
+João Ferreira,23,Centre-Back,Portugal,Udinese Calcio,2.14
+Christian Kabasele,33,Centre-Back,Belgium,Udinese Calcio,1.07
+Antonio Tikvić,20,Centre-Back,Croatia,Udinese Calcio,0.75
+James Abankwah,20,Centre-Back,Ireland,Udinese Calcio,0.32
+Jordan Zemura,24,Left-Back,Zimbabwe,Udinese Calcio,5.35
+Hassane Kamara,30,Left-Back,Cote d'Ivoire,Udinese Calcio,4.82
+Kingsley Ehizibue,29,Right-Back,Netherlands,Udinese Calcio,2.35
+Walace,29,Defensive Midfield,Brazil,Udinese Calcio,6.42
+Lazar Samardžić,22,Central Midfield,Serbia,Udinese Calcio,21.4
+Sandi Lovric,26,Central Midfield,Slovenia,Udinese Calcio,8.56
+Martín Payero,25,Central Midfield,Argentina,Udinese Calcio,4.82
+Oier Zarraga,25,Central Midfield,Spain,Udinese Calcio,2.14
+Roberto Pereyra,33,Central Midfield,Argentina,Udinese Calcio,2.14
+Festy Ebosele,21,Right Midfield,Ireland,Udinese Calcio,6.42
+David Pejičić,17,Attacking Midfield,Slovenia,Udinese Calcio,1.07
+Florian Thauvin,31,Right Winger,France,Udinese Calcio,3.21
+Lorenzo Lucca,23,Centre-Forward,Italy,Udinese Calcio,12.84
+Brenner,24,Centre-Forward,Brazil,Udinese Calcio,7.49
+Keinan Davis,26,Centre-Forward,England,Udinese Calcio,3.21
+Isaac Success,28,Centre-Forward,Nigeria,Udinese Calcio,2.67
+Gerard Deulofeu,30,Centre-Forward,Spain,Udinese Calcio,1.07
+Alessio Cragno,29,Goalkeeper,Italy,US Sassuolo,1.6
+Andrea Consigli,37,Goalkeeper,Italy,US Sassuolo,0.86
+Gianluca Pegolo,43,Goalkeeper,Italy,US Sassuolo,0.11
+Mattia Viti,22,Centre-Back,Italy,US Sassuolo,5.35
+Marash Kumbulla,24,Centre-Back,Albania,US Sassuolo,4.82
+Martin Erlić,26,Centre-Back,Croatia,US Sassuolo,3.21
+Ruan Tressoldi,25,Centre-Back,Brazil,US Sassuolo,2.67
+Gian Marco Ferrari,32,Centre-Back,Italy,US Sassuolo,1.5
+Josh Doig,22,Left-Back,Scotland,US Sassuolo,6.42
+Marcus Pedersen,23,Right-Back,Norway,US Sassuolo,5.88
+Jeremy Toljan,29,Right-Back,Germany,US Sassuolo,3.75
+Filippo Missori,20,Right-Back,Italy,US Sassuolo,1.6
+Daniel Boloca,25,Defensive Midfield,Italy,US Sassuolo,7.49
+Luca Lipani,19,Defensive Midfield,Italy,US Sassuolo,4.28
+Uroš Račić,26,Defensive Midfield,Serbia,US Sassuolo,2.67
+Matheus Henrique,26,Central Midfield,Brazil,US Sassuolo,9.1
+Pedro Obiang,32,Central Midfield,Equatorial Guinea,US Sassuolo,0.54
+Kristian Thorstvedt,25,Attacking Midfield,Norway,US Sassuolo,8.56
+Nedim Bajrami,25,Attacking Midfield,Albania,US Sassuolo,4.82
+Cristian Volpato,20,Attacking Midfield,Italy,US Sassuolo,4.82
+Armand Laurienté,25,Left Winger,France,US Sassuolo,10.7
+Emil Konradsen Ceide,22,Left Winger,Norway,US Sassuolo,2.14
+Domenico Berardi,29,Right Winger,Italy,US Sassuolo,10.7
+Samu Castillejo,29,Right Winger,Spain,US Sassuolo,0.64
+Andrea Pinamonti,25,Centre-Forward,Italy,US Sassuolo,16.05
+Samuele Mulattieri,23,Centre-Forward,Italy,US Sassuolo,4.28
+Grégoire Defrel,33,Centre-Forward,France,US Sassuolo,1.07
+Stefano Turati,22,Goalkeeper,Italy,Frosinone Calcio,7.49
+Michele Cerofolini,25,Goalkeeper,Italy,Frosinone Calcio,0.75
+Pierluigi Frattali,38,Goalkeeper,Italy,Frosinone Calcio,0.11
+Caleb Okoli,22,Centre-Back,Italy,Frosinone Calcio,8.56
+Ilario Monterisi,22,Centre-Back,Italy,Frosinone Calcio,3.0
+Kevin Bonifazi,28,Centre-Back,Italy,Frosinone Calcio,1.93
+Simone Romagnoli,34,Centre-Back,Italy,Frosinone Calcio,0.86
+Mateus Lusuardi,20,Centre-Back,Brazil,Frosinone Calcio,0.32
+Sergio Kalaj,24,Centre-Back,Albania,Frosinone Calcio,0.21
+Riccardo Marchizza,26,Left-Back,Italy,Frosinone Calcio,2.67
+Emanuele Valeri,25,Left-Back,Italy,Frosinone Calcio,2.46
+Anthony Oyono,23,Right-Back,Gabon,Frosinone Calcio,2.14
+Pol Lirola,26,Right-Back,Spain,Frosinone Calcio,1.93
+Enzo Barrenechea,23,Defensive Midfield,Argentina,Frosinone Calcio,8.03
+Luca Mazzitelli,28,Central Midfield,Italy,Frosinone Calcio,4.28
+Marco Brescianini,24,Central Midfield,Italy,Frosinone Calcio,3.75
+Abdou Harroui,26,Central Midfield,Morocco,Frosinone Calcio,2.89
+Nadir Zortea,25,Right Midfield,Italy,Frosinone Calcio,3.21
+Reinier,22,Attacking Midfield,Brazil,Frosinone Calcio,3.75
+Luca Garritano,30,Attacking Midfield,Italy,Frosinone Calcio,1.28
+Francesco Gelli,27,Attacking Midfield,Italy,Frosinone Calcio,1.07
+İsak Vural,18,Attacking Midfield,Türkiye,Frosinone Calcio,0.21
+Arijon Ibrahimovic,18,Left Winger,Germany,Frosinone Calcio,4.28
+Giuseppe Caso,25,Left Winger,Italy,Frosinone Calcio,1.6
+Jaime Báez,29,Left Winger,Uruguay,Frosinone Calcio,0.96
+Giorgi Kvernadze,21,Left Winger,Georgia,Frosinone Calcio,0.86
+Soufiane Bidaoui,34,Left Winger,Morocco,Frosinone Calcio,0.21
+Matías Soulé,21,Right Winger,Argentina,Frosinone Calcio,26.75
+Demba Seck,23,Right Winger,Senegal,Frosinone Calcio,2.14
+Farès Ghedjemis,21,Right Winger,France,Frosinone Calcio,0.64
+Walid Cheddira,26,Centre-Forward,Morocco,Frosinone Calcio,6.42
+Kaio Jorge,22,Centre-Forward,Brazil,Frosinone Calcio,4.28
+Marvin Cuni,22,Centre-Forward,Albania,Frosinone Calcio,0.96
+Wladimiro Falcone,29,Goalkeeper,Italy,US Lecce,5.35
+Federico Brancolini,22,Goalkeeper,Italy,US Lecce,0.21
+Alexandru Borbei,20,Goalkeeper,Romania,US Lecce,0.16
+Jasper Samooja,20,Goalkeeper,Finland,US Lecce,0.08
+Marin Pongracic,26,Centre-Back,Croatia,US Lecce,7.49
+Federico Baschirotto,27,Centre-Back,Italy,US Lecce,6.42
+Ahmed Touba,26,Centre-Back,Algeria,US Lecce,1.71
+Kastriot Dermaku,32,Centre-Back,Albania,US Lecce,0.27
+Patrick Dorgu,19,Left-Back,Denmark,US Lecce,12.84
+Antonino Gallo,24,Left-Back,Italy,US Lecce,4.82
+Valentin Gendrey,24,Right-Back,France,US Lecce,7.49
+Lorenzo Venuti,29,Right-Back,Italy,US Lecce,1.28
+Ylber Ramadani,28,Defensive Midfield,Albania,US Lecce,4.28
+Alexis Blin,27,Defensive Midfield,France,US Lecce,3.21
+Joan González,22,Central Midfield,Spain,US Lecce,4.82
+Mohamed Kaba,22,Central Midfield,France,US Lecce,3.75
+Hamza Rafia,25,Central Midfield,Tunisia,US Lecce,1.82
+Daniel Samek,20,Central Midfield,Czech Republic,US Lecce,1.28
+Medon Berisha,20,Central Midfield,Albania,US Lecce,1.07
+Rémi Oudin,27,Attacking Midfield,France,US Lecce,3.75
+Lameck Banda,23,Left Winger,Zambia,US Lecce,6.42
+Nicola Sansone,32,Left Winger,Italy,US Lecce,1.07
+Pontus Almqvist,24,Right Winger,Sweden,US Lecce,3.21
+Santiago Pierotti,23,Right Winger,Argentina,US Lecce,2.67
+Jeppe Corfitzen,19,Right Winger,Denmark,US Lecce,0.43
+Nikola Krstovic,24,Centre-Forward,Montenegro,US Lecce,6.42
+Roberto Piccoli,23,Centre-Forward,Italy,US Lecce,4.28
+Rareș Burnete,20,Centre-Forward,Romania,US Lecce,0.75
+Simone Scuffet,28,Goalkeeper,Italy,Cagliari Calcio,2.67
+Boris Radunović,28,Goalkeeper,Serbia,Cagliari Calcio,1.07
+Simone Aresti,38,Goalkeeper,Italy,Cagliari Calcio,0.08
+Alberto Dossena,25,Centre-Back,Italy,Cagliari Calcio,5.35
+Adam Obert,21,Centre-Back,Slovakia,Cagliari Calcio,3.75
+Mateusz Wieteska,27,Centre-Back,Poland,Cagliari Calcio,3.21
+Yerry Mina,29,Centre-Back,Colombia,Cagliari Calcio,3.21
+Pantelis Hatzidiakos,27,Centre-Back,Greece,Cagliari Calcio,2.67
+Tommaso Augello,29,Left-Back,Italy,Cagliari Calcio,2.14
+Paulo Azzi,29,Left-Back,Brazil,Cagliari Calcio,1.07
+Gabriele Zappa,24,Right-Back,Italy,Cagliari Calcio,2.67
+Alessandro Di Pardo,24,Right-Back,Italy,Cagliari Calcio,0.96
+Matteo Prati,20,Defensive Midfield,Italy,Cagliari Calcio,10.7
+Antoine Makoumbou,25,Defensive Midfield,Congo,Cagliari Calcio,4.82
+Ibrahim Sulemana,21,Defensive Midfield,Ghana,Cagliari Calcio,4.28
+Nahitan Nández,28,Central Midfield,Uruguay,Cagliari Calcio,5.35
+Alessandro Deiola,28,Central Midfield,Italy,Cagliari Calcio,2.03
+Nicolas Viola,34,Central Midfield,Italy,Cagliari Calcio,0.86
+Jakub Jankto,28,Left Midfield,Czech Republic,Cagliari Calcio,1.28
+Gianluca Gaetano,24,Attacking Midfield,Italy,Cagliari Calcio,6.42
+Gaetano Oristanio,21,Attacking Midfield,Italy,Cagliari Calcio,4.28
+Marco Mancosu,35,Attacking Midfield,Italy,Cagliari Calcio,0.43
+Zito Luvumbo,22,Centre-Forward,Angola,Cagliari Calcio,8.03
+Eldor Shomurodov,28,Centre-Forward,Uzbekistan,Cagliari Calcio,5.35
+Andrea Petagna,28,Centre-Forward,Italy,Cagliari Calcio,4.07
+Gianluca Lapadula,34,Centre-Forward,Peru,Cagliari Calcio,1.6
+Leonardo Pavoletti,35,Centre-Forward,Italy,Cagliari Calcio,0.86
+Lorenzo Montipò,28,Goalkeeper,Italy,Hellas Verona,3.75
+Simone Perilli,29,Goalkeeper,Italy,Hellas Verona,0.21
+Mattia Chiesa,23,Goalkeeper,Italy,Hellas Verona,0.11
+Alessandro Berardi,33,Goalkeeper,Italy,Hellas Verona,0.05
+Diego Coppola,20,Centre-Back,Italy,Hellas Verona,6.42
+Giangiacomo Magnani,28,Centre-Back,Italy,Hellas Verona,3.21
+Paweł Dawidowicz,29,Centre-Back,Poland,Hellas Verona,3.21
+Juan Cabal,23,Left-Back,Colombia,Hellas Verona,3.75
+Rúben Vinagre,25,Left-Back,Portugal,Hellas Verona,2.57
+Fabien Centonze,28,Right-Back,France,Hellas Verona,3.21
+Jackson Tchatchoua,22,Right-Back,Cameroon,Hellas Verona,3.21
+Reda Belahyane,20,Defensive Midfield,France,Hellas Verona,0.54
+Charlys,20,Defensive Midfield,Brazil,Hellas Verona,0.11
+Joselito,20,Defensive Midfield,Spain,Hellas Verona,0.08
+Michael Folorunsho,26,Central Midfield,Italy,Hellas Verona,9.1
+Suat Serdar,27,Central Midfield,Germany,Hellas Verona,5.35
+Ondrej Duda,29,Central Midfield,Slovakia,Hellas Verona,4.28
+Dani Silva,24,Central Midfield,Portugal,Hellas Verona,2.14
+Darko Lazović,33,Left Midfield,Serbia,Hellas Verona,1.6
+Tomas Suslov,22,Attacking Midfield,Slovakia,Hellas Verona,7.49
+Stefan Mitrović,21,Left Winger,Serbia,Hellas Verona,1.93
+Tijjani Noslin,24,Right Winger,Netherlands,Hellas Verona,10.7
+Elayis Tavsan,23,Right Winger,Netherlands,Hellas Verona,1.07
+Karol Świderski,27,Centre-Forward,Poland,Hellas Verona,5.35
+Federico Bonazzoli,27,Centre-Forward,Italy,Hellas Verona,2.67
+Thomas Henry,29,Centre-Forward,France,Hellas Verona,2.14
+Juan Manuel Cruz,24,Centre-Forward,Argentina,Hellas Verona,0.48
+Guillermo Ochoa,38,Goalkeeper,Mexico,US Salernitana 1919,1.07
+Benoît Costil,36,Goalkeeper,France,US Salernitana 1919,0.64
+Vincenzo Fiorillo,34,Goalkeeper,Italy,US Salernitana 1919,0.16
+Pasquale Allocca,19,Goalkeeper,Italy,US Salernitana 1919,0.11
+Lorenzo Pirola,22,Centre-Back,Italy,US Salernitana 1919,5.88
+Marco Pellegrino,21,Centre-Back,Argentina,US Salernitana 1919,3.75
+Norbert Gyömbér,31,Centre-Back,Slovakia,US Salernitana 1919,1.39
+Konstantinos Manolas,33,Centre-Back,Greece,US Salernitana 1919,1.07
+Triantafyllos Pasalidis,27,Centre-Back,Greece,US Salernitana 1919,0.54
+Jérôme Boateng,35,Centre-Back,Germany,US Salernitana 1919,0.43
+Federico Fazio,37,Centre-Back,Argentina,US Salernitana 1919,0.43
+Domagoj Bradarić,24,Left-Back,Croatia,US Salernitana 1919,5.35
+Alessandro Zanoli,23,Right-Back,Italy,US Salernitana 1919,5.35
+Junior Sambia,27,Right-Back,France,US Salernitana 1919,2.14
+Niccolò Pierozzi,22,Right-Back,Italy,US Salernitana 1919,1.93
+Mateusz Legowski,21,Defensive Midfield,Poland,US Salernitana 1919,3.21
+Lassana Coulibaly,28,Central Midfield,Mali,US Salernitana 1919,3.75
+Giulio Maggiore,26,Central Midfield,Italy,US Salernitana 1919,3.75
+Toma Bašić,27,Central Midfield,Croatia,US Salernitana 1919,3.0
+Antonio Candreva,37,Right Midfield,Italy,US Salernitana 1919,1.07
+Agustín Martegani,24,Attacking Midfield,Argentina,US Salernitana 1919,1.93
+Grigoris Kastanos,26,Attacking Midfield,Cyprus,US Salernitana 1919,1.93
+Iron Gomis,24,Attacking Midfield,France,US Salernitana 1919,0.96
+Andres Sfait,19,Left Winger,Romania,US Salernitana 1919,0.54
+Loum Tchaouna,20,Right Winger,France,US Salernitana 1919,8.56
+Emanuel Vignato,23,Right Winger,Italy,US Salernitana 1919,1.18
+Boulaye Dia,27,Centre-Forward,Senegal,US Salernitana 1919,10.7
+Chukwubuikem Ikwuemesi,22,Centre-Forward,Nigeria,US Salernitana 1919,1.93
+Shon Weissman,28,Centre-Forward,Israel,US Salernitana 1919,1.82
+Simy,32,Centre-Forward,Nigeria,US Salernitana 1919,0.54
+Mikael,25,Centre-Forward,Brazil,US Salernitana 1919,0.32
+Elia Caprile,22,Goalkeeper,Italy,FC Empoli,6.42
+Samuele Perisan,26,Goalkeeper,Italy,FC Empoli,0.64
+Etrit Berisha,35,Goalkeeper,Albania,FC Empoli,0.54
+Sebastiano Luperto,27,Centre-Back,Italy,FC Empoli,3.75
+Ardian Ismajli,27,Centre-Back,Albania,FC Empoli,3.21
+Sebastian Walukiewicz,24,Centre-Back,Poland,FC Empoli,2.67
+Saba Goglichidze,20,Centre-Back,Georgia,FC Empoli,0.32
+Lorenzo Tonelli,34,Centre-Back,Italy,FC Empoli,0.21
+Giuseppe Pezzella,26,Left-Back,Italy,FC Empoli,2.35
+Liberato Cacace,23,Left-Back,New Zealand,FC Empoli,2.14
+Tyronne Ebuehi,28,Right-Back,Nigeria,FC Empoli,2.14
+Bartosz Bereszyński,31,Right-Back,Poland,FC Empoli,1.39
+Răzvan Marin,28,Defensive Midfield,Romania,FC Empoli,2.89
+Alberto Grassi,29,Defensive Midfield,Italy,FC Empoli,1.93
+Jacopo Fazzini,21,Central Midfield,Italy,FC Empoli,6.42
+Youssef Maleh,25,Central Midfield,Morocco,FC Empoli,4.82
+Szymon Żurkowski,26,Central Midfield,Poland,FC Empoli,2.67
+Simone Bastoni,27,Central Midfield,Italy,FC Empoli,1.6
+Luca Belardinelli,23,Central Midfield,Italy,FC Empoli,1.07
+Viktor Kovalenko,28,Attacking Midfield,Ukraine,FC Empoli,1.6
+Emmanuel Gyasi,30,Left Winger,Ghana,FC Empoli,1.93
+Matteo Cancellieri,22,Right Winger,Italy,FC Empoli,5.14
+Nicolò Cambiaghi,23,Second Striker,Italy,FC Empoli,7.49
+M'Baye Niang,29,Centre-Forward,Senegal,FC Empoli,2.67
+Stiven Shpendi,21,Centre-Forward,Albania,FC Empoli,2.14
+Alberto Cerri,28,Centre-Forward,Italy,FC Empoli,1.82
+Francesco Caputo,36,Centre-Forward,Italy,FC Empoli,1.07
+Mattia Destro,33,Centre-Forward,Italy,FC Empoli,0.54
+Manuel Neuer,38,Goalkeeper,Germany,Bayern Munich,4.28
+Daniel Peretz,23,Goalkeeper,Israel,Bayern Munich,3.21
+Sven Ulreich,35,Goalkeeper,Germany,Bayern Munich,0.75
+Tom Hülsmann,20,Goalkeeper,Germany,Bayern Munich,0.27
+Matthijs de Ligt,24,Centre-Back,Netherlands,Bayern Munich,69.55
+Dayot Upamecano,25,Centre-Back,France,Bayern Munich,48.15
+Min-jae Kim,27,Centre-Back,South Korea,Bayern Munich,48.15
+Eric Dier,30,Centre-Back,England,Bayern Munich,12.84
+Tarek Buchmann,19,Centre-Back,Germany,Bayern Munich,0.54
+Alphonso Davies,23,Left-Back,Canada,Bayern Munich,53.5
+Raphaël Guerreiro,30,Left-Back,Portugal,Bayern Munich,12.84
+Joshua Kimmich,29,Right-Back,Germany,Bayern Munich,53.5
+Noussair Mazraoui,26,Right-Back,Morocco,Bayern Munich,32.1
+Sacha Boey,23,Right-Back,France,Bayern Munich,19.26
+Bouna Sarr,32,Right-Back,Senegal,Bayern Munich,1.6
+Aleksandar Pavlovic,20,Defensive Midfield,Germany,Bayern Munich,32.1
+Leon Goretzka,29,Central Midfield,Germany,Bayern Munich,32.1
+Konrad Laimer,27,Central Midfield,Austria,Bayern Munich,32.1
+Jamal Musiala,21,Attacking Midfield,Germany,Bayern Munich,128.4
+Lovro Zvonarek,19,Attacking Midfield,Croatia,Bayern Munich,3.21
+Kingsley Coman,28,Left Winger,France,Bayern Munich,53.5
+Mathys Tel,19,Left Winger,France,Bayern Munich,42.8
+Bryan Zaragoza,22,Left Winger,Spain,Bayern Munich,12.84
+Leroy Sané,28,Right Winger,Germany,Bayern Munich,74.9
+Serge Gnabry,28,Right Winger,Germany,Bayern Munich,42.8
+Thomas Müller,34,Second Striker,Germany,Bayern Munich,8.56
+Harry Kane,30,Centre-Forward,England,Bayern Munich,107.0
+Eric-Maxim Choupo-Moting,35,Centre-Forward,Cameroon,Bayern Munich,2.67
+Matej Kovar,24,Goalkeeper,Czech Republic,Bayer Leverkusen,7.49
+Lukas Hradecky,34,Goalkeeper,Finland,Bayer Leverkusen,2.67
+Niklas Lomb,30,Goalkeeper,Germany,Bayer Leverkusen,0.27
+Edmond Tapsoba,25,Centre-Back,Burkina Faso,Bayer Leverkusen,48.15
+Piero Hincapié,22,Centre-Back,Ecuador,Bayer Leverkusen,42.8
+Odilon Kossounou,23,Centre-Back,Cote d'Ivoire,Bayer Leverkusen,37.45
+Jonathan Tah,28,Centre-Back,Germany,Bayer Leverkusen,32.1
+Josip Stanisic,24,Centre-Back,Croatia,Bayer Leverkusen,29.96
+Madi Monamay,18,Centre-Back,Belgium,Bayer Leverkusen,0.0
+Alejandro Grimaldo,28,Left-Back,Spain,Bayer Leverkusen,48.15
+Arthur,21,Right-Back,Brazil,Bayer Leverkusen,5.35
+Timothy Fosu-Mensah,26,Right-Back,Netherlands,Bayer Leverkusen,0.86
+Granit Xhaka,31,Defensive Midfield,Switzerland,Bayer Leverkusen,21.4
+Robert Andrich,29,Defensive Midfield,Germany,Bayer Leverkusen,18.19
+Noah Mbamba,19,Defensive Midfield,Belgium,Bayer Leverkusen,2.67
+Exequiel Palacios,25,Central Midfield,Argentina,Bayer Leverkusen,48.15
+Gustavo Puerta,20,Central Midfield,Colombia,Bayer Leverkusen,3.21
+Jeremie Frimpong,23,Right Midfield,Netherlands,Bayer Leverkusen,53.5
+Florian Wirtz,21,Attacking Midfield,Germany,Bayer Leverkusen,139.1
+Jonas Hofmann,31,Attacking Midfield,Germany,Bayer Leverkusen,10.7
+Ayman Aourir,19,Attacking Midfield,Morocco,Bayer Leverkusen,0.32
+Amine Adli,24,Left Winger,Morocco,Bayer Leverkusen,32.1
+Nathan Tella,24,Right Winger,Nigeria,Bayer Leverkusen,24.61
+Adam Hlozek,21,Second Striker,Czech Republic,Bayer Leverkusen,12.84
+Victor Boniface,23,Centre-Forward,Nigeria,Bayer Leverkusen,42.8
+Patrik Schick,28,Centre-Forward,Czech Republic,Bayer Leverkusen,23.54
+Borja Iglesias,31,Centre-Forward,Spain,Bayer Leverkusen,5.35
+Péter Gulácsi,34,Goalkeeper,Hungary,RB Leipzig,3.21
+Janis Blaswich,33,Goalkeeper,Germany,RB Leipzig,2.14
+Timo Schlieck,18,Goalkeeper,Germany,RB Leipzig,0.54
+Leopold Zingerle,30,Goalkeeper,Germany,RB Leipzig,0.43
+Castello Lukeba,21,Centre-Back,France,RB Leipzig,42.8
+Mohamed Simakan,24,Centre-Back,France,RB Leipzig,37.45
+El Chadaille Bitshiabu,19,Centre-Back,France,RB Leipzig,12.84
+Willi Orbán,31,Centre-Back,Hungary,RB Leipzig,10.7
+Lukas Klostermann,28,Centre-Back,Germany,RB Leipzig,8.56
+Tim Köhler,19,Centre-Back,Germany,RB Leipzig,0.0
+David Raum,26,Left-Back,Germany,RB Leipzig,21.4
+Christopher Lenz,29,Left-Back,Germany,RB Leipzig,1.6
+Benjamin Henrichs,27,Right-Back,Germany,RB Leipzig,21.4
+Xaver Schlager,26,Central Midfield,Austria,RB Leipzig,29.96
+Amadou Haidara,26,Central Midfield,Mali,RB Leipzig,21.4
+Nicolas Seiwald,23,Central Midfield,Austria,RB Leipzig,17.12
+Kevin Kampl,33,Central Midfield,Slovenia,RB Leipzig,3.75
+Xavi Simons,21,Attacking Midfield,Netherlands,RB Leipzig,85.6
+Dani Olmo,26,Attacking Midfield,Spain,RB Leipzig,53.5
+Eljif Elmas,24,Attacking Midfield,North Macedonia,RB Leipzig,21.4
+Christoph Baumgartner,24,Attacking Midfield,Austria,RB Leipzig,19.26
+Loïs Openda,24,Centre-Forward,Belgium,RB Leipzig,64.2
+Benjamin Sesko,21,Centre-Forward,Slovenia,RB Leipzig,53.5
+Yussuf Poulsen,30,Centre-Forward,Denmark,RB Leipzig,6.42
+Gregor Kobel,26,Goalkeeper,Switzerland,Borrusia Dortmund,42.8
+Marcel Lotka,23,Goalkeeper,Germany,Borrusia Dortmund,1.39
+Alexander Meyer,33,Goalkeeper,Germany,Borrusia Dortmund,0.86
+Nico Schlotterbeck,24,Centre-Back,Germany,Borrusia Dortmund,42.8
+Niklas Süle,28,Centre-Back,Germany,Borrusia Dortmund,16.05
+Mats Hummels,35,Centre-Back,Germany,Borrusia Dortmund,5.35
+Antonios Papadopoulos,24,Centre-Back,Germany,Borrusia Dortmund,1.07
+Ian Maatsen,22,Left-Back,Netherlands,Borrusia Dortmund,42.8
+Ramy Bensebaini,29,Left-Back,Algeria,Borrusia Dortmund,7.49
+Julian Ryerson,26,Right-Back,Norway,Borrusia Dortmund,21.4
+Marius Wolf,29,Right-Back,Germany,Borrusia Dortmund,3.21
+Mateu Morey,24,Right-Back,Spain,Borrusia Dortmund,0.86
+Salih Özcan,26,Defensive Midfield,Türkiye,Borrusia Dortmund,10.7
+Emre Can,30,Defensive Midfield,Germany,Borrusia Dortmund,10.7
+Abdoulaye Kamara,19,Defensive Midfield,France,Borrusia Dortmund,1.6
+Felix Nmecha,23,Central Midfield,Germany,Borrusia Dortmund,21.4
+Marcel Sabitzer,30,Central Midfield,Austria,Borrusia Dortmund,21.4
+Kjell Wätjen,18,Central Midfield,Germany,Borrusia Dortmund,2.14
+Ole Pohlmann,23,Central Midfield,Germany,Borrusia Dortmund,1.6
+Julian Brandt,28,Attacking Midfield,Germany,Borrusia Dortmund,42.8
+Marco Reus,35,Attacking Midfield,Germany,Borrusia Dortmund,5.35
+Jadon Sancho,24,Left Winger,England,Borrusia Dortmund,32.1
+Karim Adeyemi,22,Left Winger,Germany,Borrusia Dortmund,29.96
+Jamie Bynoe-Gittens,19,Left Winger,England,Borrusia Dortmund,29.96
+Donyell Malen,25,Right Winger,Netherlands,Borrusia Dortmund,42.8
+Julien Duranville,18,Right Winger,Belgium,Borrusia Dortmund,9.1
+Youssoufa Moukoko,19,Centre-Forward,Germany,Borrusia Dortmund,23.54
+Niclas Füllkrug,31,Centre-Forward,Germany,Borrusia Dortmund,16.05
+Sébastien Haller,30,Centre-Forward,Cote d'Ivoire,Borrusia Dortmund,10.7
+Alexander Nübel,27,Goalkeeper,Germany,VfB Stuttgart,12.84
+Fabian Bredlow,29,Goalkeeper,Germany,VfB Stuttgart,1.07
+Dennis Seimen,18,Goalkeeper,Germany,VfB Stuttgart,1.07
+Florian Schock,23,Goalkeeper,Germany,VfB Stuttgart,0.21
+Hiroki Ito,25,Centre-Back,Japan,VfB Stuttgart,32.1
+Waldemar Anton,27,Centre-Back,Germany,VfB Stuttgart,21.4
+Dan-Axel Zagadou,25,Centre-Back,France,VfB Stuttgart,10.7
+Anthony Rouault,23,Centre-Back,France,VfB Stuttgart,7.49
+Leonidas Stergiou,22,Centre-Back,Switzerland,VfB Stuttgart,5.35
+Maximilian Mittelstädt,27,Left-Back,Germany,VfB Stuttgart,18.19
+Josha Vagnoman,23,Right-Back,Germany,VfB Stuttgart,10.7
+Pascal Stenzel,28,Right-Back,Germany,VfB Stuttgart,2.67
+Angelo Stiller,23,Defensive Midfield,Germany,VfB Stuttgart,21.4
+Atakan Karazor,27,Defensive Midfield,Germany,VfB Stuttgart,12.84
+Mahmoud Dahoud,28,Central Midfield,Syria,VfB Stuttgart,6.42
+Nikolas Nartey,24,Central Midfield,Denmark,VfB Stuttgart,0.64
+Roberto Massimo,23,Right Midfield,Germany,VfB Stuttgart,0.86
+Enzo Millot,21,Attacking Midfield,France,VfB Stuttgart,32.1
+Woo-yeong Jeong,24,Attacking Midfield,South Korea,VfB Stuttgart,3.75
+Lilian Egloff,21,Attacking Midfield,Germany,VfB Stuttgart,0.86
+Genki Haraguchi,33,Attacking Midfield,Japan,VfB Stuttgart,0.54
+Laurin Ulrich,19,Attacking Midfield,Germany,VfB Stuttgart,0.54
+Chris Führich,26,Left Winger,Germany,VfB Stuttgart,29.96
+Silas,25,Right Winger,DR Congo,VfB Stuttgart,10.7
+Jamie Leweling,23,Right Winger,Germany,VfB Stuttgart,9.63
+Luca Raimund,19,Right Winger,Germany,VfB Stuttgart,0.54
+Serhou Guirassy,28,Centre-Forward,Guinea,VfB Stuttgart,42.8
+Deniz Undav,27,Centre-Forward,Germany,VfB Stuttgart,26.75
+Kevin Trapp,33,Goalkeeper,Germany,Eintracht Frankfurt,4.28
+Kauã Santos,21,Goalkeeper,Brazil,Eintracht Frankfurt,1.6
+Jens Grahl,35,Goalkeeper,Germany,Eintracht Frankfurt,0.21
+Simon Simoni,19,Goalkeeper,Albania,Eintracht Frankfurt,0.21
+Willian Pacho,22,Centre-Back,Ecuador,Eintracht Frankfurt,37.45
+Robin Koch,27,Centre-Back,Germany,Eintracht Frankfurt,19.26
+Tuta,24,Centre-Back,Brazil,Eintracht Frankfurt,12.84
+Hrvoje Smolcic,23,Centre-Back,Croatia,Eintracht Frankfurt,3.21
+Nnamdi Collins,20,Centre-Back,Germany,Eintracht Frankfurt,1.07
+Makoto Hasebe,40,Centre-Back,Japan,Eintracht Frankfurt,0.54
+Dario Gebuhr,21,Centre-Back,Germany,Eintracht Frankfurt,0.43
+Davis Bautista,19,Centre-Back,Ecuador,Eintracht Frankfurt,0.27
+Niels Nkounkou,23,Left-Back,France,Eintracht Frankfurt,8.03
+Philipp Max,30,Left-Back,Germany,Eintracht Frankfurt,2.14
+Aurélio Buta,27,Right-Back,Portugal,Eintracht Frankfurt,5.35
+Elias Baum,18,Right-Back,Germany,Eintracht Frankfurt,1.07
+Timothy Chandler,34,Right-Back,United States,Eintracht Frankfurt,0.54
+Ellyes Skhiri,29,Defensive Midfield,Tunisia,Eintracht Frankfurt,11.77
+Hugo Larsson,19,Central Midfield,Sweden,Eintracht Frankfurt,29.96
+Junior Dina Ebimbe,23,Central Midfield,France,Eintracht Frankfurt,12.84
+Donny van de Beek,27,Central Midfield,Netherlands,Eintracht Frankfurt,5.35
+Sebastian Rode,33,Central Midfield,Germany,Eintracht Frankfurt,1.07
+Sidney Raebiger,19,Central Midfield,Germany,Eintracht Frankfurt,0.32
+Mehdi Loune,20,Central Midfield,Germany,Eintracht Frankfurt,0.32
+Harpreet Ghotra,21,Central Midfield,Germany,Eintracht Frankfurt,0.11
+Farès Chaïbi,21,Attacking Midfield,Algeria,Eintracht Frankfurt,19.26
+Mario Götze,32,Attacking Midfield,Germany,Eintracht Frankfurt,5.88
+Jean-Mattéo Bahoya,19,Left Winger,France,Eintracht Frankfurt,8.03
+Ansgar Knauff,22,Right Winger,Germany,Eintracht Frankfurt,10.7
+Omar Marmoush,25,Centre-Forward,Egypt,Eintracht Frankfurt,23.54
+Hugo Ekitiké,22,Centre-Forward,France,Eintracht Frankfurt,21.4
+Sasa Kalajdzic,26,Centre-Forward,Austria,Eintracht Frankfurt,5.35
+Nacho Ferri,19,Centre-Forward,Spain,Eintracht Frankfurt,2.14
+Koen Casteels,32,Goalkeeper,Belgium,WfL Wolfburg,6.42
+Pavao Pervan,36,Goalkeeper,Austria,WfL Wolfburg,0.32
+Niklas Klinger,28,Goalkeeper,Germany,WfL Wolfburg,0.11
+Maxence Lacroix,24,Centre-Back,France,WfL Wolfburg,21.4
+Moritz Jenz,25,Centre-Back,Germany,WfL Wolfburg,8.03
+Sebastiaan Bornauw,25,Centre-Back,Belgium,WfL Wolfburg,7.49
+Cédric Zesiger,26,Centre-Back,Switzerland,WfL Wolfburg,5.35
+Rogério,26,Left-Back,Brazil,WfL Wolfburg,5.35
+Joakim Maehle,27,Right-Back,Denmark,WfL Wolfburg,14.98
+Ridle Baku,26,Right-Back,Germany,WfL Wolfburg,7.49
+Kilian Fischer,23,Right-Back,Germany,WfL Wolfburg,1.6
+Kofi Amoako,19,Defensive Midfield,Germany,WfL Wolfburg,0.43
+Aster Vranckx,21,Central Midfield,Belgium,WfL Wolfburg,12.84
+Mattias Svanberg,25,Central Midfield,Sweden,WfL Wolfburg,12.84
+Maximilian Arnold,30,Central Midfield,Germany,WfL Wolfburg,7.49
+Yannick Gerhardt,30,Central Midfield,Germany,WfL Wolfburg,4.28
+Kevin Paredes,21,Left Midfield,United States,WfL Wolfburg,8.03
+Lovro Majer,26,Attacking Midfield,Croatia,WfL Wolfburg,21.4
+Jakub Kaminski,22,Left Winger,Poland,WfL Wolfburg,6.42
+Ulysses Llanez,23,Left Winger,United States,WfL Wolfburg,0.21
+Patrick Wimmer,23,Right Winger,Austria,WfL Wolfburg,16.05
+Vaclav Cerny,26,Right Winger,Czech Republic,WfL Wolfburg,7.49
+Jonas Wind,25,Centre-Forward,Denmark,WfL Wolfburg,21.4
+Tiago Tomás,22,Centre-Forward,Portugal,WfL Wolfburg,6.42
+Lukas Nmecha,25,Centre-Forward,Germany,WfL Wolfburg,5.35
+Amin Sarr,23,Centre-Forward,Sweden,WfL Wolfburg,4.28
+Kevin Behrens,33,Centre-Forward,Germany,WfL Wolfburg,2.14
+Dzenan Pejcinovic,19,Centre-Forward,Germany,WfL Wolfburg,1.07
+Noah Atubolu,22,Goalkeeper,Germany,SC Freilburg,10.7
+Florian Müller,26,Goalkeeper,Germany,SC Freilburg,1.28
+Benjamin Uphoff,30,Goalkeeper,Germany,SC Freilburg,0.32
+Philipp Lienhart,27,Centre-Back,Austria,SC Freilburg,16.05
+Matthias Ginter,30,Centre-Back,Germany,SC Freilburg,10.7
+Attila Szalai,26,Centre-Back,Hungary,SC Freilburg,4.28
+Kenneth Schmidt,22,Centre-Back,Germany,SC Freilburg,2.67
+Manuel Gulde,33,Centre-Back,Germany,SC Freilburg,1.6
+Max Rosenfelder,21,Centre-Back,Germany,SC Freilburg,0.54
+Christian Günter,31,Left-Back,Germany,SC Freilburg,5.35
+Jordy Makengo,22,Left-Back,France,SC Freilburg,3.75
+Kiliann Sildillia,22,Right-Back,France,SC Freilburg,16.05
+Lukas Kübler,31,Right-Back,Germany,SC Freilburg,2.14
+Yannik Keitel,24,Defensive Midfield,Germany,SC Freilburg,5.35
+Nicolas Höfler,34,Defensive Midfield,Germany,SC Freilburg,2.14
+Merlin Röhl,21,Central Midfield,Germany,SC Freilburg,12.84
+Maximilian Eggestein,27,Central Midfield,Germany,SC Freilburg,10.7
+Daniel-Kofi Kyereh,28,Attacking Midfield,Ghana,SC Freilburg,3.75
+Vincenzo Grifo,31,Left Winger,Italy,SC Freilburg,9.63
+Noah Weißhaupt,22,Left Winger,Germany,SC Freilburg,5.35
+Florent Muslija,25,Left Winger,Kosovo,SC Freilburg,2.67
+Ritsu Doan,26,Right Winger,Japan,SC Freilburg,19.26
+Roland Sallai,27,Right Winger,Hungary,SC Freilburg,16.05
+Maximilian Philipp,30,Second Striker,Germany,SC Freilburg,2.14
+Michael Gregoritsch,30,Centre-Forward,Austria,SC Freilburg,8.56
+Lucas Höler,29,Centre-Forward,Germany,SC Freilburg,4.28
+Junior Adamu,23,Centre-Forward,Austria,SC Freilburg,4.28
+Maximilian Breunig,23,Centre-Forward,Germany,SC Freilburg,0.86
+Jonas Omlin,30,Goalkeeper,Switzerland,Borrusia Monchengladbach,6.42
+Moritz Nicolas,26,Goalkeeper,Germany,Borrusia Monchengladbach,2.67
+Jan Olschowsky,22,Goalkeeper,Germany,Borrusia Monchengladbach,0.64
+Tobias Sippel,36,Goalkeeper,Germany,Borrusia Monchengladbach,0.32
+Maximilian Brüll,21,Goalkeeper,Germany,Borrusia Monchengladbach,0.08
+Ko Itakura,27,Centre-Back,Japan,Borrusia Monchengladbach,12.84
+Nico Elvedi,27,Centre-Back,Switzerland,Borrusia Monchengladbach,10.7
+Maximilian Wöber,26,Centre-Back,Austria,Borrusia Monchengladbach,10.7
+Marvin Friedrich,28,Centre-Back,Germany,Borrusia Monchengladbach,3.75
+Fabio Chiarodia,19,Centre-Back,Italy,Borrusia Monchengladbach,2.14
+Tony Jantschke,34,Centre-Back,Germany,Borrusia Monchengladbach,0.43
+Mamadou Doucouré,26,Centre-Back,France,Borrusia Monchengladbach,0.11
+Luca Netz,21,Left-Back,Germany,Borrusia Monchengladbach,10.7
+Lukas Ullrich,20,Left-Back,Germany,Borrusia Monchengladbach,0.8
+Joe Scally,21,Right-Back,United States,Borrusia Monchengladbach,10.7
+Stefan Lainer,31,Right-Back,Austria,Borrusia Monchengladbach,2.67
+Simon Walde,19,Right-Back,Germany,Borrusia Monchengladbach,0.54
+Julian Weigl,28,Defensive Midfield,Germany,Borrusia Monchengladbach,6.42
+Christoph Kramer,33,Defensive Midfield,Germany,Borrusia Monchengladbach,1.82
+Manu Koné,23,Central Midfield,France,Borrusia Monchengladbach,21.4
+Rocco Reitz,22,Central Midfield,Germany,Borrusia Monchengladbach,10.7
+Florian Neuhaus,27,Central Midfield,Germany,Borrusia Monchengladbach,7.49
+Robin Hack,25,Left Winger,Germany,Borrusia Monchengladbach,8.56
+Franck Honorat,27,Right Winger,France,Borrusia Monchengladbach,12.84
+Nathan Ngoumou,24,Right Winger,France,Borrusia Monchengladbach,5.35
+Patrick Herrmann,33,Right Winger,Germany,Borrusia Monchengladbach,1.07
+Tomas Cvancara,23,Centre-Forward,Czech Republic,Borrusia Monchengladbach,8.56
+Alassane Plea,31,Centre-Forward,France,Borrusia Monchengladbach,7.49
+Jordan,28,Centre-Forward,United States,Borrusia Monchengladbach,4.28
+Grant-Leon Ranos,20,Centre-Forward,Armenia,Borrusia Monchengladbach,1.07
+Shio Fukuda,20,Centre-Forward,Japan,Borrusia Monchengladbach,0.32
+Oliver Baumann,34,Goalkeeper,Germany,TSG 1899 Hoffenheim,3.21
+Nahuel Noll,21,Goalkeeper,Germany,TSG 1899 Hoffenheim,0.54
+Luca Philipp,23,Goalkeeper,Germany,TSG 1899 Hoffenheim,0.32
+Ozan Kabak,24,Centre-Back,Türkiye,TSG 1899 Hoffenheim,10.7
+Kevin Akpoguma,29,Centre-Back,Nigeria,TSG 1899 Hoffenheim,3.21
+Stanley Nsoki,25,Centre-Back,France,TSG 1899 Hoffenheim,2.67
+Tim Drexler,19,Centre-Back,Germany,TSG 1899 Hoffenheim,2.67
+John Brooks,31,Centre-Back,United States,TSG 1899 Hoffenheim,2.14
+Kasim Adams,29,Centre-Back,Ghana,TSG 1899 Hoffenheim,0.75
+David Jurásek,23,Left-Back,Czech Republic,TSG 1899 Hoffenheim,8.56
+Marco John,22,Left-Back,Germany,TSG 1899 Hoffenheim,1.6
+Pavel Kaderabek,32,Right-Back,Czech Republic,TSG 1899 Hoffenheim,3.21
+Florian Grillitsch,28,Defensive Midfield,Austria,TSG 1899 Hoffenheim,6.96
+Anton Stach,25,Central Midfield,Germany,TSG 1899 Hoffenheim,16.05
+Grischa Prömel,29,Central Midfield,Germany,TSG 1899 Hoffenheim,7.49
+Umut Tohumcu,19,Central Midfield,Germany,TSG 1899 Hoffenheim,7.49
+Dennis Geiger,26,Central Midfield,Germany,TSG 1899 Hoffenheim,3.21
+Finn Ole Becker,24,Central Midfield,Germany,TSG 1899 Hoffenheim,2.67
+Robert Skov,28,Left Midfield,Denmark,TSG 1899 Hoffenheim,5.35
+Tom Bischof,18,Attacking Midfield,Germany,TSG 1899 Hoffenheim,3.75
+Bambasé Conté,20,Attacking Midfield,Germany,TSG 1899 Hoffenheim,0.75
+Marius Bülter,31,Left Winger,Germany,TSG 1899 Hoffenheim,2.67
+Maximilian Beier,21,Centre-Forward,Germany,TSG 1899 Hoffenheim,32.1
+Mergim Berisha,26,Centre-Forward,Germany,TSG 1899 Hoffenheim,10.7
+Wout Weghorst,31,Centre-Forward,Netherlands,TSG 1899 Hoffenheim,6.42
+Andrej Kramaric,33,Centre-Forward,Croatia,TSG 1899 Hoffenheim,5.35
+Ihlas Bebou,30,Centre-Forward,Togo,TSG 1899 Hoffenheim,4.28
+Max Moerstedt,18,Centre-Forward,Germany,TSG 1899 Hoffenheim,1.07
+Frederik Rönnow,31,Goalkeeper,Denmark,FC Union Berline,4.82
+Alexander Schwolow,32,Goalkeeper,Germany,FC Union Berline,0.75
+Jakob Busk,30,Goalkeeper,Denmark,FC Union Berline,0.27
+Danilho Doekhi,25,Centre-Back,Netherlands,FC Union Berline,18.19
+Diogo Leite,25,Centre-Back,Portugal,FC Union Berline,16.05
+Robin Knoche,32,Centre-Back,Germany,FC Union Berline,2.67
+Kevin Vogt,32,Centre-Back,Germany,FC Union Berline,2.14
+Paul Jaeckel,25,Centre-Back,Germany,FC Union Berline,2.14
+Jérôme Roussillon,31,Left-Back,Guadeloupe,FC Union Berline,2.67
+Josip Juranovic,28,Right-Back,Croatia,FC Union Berline,8.03
+Christopher Trimmel,37,Right-Back,Austria,FC Union Berline,0.64
+Lucas Tousart,27,Defensive Midfield,France,FC Union Berline,7.49
+Rani Khedira,30,Defensive Midfield,Germany,FC Union Berline,5.35
+Alex Král,26,Defensive Midfield,Czech Republic,FC Union Berline,5.35
+Aïssa Laïdouni,27,Central Midfield,Tunisia,FC Union Berline,6.42
+András Schäfer,25,Central Midfield,Hungary,FC Union Berline,5.35
+Janik Haberer,30,Central Midfield,Germany,FC Union Berline,3.21
+Robin Gosens,29,Left Midfield,Germany,FC Union Berline,12.84
+Brenden Aaronson,23,Attacking Midfield,United States,FC Union Berline,12.84
+Yorbe Vertessen,23,Centre-Forward,Belgium,FC Union Berline,5.35
+Kevin Volland,31,Centre-Forward,Germany,FC Union Berline,4.28
+Benedict Hollerbach,23,Centre-Forward,Germany,FC Union Berline,4.28
+Mikkel Kaufmann,23,Centre-Forward,Denmark,FC Union Berline,2.89
+Chris Bedia,28,Centre-Forward,Cote d'Ivoire,FC Union Berline,2.67
+Robin Zentner,29,Goalkeeper,Germany,FSV Mainz 05,3.21
+Daniel Batz,33,Goalkeeper,Germany,FSV Mainz 05,0.37
+Lasse Rieß,22,Goalkeeper,Germany,FSV Mainz 05,0.21
+Sepp van den Berg,22,Centre-Back,Netherlands,FSV Mainz 05,12.84
+Andreas Hanche-Olsen,27,Centre-Back,Norway,FSV Mainz 05,9.63
+Edimilson Fernandes,28,Centre-Back,Switzerland,FSV Mainz 05,3.75
+Maxim Leitsch,26,Centre-Back,Germany,FSV Mainz 05,1.6
+Stefan Bell,32,Centre-Back,Germany,FSV Mainz 05,0.86
+Anthony Caci,26,Left-Back,France,FSV Mainz 05,7.49
+Phillipp Mwene,30,Left-Back,Austria,FSV Mainz 05,1.93
+Silvan Widmer,31,Right-Back,Switzerland,FSV Mainz 05,3.21
+Danny da Costa,30,Right-Back,Germany,FSV Mainz 05,1.28
+Dominik Kohr,30,Defensive Midfield,Germany,FSV Mainz 05,3.21
+Josuha Guilavogui,33,Defensive Midfield,France,FSV Mainz 05,0.75
+Leandro Barreiro,24,Central Midfield,Luxembourg,FSV Mainz 05,18.19
+Nadiem Amiri,27,Central Midfield,Germany,FSV Mainz 05,7.49
+Tom Krauß,23,Central Midfield,Germany,FSV Mainz 05,4.28
+Merveille Papela,23,Central Midfield,Germany,FSV Mainz 05,1.07
+Jae-sung Lee,31,Attacking Midfield,South Korea,FSV Mainz 05,2.67
+Marco Richter,26,Attacking Midfield,Germany,FSV Mainz 05,2.14
+Brajan Gruda,20,Right Winger,Germany,FSV Mainz 05,21.4
+David Mamutovic,23,Right Winger,Germany,FSV Mainz 05,0.32
+Jonathan Burkardt,23,Centre-Forward,Germany,FSV Mainz 05,12.84
+Nelson Weiper,19,Centre-Forward,Germany,FSV Mainz 05,5.35
+Ludovic Ajorque,30,Centre-Forward,France,FSV Mainz 05,3.21
+Karim Onisiwo,32,Centre-Forward,Austria,FSV Mainz 05,1.6
+Jessic Ngankam,23,Centre-Forward,Germany,FSV Mainz 05,1.6
+Finn Dahmen,26,Goalkeeper,Germany,FC Augsburg,5.35
+Tomas Koubek,31,Goalkeeper,Czech Republic,FC Augsburg,0.86
+Marcel Lubik,20,Goalkeeper,Poland,FC Augsburg,0.27
+Felix Uduokhai,26,Centre-Back,Germany,FC Augsburg,7.49
+Maximilian Bauer,24,Centre-Back,Germany,FC Augsburg,3.21
+Patric Pfeiffer,24,Centre-Back,Ghana,FC Augsburg,2.14
+Jeffrey Gouweleeuw,32,Centre-Back,Netherlands,FC Augsburg,2.14
+Reece Oxford,25,Centre-Back,England,FC Augsburg,1.6
+Iago,27,Left-Back,Brazil,FC Augsburg,4.28
+Mads Pedersen,27,Left-Back,Denmark,FC Augsburg,2.67
+Kevin Mbabu,29,Right-Back,Switzerland,FC Augsburg,4.28
+Robert Gumny,26,Right-Back,Poland,FC Augsburg,2.14
+Raphael Framberger,28,Right-Back,Germany,FC Augsburg,0.64
+Kristijan Jakic,27,Defensive Midfield,Croatia,FC Augsburg,6.96
+Niklas Dorsch,26,Defensive Midfield,Germany,FC Augsburg,4.28
+Tim Breithaupt,22,Defensive Midfield,Germany,FC Augsburg,3.21
+Arne Engels,20,Central Midfield,Belgium,FC Augsburg,9.63
+Arne Maier,25,Central Midfield,Germany,FC Augsburg,5.35
+Elvis Rexhbecaj,26,Central Midfield,Germany,FC Augsburg,3.75
+Fredrik Jensen,26,Attacking Midfield,Finland,FC Augsburg,3.75
+Pep Biel,27,Attacking Midfield,Spain,FC Augsburg,3.21
+Mert Kömür,18,Attacking Midfield,Germany,FC Augsburg,2.14
+Rubén Vargas,25,Left Winger,Switzerland,FC Augsburg,8.03
+Ermedin Demirovic,26,Centre-Forward,Bosnia-Herzegovina,FC Augsburg,29.96
+Phillip Tietz,26,Centre-Forward,Germany,FC Augsburg,5.35
+Dion Beljo,22,Centre-Forward,Croatia,FC Augsburg,4.28
+Sven Michel,33,Centre-Forward,Germany,FC Augsburg,0.75
+Michael Zetterer,28,Goalkeeper,Germany,SV Werder Bremen,3.21
+Jiri Pavlenka,32,Goalkeeper,Czech Republic,SV Werder Bremen,1.6
+Dudu,25,Goalkeeper,Germany,SV Werder Bremen,0.21
+Marco Friedl,26,Centre-Back,Austria,SV Werder Bremen,8.03
+Niklas Stark,29,Centre-Back,Germany,SV Werder Bremen,5.88
+Milos Veljkovic,28,Centre-Back,Serbia,SV Werder Bremen,4.82
+Amos Pieper,26,Centre-Back,Germany,SV Werder Bremen,4.28
+Julián Malatini,23,Centre-Back,Argentina,SV Werder Bremen,2.67
+Anthony Jung,32,Centre-Back,Germany,SV Werder Bremen,1.07
+Mitchell Weiser,30,Right-Back,Germany,SV Werder Bremen,6.42
+Felix Agu,24,Right-Back,Germany,SV Werder Bremen,4.28
+Senne Lynen,25,Defensive Midfield,Belgium,SV Werder Bremen,7.49
+Christian Groß,35,Defensive Midfield,Germany,SV Werder Bremen,0.32
+Jens Stage,27,Central Midfield,Denmark,SV Werder Bremen,8.03
+Skelly Alvero,22,Central Midfield,France,SV Werder Bremen,4.28
+Leonardo Bittencourt,30,Central Midfield,Germany,SV Werder Bremen,2.67
+Naby Keïta,29,Central Midfield,Guinea,SV Werder Bremen,2.14
+Olivier Deman,24,Left Midfield,Belgium,SV Werder Bremen,5.35
+Leon Opitz,19,Left Midfield,Germany,SV Werder Bremen,0.64
+Romano Schmid,24,Attacking Midfield,Austria,SV Werder Bremen,10.7
+Isak Hansen-Aarøen,19,Attacking Midfield,Norway,SV Werder Bremen,1.6
+Justin Njinmah,23,Right Winger,Germany,SV Werder Bremen,9.63
+Nick Woltemade,22,Second Striker,Germany,SV Werder Bremen,4.28
+Marvin Ducksch,30,Centre-Forward,Germany,SV Werder Bremen,9.63
+Dawid Kownacki,27,Centre-Forward,Poland,SV Werder Bremen,2.14
+Marvin Schwäbe,29,Goalkeeper,Germany,FC Koln,4.28
+Philipp Pentke,39,Goalkeeper,Germany,FC Koln,0.32
+Jonas Nickisch,20,Goalkeeper,Germany,FC Koln,0.21
+Matthias Köbbing,27,Goalkeeper,Germany,FC Koln,0.11
+Jeff Chabot,26,Centre-Back,Germany,FC Koln,9.63
+Timo Hübers,27,Centre-Back,Germany,FC Koln,5.88
+Luca Kilian,24,Centre-Back,Germany,FC Koln,2.14
+Dominique Heintz,30,Centre-Back,Germany,FC Koln,0.86
+Elias Bakatukanda,20,Centre-Back,Germany,FC Koln,0.27
+Max Finkgräfe,20,Left-Back,Germany,FC Koln,6.42
+Leart Paçarada,29,Left-Back,Kosovo,FC Koln,1.6
+Rasmus Carstensen,23,Right-Back,Denmark,FC Koln,2.14
+Benno Schmitz,29,Right-Back,Germany,FC Koln,1.6
+Eric Martel,22,Defensive Midfield,Germany,FC Koln,8.03
+Dejan Ljubicic,26,Defensive Midfield,Austria,FC Koln,5.35
+Jacob Christensen,23,Defensive Midfield,Denmark,FC Koln,1.6
+Denis Huseinbasic,22,Central Midfield,Bosnia-Herzegovina,FC Koln,4.28
+Florian Kainz,31,Attacking Midfield,Austria,FC Koln,2.67
+Faride Alidou,22,Left Winger,Germany,FC Koln,2.67
+Justin Diehl,19,Left Winger,Germany,FC Koln,2.67
+Jan Thielmann,22,Right Winger,Germany,FC Koln,5.35
+Linton Maina,25,Right Winger,Germany,FC Koln,3.21
+Davie Selke,29,Centre-Forward,Germany,FC Koln,3.0
+Luca Waldschmidt,28,Centre-Forward,Germany,FC Koln,2.67
+Damion Downs,19,Centre-Forward,United States,FC Koln,2.14
+Steffen Tigges,25,Centre-Forward,Germany,FC Koln,1.6
+Mark Uth,32,Centre-Forward,Germany,FC Koln,1.07
+Sargis Adamyan,31,Centre-Forward,Armenia,FC Koln,0.64
+Florian Dietz,25,Centre-Forward,Germany,FC Koln,0.64
+Kevin Müller,33,Goalkeeper,Germany,FC Heidenheim 1846,1.07
+Vitus Eicher,33,Goalkeeper,Germany,FC Heidenheim 1846,0.27
+Frank Feller,20,Goalkeeper,Germany,FC Heidenheim 1846,0.21
+Paul Tschernuth,22,Goalkeeper,Austria,FC Heidenheim 1846,0.11
+Benedikt Gimber,27,Centre-Back,Germany,FC Heidenheim 1846,3.0
+Patrick Mainka,29,Centre-Back,Germany,FC Heidenheim 1846,2.67
+Tim Siersleben,24,Centre-Back,Germany,FC Heidenheim 1846,1.6
+Thomas Keller,24,Centre-Back,Germany,FC Heidenheim 1846,0.37
+Jonas Föhrenbach,28,Left-Back,Germany,FC Heidenheim 1846,2.14
+Norman Theuerkauf,37,Left-Back,Germany,FC Heidenheim 1846,0.32
+Seedy Jarju,19,Left-Back,The Gambia,FC Heidenheim 1846,0.21
+Omar Traoré,26,Right-Back,Germany,FC Heidenheim 1846,2.67
+Marnon Busch,29,Right-Back,Germany,FC Heidenheim 1846,1.28
+Lennard Maloney,24,Defensive Midfield,United States,FC Heidenheim 1846,5.35
+Luka Janes,20,Defensive Midfield,Germany,FC Heidenheim 1846,0.21
+Jan Schöppner,25,Central Midfield,Germany,FC Heidenheim 1846,3.21
+Kevin Sessa,23,Central Midfield,Germany,FC Heidenheim 1846,2.67
+Adrian Beck,27,Attacking Midfield,Germany,FC Heidenheim 1846,1.6
+Denis Thomalla,31,Attacking Midfield,Germany,FC Heidenheim 1846,0.8
+Jan-Niklas Beste,25,Left Winger,Germany,FC Heidenheim 1846,16.05
+Florian Pick,28,Left Winger,Germany,FC Heidenheim 1846,0.75
+Eren Dinkçi,22,Right Winger,Germany,FC Heidenheim 1846,12.84
+Nikola Dovedan,29,Second Striker,Austria,FC Heidenheim 1846,0.86
+Tim Kleindienst,28,Centre-Forward,Germany,FC Heidenheim 1846,6.42
+Marvin Pieringer,24,Centre-Forward,Germany,FC Heidenheim 1846,3.21
+Stefan Schimmer,30,Centre-Forward,Germany,FC Heidenheim 1846,0.54
+Christian Kühlwetter,28,Centre-Forward,Germany,FC Heidenheim 1846,0.54
+Elidon Qenaj,21,Centre-Forward,Kosovo,FC Heidenheim 1846,0.11
+Manuel Riemann,35,Goalkeeper,Germany,VfL Bochum,0.64
+Niclas Thiede,25,Goalkeeper,Germany,VfL Bochum,0.37
+Andreas Luthe,37,Goalkeeper,Germany,VfL Bochum,0.32
+Michael Esser,36,Goalkeeper,Germany,VfL Bochum,0.32
+Keven Schlotterbeck,27,Centre-Back,Germany,VfL Bochum,6.42
+Bernardo,29,Centre-Back,Brazil,VfL Bochum,5.88
+Erhan Masovic,25,Centre-Back,Serbia,VfL Bochum,5.35
+Tim Oermann,20,Centre-Back,Germany,VfL Bochum,4.28
+Ivan Ordets,31,Centre-Back,Ukraine,VfL Bochum,2.67
+Noah Loosli,27,Centre-Back,Switzerland,VfL Bochum,0.86
+Mohammed Tolba,19,Centre-Back,Germany,VfL Bochum,0.21
+Maximilian Wittek,28,Left-Back,Germany,VfL Bochum,2.14
+Danilo Soares,32,Left-Back,Brazil,VfL Bochum,0.75
+Moritz Römling,23,Left-Back,Germany,VfL Bochum,0.16
+Felix Passlack,26,Right-Back,Germany,VfL Bochum,1.93
+Cristian Gamboa,34,Right-Back,Costa Rica,VfL Bochum,0.54
+Agon Elezi,23,Defensive Midfield,North Macedonia,VfL Bochum,0.86
+Anthony Losilla,38,Defensive Midfield,France,VfL Bochum,0.54
+Patrick Osterhage,24,Central Midfield,Germany,VfL Bochum,7.49
+Matus Bero,28,Central Midfield,Slovakia,VfL Bochum,3.75
+Kevin Stöger,30,Attacking Midfield,Austria,VfL Bochum,5.35
+Philipp Förster,29,Attacking Midfield,Germany,VfL Bochum,1.93
+Lukas Daschner,25,Attacking Midfield,Germany,VfL Bochum,1.28
+Moritz-Broni Kwarteng,26,Attacking Midfield,Germany,VfL Bochum,1.28
+Christopher Antwi-Adjei,30,Left Winger,Ghana,VfL Bochum,1.28
+Takuma Asano,29,Right Winger,Japan,VfL Bochum,4.28
+Moritz Broschinski,23,Centre-Forward,Germany,VfL Bochum,3.21
+Philipp Hofmann,31,Centre-Forward,Germany,VfL Bochum,1.93
+Gonçalo Paciência,29,Centre-Forward,Portugal,VfL Bochum,1.6
+Marcel Schuhen,31,Goalkeeper,Germany,SV Darmstadt 98,0.86
+Alexander Brunst,28,Goalkeeper,Germany,SV Darmstadt 98,0.43
+Morten Behrens,27,Goalkeeper,Germany,SV Darmstadt 98,0.27
+Max Wendt,19,Goalkeeper,Germany,SV Darmstadt 98,0.0
+Christoph Klarer,24,Centre-Back,Austria,SV Darmstadt 98,3.21
+Matej Maglica,25,Centre-Back,Croatia,SV Darmstadt 98,2.14
+Clemens Riedel,20,Centre-Back,Germany,SV Darmstadt 98,2.14
+Christoph Zimmermann,31,Centre-Back,Germany,SV Darmstadt 98,1.07
+Jannik Müller,30,Centre-Back,Germany,SV Darmstadt 98,0.86
+Thomas Isherwood,26,Centre-Back,Sweden,SV Darmstadt 98,0.54
+Emir Karic,27,Left-Back,Austria,SV Darmstadt 98,1.07
+Fabian Holland,33,Left-Back,Germany,SV Darmstadt 98,0.54
+Matthias Bader,27,Right-Back,Germany,SV Darmstadt 98,1.93
+Bartol Franjic,24,Defensive Midfield,Croatia,SV Darmstadt 98,1.93
+Andreas Müller,23,Defensive Midfield,Germany,SV Darmstadt 98,0.86
+Klaus Gjasula,34,Defensive Midfield,Albania,SV Darmstadt 98,0.43
+Fabian Nürnberger,24,Central Midfield,Germany,SV Darmstadt 98,2.67
+Fabian Schnellhardt,30,Central Midfield,Germany,SV Darmstadt 98,1.07
+Tobias Kempe,34,Central Midfield,Germany,SV Darmstadt 98,0.54
+Marvin Mehlem,26,Attacking Midfield,Germany,SV Darmstadt 98,2.67
+Julian Justvan,26,Attacking Midfield,Germany,SV Darmstadt 98,1.6
+Mathias Honsak,27,Left Winger,Austria,SV Darmstadt 98,1.28
+Gerrit Holtmann,29,Left Winger,Philippines,SV Darmstadt 98,1.07
+Tim Skarke,27,Right Winger,Germany,SV Darmstadt 98,3.21
+Braydon Manu,27,Right Winger,Ghana,SV Darmstadt 98,1.28
+Oscar Vilhelmsson,20,Centre-Forward,Sweden,SV Darmstadt 98,2.14
+Fraser Hornby,24,Centre-Forward,Scotland,SV Darmstadt 98,1.28
+Luca Pfeiffer,27,Centre-Forward,Germany,SV Darmstadt 98,1.28
+Aaron Seydel,28,Centre-Forward,Germany,SV Darmstadt 98,0.54
+Sebastian Polter,33,Centre-Forward,Germany,SV Darmstadt 98,0.54
+Fabio Torsiello,19,Centre-Forward,Germany,SV Darmstadt 98,0.54
