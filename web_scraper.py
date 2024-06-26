@@ -66,3 +66,16 @@ for url in links:
             usd_value = convert_to_usd(euro_value)
             ValuesList.append(float(usd_value))
     count+=1 #change team name after each
+
+final_df = pd.DataFrame({
+            "Player": PlayerList,
+            "Age": AgeList,
+            "Position": PositionsList,
+            "Nation": NationList,
+            "Team": TeamsList,
+            "Value": ValuesList
+})
+
+print(len(PlayerList))
+
+final_df.to_csv('player_info_table.csv', index=False)
