@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import links
+from functions import *
 
 '''
 Webscraping for data to populate the database
@@ -58,5 +59,10 @@ for url in links:
             PositionsList.append(position)
     for i in range (2, len(players_name)*3, 3):
         NationList.append(str(players_nationality[i]).split('title="', 1)[1].split('"/', 1)[0])
-    
+
+    for value in players_value:
+        euro_value = value.get_text(strip=True)
+        if euro_value != '-':
+            usd_value = convert_to_usd(euro_value)
+            ValuesList.append(float(usd_value))
     count+=1 #change team name after each
