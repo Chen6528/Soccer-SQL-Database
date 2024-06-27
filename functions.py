@@ -1,6 +1,5 @@
 import mysql.connector
 
-
 def convert_to_usd(value, conversion_rate=1.07):
     value = value.replace('€', '').strip()
     factor = 1
@@ -30,7 +29,7 @@ def connect_to_database(user, password, host, database):
 
 def query_value_desc(cursor, window):
     query = ''' 
-            SELECT player_name, age, nation, team, market_value 
+            SELECT player_name, age, position, nation, team, market_value 
             FROM player_stats 
             ORDER BY market_value DESC 
             LIMIT 300
@@ -41,7 +40,7 @@ def query_value_desc(cursor, window):
 
 def query_value_incr(cursor, window):
     query = ''' 
-            SELECT player_name, age, nation, team, market_value 
+            SELECT player_name, age, position, nation, team, market_value 
             FROM player_stats 
             WHERE market_value > 0
             ORDER BY market_value ASC 
@@ -52,7 +51,7 @@ def query_value_incr(cursor, window):
 
 def query_normal(cursor, window):
     query = ''' 
-            SELECT player_name, age, nation, team, market_value 
+            SELECT player_name, age, position, nation, team, market_value 
             FROM player_stats 
             '''
     cursor.execute(query)
@@ -60,11 +59,17 @@ def query_normal(cursor, window):
 
 def query_search(cursor, window, input_picked):
     query = ''' 
-            SELECT player_name, age, nation, team, market_value 
+            SELECT player_name, age, position, nation, team, market_value 
             FROM player_stats 
-            WHERE team = %s
+            WHERE nation LIKE %s OR team LIKE %s OR player_name LIKE %s or position LIKE %s
             '''
-    cursor.execute(query, (input_picked, input_picked)) 
-    rows = cursor.fetchall()
+    search_pattern = f"%{input_picked}%"
+    cursor.execute(query, (search_pattern, search_pattern, search_pattern, search_pattern))
     window.destroy()
-   
+
+def center_window(window, width=600, height=500):
+    screen_width = window.winfo_screenwidth()
+    screen_height = window.winfo_screenheight()
+    x = (screen_width // 2) - (width // 2)
+    y = (screen_height // 2) - (height // 2)
+    window.geometry(f'{width}x{height}+{x}+{y}')
