@@ -14,6 +14,11 @@ COLUMNS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 ```
+## Libraries
+ - mySQL Connector
+ - Beautiful Soup
+ - Tkinter
+ - Pandas Dataframe
 
 ## Database
 
