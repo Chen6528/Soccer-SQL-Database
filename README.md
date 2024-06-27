@@ -2,6 +2,9 @@
 
 This project is a graphical user interface (GUI) application for displaying soccer player statistics. It uses web scraping to gather data from Transfermarkt, stores the data in a MySQL database, and visualizes it using Tkinter. The application provides an interactive way to view and explore soccer player statistics such as player name, age, position, nation, team, and market value.
 
+
+>This database is populated only by data collected from the 2023/2024 Season from top leagues such as: Premier League, La Liga, Bundesliga, Serie A, and Ligue A
+
 ## How to load your CSV file into mySQL
 After you webscraped the data and transferred into a CSV file, go to your terminal:
 ```
