@@ -27,3 +27,44 @@ def connect_to_database(user, password, host, database):
         database=database
     )
     return connection
+
+def query_value_desc(cursor, window):
+    query = ''' 
+            SELECT player_name, age, nation, team, market_value 
+            FROM player_stats 
+            ORDER BY market_value DESC 
+            LIMIT 300
+            '''
+    cursor.execute(query)
+    window.destroy()
+
+
+def query_value_incr(cursor, window):
+    query = ''' 
+            SELECT player_name, age, nation, team, market_value 
+            FROM player_stats 
+            WHERE market_value > 0
+            ORDER BY market_value ASC 
+            LIMIT 300
+            '''
+    cursor.execute(query)
+    window.destroy()
+
+def query_normal(cursor, window):
+    query = ''' 
+            SELECT player_name, age, nation, team, market_value 
+            FROM player_stats 
+            '''
+    cursor.execute(query)
+    window.destroy()
+
+def query_search(cursor, window, input_picked):
+    query = ''' 
+            SELECT player_name, age, nation, team, market_value 
+            FROM player_stats 
+            WHERE team = %s
+            '''
+    cursor.execute(query, (input_picked, input_picked)) 
+    rows = cursor.fetchall()
+    window.destroy()
+   
